@@ -1339,3 +1339,1061 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.04.28-19.06.54:177][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-15.06.54
 [2018.04.28-19.06.54:177][764]LogWorld: Bringing up level for play took: 0.000627
 [2018.04.28-19.06.54:178][764]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.247
+[2018.04.28-19.07.39:017][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.28-19.07.39:053][121]LogSavePackage: Save=20.08ms
+[2018.04.28-19.07.39:053][121]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto8134945494EBB42642F3A01A2A4D832B7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap'
+[2018.04.28-19.07.39:055][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap
+[2018.04.28-19.07.39:061][121]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.067
+[2018.04.28-19.07.39:061][121]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2018.04.28-19.07.47:998][207]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-19.07.48:022][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-19.07.48:023][207]PIE: New page: PIE session: Main (Apr 28, 2018, 11:07:48 AM)
+[2018.04.28-19.07.48:023][207]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-19.07.48:024][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001220s)
+[2018.04.28-19.07.48:025][207]LogAIModule: Creating AISystem for world Main
+[2018.04.28-19.07.48:025][207]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.04.28-19.07.48:025][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002001s)
+[2018.04.28-19.07.48:049][207]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-19.07.48:061][207]LogInit: FAudioDevice initialized.
+[2018.04.28-19.07.48:092][207]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-19.07.48:094][207]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-15.07.48
+[2018.04.28-19.07.48:094][207]LogWorld: Bringing up level for play took: 0.000649
+[2018.04.28-19.07.48:095][207]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.164
+[2018.04.28-19.29.35:246][919]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.28-19.37.00:920][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.033
+[2018.04.28-19.37.00:922][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-19.37.00:966][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-19.37.00:966][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-19.37.01:091][996]LogSavePackage: Save=54.80ms
+[2018.04.28-19.37.01:091][996]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto98F1CE80E420858AF13CAA8B513539514.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto9.uasset'
+[2018.04.28-19.37.01:092][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto9.uasset
+[2018.04.28-19.37.01:092][996]LogFileHelpers: Auto-saving content packages took 0.171
+[2018.04.28-19.38.09:986][863]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.28-19.38.35:539][374]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/bpPlayer.bpPlayer:EventGraph.K2Node_CallFunction_263 or K2Node_CallFunction /Game/Blueprints/bpPlayer.bpPlayer:EventGraph.K2Node_CallFunction_263
+[2018.04.28-19.45.10:319][826]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-19.45.10:812][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.45.10:905][826]LogSavePackage: Save=68.91ms
+[2018.04.28-19.45.10:905][826]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerE6A499AC461D5A6317DBBF96CFDBBF6C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.45.10:910][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.45.11:441][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.45.11:506][851]LogSavePackage: Save=59.21ms
+[2018.04.28-19.45.11:506][851]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer553ACFCF4C5C50FBF124209398A637EB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.45.11:507][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.46.21:402][840]LogEditorTransaction: Undo Create Pin Link
+[2018.04.28-19.46.21:779][857]LogEditorTransaction: Undo Create Pin Link
+[2018.04.28-19.46.22:072][872]LogEditorTransaction: Undo Create Pin Link
+[2018.04.28-19.46.22:456][894]LogEditorTransaction: Undo Create Pin Link
+[2018.04.28-19.46.22:939][921]LogEditorTransaction: Undo Move Node
+[2018.04.28-19.46.23:234][926]LogEditorTransaction: Undo Create Reroute Node
+[2018.04.28-19.47.02:990][929]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-19.47.03:431][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.47.03:509][929]LogSavePackage: Save=67.59ms
+[2018.04.28-19.47.03:510][929]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerFBE550BD4375E873AEECCC8E0F7FFC13.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.47.03:517][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.47.03:916][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.47.03:979][943]LogSavePackage: Save=57.89ms
+[2018.04.28-19.47.03:979][943]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer8EFA71A34D4D0559D34DC1A06A99A116.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.47.03:981][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.47.08:770][188]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-19.47.08:805][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-19.47.08:806][188]PIE: New page: PIE session: Main (Apr 28, 2018, 11:47:08 AM)
+[2018.04.28-19.47.08:806][188]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-19.47.08:810][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003695s)
+[2018.04.28-19.47.08:813][188]LogAIModule: Creating AISystem for world Main
+[2018.04.28-19.47.08:814][188]LogPlayLevel: PIE: World Init took: (0.003862s)
+[2018.04.28-19.47.08:814][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007983s)
+[2018.04.28-19.47.08:849][188]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-19.47.08:864][188]LogInit: FAudioDevice initialized.
+[2018.04.28-19.47.08:899][188]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-19.47.08:902][188]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-15.47.08
+[2018.04.28-19.47.08:902][188]LogWorld: Bringing up level for play took: 0.000833
+[2018.04.28-19.47.08:904][188]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.973
+[2018.04.28-19.56.06:011][111]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.032
+[2018.04.28-19.56.06:015][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-19.56.06:037][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-19.56.06:037][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-19.56.06:124][111]LogSavePackage: Save=72.66ms
+[2018.04.28-19.56.06:124][111]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto0F2061CCC4FEE969A4AA010894507566D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto0.uasset'
+[2018.04.28-19.56.06:125][111]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto0.uasset
+[2018.04.28-19.56.06:125][111]LogFileHelpers: Auto-saving content packages took 0.112
+[2018.04.28-19.59.27:266][320]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-19.59.27:731][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.59.28:185][320]LogSavePackage: Save=448.10ms
+[2018.04.28-19.59.28:188][320]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer2E0414A44EF38E1EFD2FF4964D73980F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.59.28:194][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.59.28:952][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-19.59.29:029][355]LogSavePackage: Save=69.96ms
+[2018.04.28-19.59.29:029][355]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerDA6EA1AC45942E88081FCC874771E913.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-19.59.29:030][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-19.59.31:974][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-19.59.32:023][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-19.59.32:023][510]PIE: New page: PIE session: Main (Apr 28, 2018, 11:59:32 AM)
+[2018.04.28-19.59.32:023][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-19.59.32:026][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002162s)
+[2018.04.28-19.59.32:026][510]LogAIModule: Creating AISystem for world Main
+[2018.04.28-19.59.32:027][510]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.04.28-19.59.32:027][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003330s)
+[2018.04.28-19.59.32:075][510]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-19.59.32:124][510]LogInit: FAudioDevice initialized.
+[2018.04.28-19.59.32:157][510]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-19.59.32:159][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-15.59.32
+[2018.04.28-19.59.32:159][510]LogWorld: Bringing up level for play took: 0.000788
+[2018.04.28-19.59.32:177][510]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.246
+[2018.04.28-20.00.09:516][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-20.00.11:888][739]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.28-20.00.11:909][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-20.00.12:038][740]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.04.28-20.00.12:038][740]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-20.00.12:038][740]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.28-20.00.12:038][740]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-20.00.12:038][740]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.28-20.00.12:038][740]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.28-20.00.31:549][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.00.31:622][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.00.31:622][840]PIE: New page: PIE session: Main (Apr 28, 2018, 12:00:31 PM)
+[2018.04.28-20.00.31:622][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.00.31:624][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001940s)
+[2018.04.28-20.00.31:625][840]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.00.31:625][840]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.04.28-20.00.31:625][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003029s)
+[2018.04.28-20.00.31:661][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.00.31:681][840]LogInit: FAudioDevice initialized.
+[2018.04.28-20.00.31:718][840]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.00.31:720][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.00.31
+[2018.04.28-20.00.31:720][840]LogWorld: Bringing up level for play took: 0.000861
+[2018.04.28-20.00.31:722][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.209
+[2018.04.28-20.00.54:919][177]Cmd: SELECT NONE
+[2018.04.28-20.01.17:306][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.02.20:971][ 41]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.02.21:412][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.02.21:500][ 41]LogSavePackage: Save=71.28ms
+[2018.04.28-20.02.21:500][ 41]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer59A6B70349030420A0CBD18298D8162B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.02.21:503][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.02.22:545][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.02.22:621][ 92]LogSavePackage: Save=66.38ms
+[2018.04.28-20.02.22:621][ 92]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer5B6B6BED496FB9F28531BB81F38EF479.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.02.22:622][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.02.24:382][192]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.02.24:419][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.02.24:419][192]PIE: New page: PIE session: Main (Apr 28, 2018, 12:02:24 PM)
+[2018.04.28-20.02.24:419][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.02.24:421][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001496s)
+[2018.04.28-20.02.24:422][192]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.02.24:422][192]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2018.04.28-20.02.24:422][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002926s)
+[2018.04.28-20.02.24:456][192]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.02.24:469][192]LogInit: FAudioDevice initialized.
+[2018.04.28-20.02.24:501][192]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.02.24:502][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.02.24
+[2018.04.28-20.02.24:503][192]LogWorld: Bringing up level for play took: 0.000725
+[2018.04.28-20.02.24:504][192]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.573
+[2018.04.28-20.02.33:875][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.03.15:013][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.03.15:037][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.03.15:037][ 69]PIE: New page: PIE session: Main (Apr 28, 2018, 12:03:15 PM)
+[2018.04.28-20.03.15:037][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.03.15:039][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001282s)
+[2018.04.28-20.03.15:039][ 69]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.03.15:039][ 69]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2018.04.28-20.03.15:039][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002121s)
+[2018.04.28-20.03.15:064][ 69]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.03.15:078][ 69]LogInit: FAudioDevice initialized.
+[2018.04.28-20.03.15:150][ 69]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.03.15:151][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.03.15
+[2018.04.28-20.03.15:152][ 69]LogWorld: Bringing up level for play took: 0.000877
+[2018.04.28-20.03.15:160][ 69]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.771
+[2018.04.28-20.03.27:056][722]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-20.03.33:474][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.03.33:498][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.03.33:499][ 99]PIE: New page: PIE session: Main (Apr 28, 2018, 12:03:33 PM)
+[2018.04.28-20.03.33:499][ 99]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.03.33:500][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001284s)
+[2018.04.28-20.03.33:501][ 99]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.03.33:501][ 99]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.04.28-20.03.33:501][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002026s)
+[2018.04.28-20.03.33:527][ 99]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.03.33:540][ 99]LogInit: FAudioDevice initialized.
+[2018.04.28-20.03.33:607][ 99]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.03.33:609][ 99]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.03.33
+[2018.04.28-20.03.33:609][ 99]LogWorld: Bringing up level for play took: 0.000695
+[2018.04.28-20.03.33:617][ 99]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.314
+[2018.04.28-20.03.51:058][ 76]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-20.04.46:869][392]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.04.47:261][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.04.47:337][392]LogSavePackage: Save=69.91ms
+[2018.04.28-20.04.47:337][392]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer82A26F1B4186EE446C63A9AD788CE739.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.04.47:341][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.04.47:687][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.04.47:755][405]LogSavePackage: Save=61.14ms
+[2018.04.28-20.04.47:755][405]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerBCF5F03B4078389B56F43C9294FE88F0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.04.47:756][405]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.04.48:829][467]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.04.48:854][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.04.48:854][467]PIE: New page: PIE session: Main (Apr 28, 2018, 12:04:48 PM)
+[2018.04.28-20.04.48:854][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.04.48:855][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001486s)
+[2018.04.28-20.04.48:856][467]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.04.48:856][467]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.04.28-20.04.48:856][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002348s)
+[2018.04.28-20.04.48:882][467]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.04.48:895][467]LogInit: FAudioDevice initialized.
+[2018.04.28-20.04.48:959][467]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.04.48:960][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.04.48
+[2018.04.28-20.04.48:960][467]LogWorld: Bringing up level for play took: 0.000647
+[2018.04.28-20.04.48:968][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.037
+[2018.04.28-20.04.52:843][639]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-20.07.09:986][174]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.28-20.07.10:152][175]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.04.28-20.07.10:152][175]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-20.07.10:152][175]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.28-20.07.10:152][175]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-20.07.10:152][175]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.28-20.07.10:152][175]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.28-20.07.37:577][710]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.07.37:618][710]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-20.07.37:650][710]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.04.28-20.07.38:142][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.07.38:245][710]LogSavePackage: Save=85.63ms
+[2018.04.28-20.07.38:245][710]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer8FBCA5644D1F3CF7FF46618F19291B1D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.07.38:248][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.07.38:286][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 667 ms (1 blueprints)
+[2018.04.28-20.07.38:286][710]PIE: New page: PIE session: Main (Apr 28, 2018, 12:07:38 PM)
+[2018.04.28-20.07.38:287][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.07.38:289][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002216s)
+[2018.04.28-20.07.38:290][710]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.07.38:290][710]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.04.28-20.07.38:290][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003399s)
+[2018.04.28-20.07.38:324][710]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.07.38:344][710]LogInit: FAudioDevice initialized.
+[2018.04.28-20.07.38:386][710]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.07.38:387][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.07.38
+[2018.04.28-20.07.38:387][710]LogWorld: Bringing up level for play took: 0.000586
+[2018.04.28-20.07.38:389][710]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.457
+[2018.04.28-20.10.16:044][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.10.16:071][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.10.16:071][700]PIE: New page: PIE session: Main (Apr 28, 2018, 12:10:16 PM)
+[2018.04.28-20.10.16:071][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.10.16:073][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001459s)
+[2018.04.28-20.10.16:073][700]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.10.16:074][700]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.04.28-20.10.16:074][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002410s)
+[2018.04.28-20.10.16:101][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.10.16:115][700]LogInit: FAudioDevice initialized.
+[2018.04.28-20.10.16:185][700]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.10.16:187][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.10.16
+[2018.04.28-20.10.16:187][700]LogWorld: Bringing up level for play took: 0.001372
+[2018.04.28-20.10.16:194][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.264
+[2018.04.28-20.10.17:043][740]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 817
+[2018.04.28-20.10.17:043][740]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.11.21:433][740]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-20.11.24:611][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.020
+[2018.04.28-20.11.24:613][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-20.11.24:613][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-20.11.24:683][918]LogSavePackage: Save=64.37ms
+[2018.04.28-20.11.24:683][918]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto1A5CD64C040BA802CFACA35B2F5E2CB08.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto1.uasset'
+[2018.04.28-20.11.24:684][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto1.uasset
+[2018.04.28-20.11.24:684][918]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.04.28-20.11.49:700][396]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.11.49:724][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.11.49:724][396]PIE: New page: PIE session: Main (Apr 28, 2018, 12:11:49 PM)
+[2018.04.28-20.11.49:725][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.11.49:726][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2018.04.28-20.11.49:727][396]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.11.49:727][396]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.04.28-20.11.49:727][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002135s)
+[2018.04.28-20.11.49:752][396]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.11.49:765][396]LogInit: FAudioDevice initialized.
+[2018.04.28-20.11.49:829][396]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.11.49:830][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.11.49
+[2018.04.28-20.11.49:830][396]LogWorld: Bringing up level for play took: 0.000650
+[2018.04.28-20.11.49:837][396]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.094
+[2018.04.28-20.12.01:852][ 18]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.01:852][ 18]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.03:693][ 19]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.03:693][ 19]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.06:433][ 20]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.06:433][ 20]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.07:749][ 21]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.07:749][ 21]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.08:318][ 22]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.08:318][ 22]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.08:747][ 23]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.08:747][ 23]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.09:145][ 24]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.09:145][ 24]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.09:487][ 25]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.09:487][ 25]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.09:758][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_K2_SetActorLocation', from offset 976
+[2018.04.28-20.12.09:758][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ReceiveTick
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer
+
+[2018.04.28-20.12.42:855][ 26]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-20.18.36:198][102]LogEditorTransaction: Undo Delete current selection
+[2018.04.28-20.18.46:961][728]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.18.47:452][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.18.47:534][728]LogSavePackage: Save=67.75ms
+[2018.04.28-20.18.47:534][728]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer72B826234E59B00169E268B4B37F1132.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.18.47:537][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.18.48:042][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.18.48:107][752]LogSavePackage: Save=59.07ms
+[2018.04.28-20.18.48:107][752]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer0689CA334E8A2A71CB57CB8DB53AE56D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.18.48:108][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.18.52:061][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.18.52:083][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.18.52:083][983]PIE: New page: PIE session: Main (Apr 28, 2018, 12:18:52 PM)
+[2018.04.28-20.18.52:084][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.18.52:085][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001239s)
+[2018.04.28-20.18.52:085][983]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.18.52:086][983]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.04.28-20.18.52:086][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002055s)
+[2018.04.28-20.18.52:112][983]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.18.52:125][983]LogInit: FAudioDevice initialized.
+[2018.04.28-20.18.52:154][983]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.18.52:156][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.18.52
+[2018.04.28-20.18.52:156][983]LogWorld: Bringing up level for play took: 0.000705
+[2018.04.28-20.18.52:157][983]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.226
+[2018.04.28-20.19.14:321][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.19.53:338][548]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.19.53:740][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.19.53:818][548]LogSavePackage: Save=69.58ms
+[2018.04.28-20.19.53:818][548]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerD76E544C4166BB402C5516B807EADBE1.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.19.53:821][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.19.54:381][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.19.54:446][573]LogSavePackage: Save=60.52ms
+[2018.04.28-20.19.54:446][573]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer0CF2341941ABB5031665C3801D8E5B1C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.19.54:448][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.19.57:903][776]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.19.57:927][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.19.57:927][776]PIE: New page: PIE session: Main (Apr 28, 2018, 12:19:57 PM)
+[2018.04.28-20.19.57:927][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.19.57:930][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002476s)
+[2018.04.28-20.19.57:930][776]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.19.57:931][776]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.04.28-20.19.57:931][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003635s)
+[2018.04.28-20.19.57:960][776]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.19.57:973][776]LogInit: FAudioDevice initialized.
+[2018.04.28-20.19.58:005][776]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.19.58:006][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.19.58
+[2018.04.28-20.19.58:007][776]LogWorld: Bringing up level for play took: 0.000670
+[2018.04.28-20.19.58:008][776]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.077
+[2018.04.28-20.20.09:551][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.20.09:650][465]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.20.09:672][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.20.09:672][465]PIE: New page: PIE session: Main (Apr 28, 2018, 12:20:09 PM)
+[2018.04.28-20.20.09:672][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.20.09:674][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001323s)
+[2018.04.28-20.20.09:674][465]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.20.09:674][465]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.04.28-20.20.09:675][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002094s)
+[2018.04.28-20.20.09:698][465]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.20.09:711][465]LogInit: FAudioDevice initialized.
+[2018.04.28-20.20.09:747][465]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.20.09:749][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.20.09
+[2018.04.28-20.20.09:749][465]LogWorld: Bringing up level for play took: 0.000658
+[2018.04.28-20.20.09:750][465]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.181
+[2018.04.28-20.20.14:578][734]LogEditorViewport: Clicking on Actor (LMB): bpPlayer_C (bpPlayer)
+[2018.04.28-20.20.28:252][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.20.51:166][836]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.20.51:556][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.20.51:630][836]LogSavePackage: Save=67.98ms
+[2018.04.28-20.20.51:630][836]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer25D7C25D4368F860DF2F0B81A6F7A6FF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.20.51:633][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.20.52:086][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.20.52:152][855]LogSavePackage: Save=59.55ms
+[2018.04.28-20.20.52:152][855]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerB80CE1A64FFADE35B7174587DF729B4E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.20.52:154][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.20.53:359][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.20.53:381][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.20.53:381][924]PIE: New page: PIE session: Main (Apr 28, 2018, 12:20:53 PM)
+[2018.04.28-20.20.53:381][924]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.20.53:383][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001312s)
+[2018.04.28-20.20.53:383][924]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.20.53:384][924]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.04.28-20.20.53:384][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002137s)
+[2018.04.28-20.20.53:410][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.20.53:423][924]LogInit: FAudioDevice initialized.
+[2018.04.28-20.20.53:456][924]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.20.53:457][924]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.20.53
+[2018.04.28-20.20.53:457][924]LogWorld: Bringing up level for play took: 0.000650
+[2018.04.28-20.20.53:459][924]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.472
+[2018.04.28-20.21.09:788][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.24.19:727][900]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.24.19:771][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-20.24.19:772][900]PIE: New page: PIE session: Main (Apr 28, 2018, 12:24:19 PM)
+[2018.04.28-20.24.19:772][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.24.19:773][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001558s)
+[2018.04.28-20.24.19:774][900]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.24.19:774][900]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.04.28-20.24.19:774][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002581s)
+[2018.04.28-20.24.19:808][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.24.19:823][900]LogInit: FAudioDevice initialized.
+[2018.04.28-20.24.19:858][900]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.24.19:859][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.24.19
+[2018.04.28-20.24.19:860][900]LogWorld: Bringing up level for play took: 0.000706
+[2018.04.28-20.24.19:861][900]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.07
+[2018.04.28-20.25.14:156][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-20.25.47:096][ 30]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-20.25.47:567][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.25.47:654][ 30]LogSavePackage: Save=72.77ms
+[2018.04.28-20.25.47:654][ 30]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer14A4A35F48B787689BE01BA81D6903BB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.25.47:657][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.25.48:336][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.25.48:406][ 62]LogSavePackage: Save=64.79ms
+[2018.04.28-20.25.48:406][ 62]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer83A629EB47F67F6D175A528287DB1FDD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.25.48:408][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.26.06:500][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-20.26.06:528][ 88]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-20.26.06:549][ 88]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.04.28-20.26.06:935][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-20.26.07:018][ 88]LogSavePackage: Save=75.70ms
+[2018.04.28-20.26.07:018][ 88]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer40943EA74F630810E43C66B7A9D5553C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-20.26.07:021][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-20.26.07:053][ 88]LogPlayLevel: PlayLevel: Blueprint regeneration took 524 ms (1 blueprints)
+[2018.04.28-20.26.07:053][ 88]PIE: New page: PIE session: Main (Apr 28, 2018, 12:26:07 PM)
+[2018.04.28-20.26.07:053][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-20.26.07:055][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001393s)
+[2018.04.28-20.26.07:055][ 88]LogAIModule: Creating AISystem for world Main
+[2018.04.28-20.26.07:055][ 88]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2018.04.28-20.26.07:055][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002294s)
+[2018.04.28-20.26.07:086][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-20.26.07:102][ 88]LogInit: FAudioDevice initialized.
+[2018.04.28-20.26.07:135][ 88]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-20.26.07:136][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-16.26.07
+[2018.04.28-20.26.07:136][ 88]LogWorld: Bringing up level for play took: 0.000614
+[2018.04.28-20.26.07:138][ 88]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.206
+[2018.04.28-20.26.21:777][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.14.25:974][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.034
+[2018.04.28-21.14.25:976][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-21.14.26:017][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-21.14.26:017][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-21.14.26:127][197]LogSavePackage: Save=92.69ms
+[2018.04.28-21.14.26:128][197]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto263B25E9A4BA31D214A5DB78E901582CB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto2.uasset'
+[2018.04.28-21.14.26:129][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto2.uasset
+[2018.04.28-21.14.26:129][197]LogFileHelpers: Auto-saving content packages took 0.154
+[2018.04.28-21.24.26:316][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.031
+[2018.04.28-21.24.26:318][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-21.24.26:344][714]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-21.24.26:344][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-21.24.26:451][714]LogSavePackage: Save=91.60ms
+[2018.04.28-21.24.26:451][714]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto32D8E09CF4ADBF99097C607B5275D876E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto3.uasset'
+[2018.04.28-21.24.26:452][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto3.uasset
+[2018.04.28-21.24.26:452][714]LogFileHelpers: Auto-saving content packages took 0.135
+[2018.04.28-21.29.58:821][ 39]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.28-21.30.49:682][ 65]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.30.50:255][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.30.50:369][ 65]LogSavePackage: Save=98.18ms
+[2018.04.28-21.30.50:369][ 65]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer7A2AF89C47C48BC636675C9FA5B41454.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.30.50:376][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.30.50:848][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.30.50:940][ 89]LogSavePackage: Save=86.17ms
+[2018.04.28-21.30.50:940][ 89]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerE183F8CD43177B869126698916D6EAA6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.30.50:942][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.30.53:441][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.28-21.30.53:516][227]LogSavePackage: Save=21.60ms
+[2018.04.28-21.30.53:516][227]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main855C183145BEB32EE8888B9F12103C7A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.04.28-21.30.53:522][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.04.28-21.30.53:602][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.04.28-21.30.53:697][227]LogSavePackage: Save=28.03ms
+[2018.04.28-21.30.53:697][227]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataE5BF06D240817C6A3150DA8C8E8A03BA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.04.28-21.30.53:700][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.04.28-21.31.26:624][119]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.31.27:123][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.31.27:227][119]LogSavePackage: Save=95.81ms
+[2018.04.28-21.31.27:227][119]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerFB3F11DB487FA425EC381F900BF2EA8A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.31.27:232][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.31.29:388][235]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.31.29:428][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.31.29:428][235]PIE: New page: PIE session: Main (Apr 28, 2018, 1:31:29 PM)
+[2018.04.28-21.31.29:428][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.31.29:432][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2018.04.28-21.31.29:434][235]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.31.29:434][235]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2018.04.28-21.31.29:434][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006388s)
+[2018.04.28-21.31.29:475][235]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.31.29:495][235]LogInit: FAudioDevice initialized.
+[2018.04.28-21.31.29:537][235]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.31.29:538][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.31.29
+[2018.04.28-21.31.29:538][235]LogWorld: Bringing up level for play took: 0.000741
+[2018.04.28-21.31.29:611][235]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.32
+[2018.04.28-21.31.30:872][292]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=417.324] for [bpPlayer_C]
+[2018.04.28-21.31.30:881][293]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=361.126] for [bpPlayer_C]
+[2018.04.28-21.31.30:899][294]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=428.091] for [bpPlayer_C]
+[2018.04.28-21.31.31:035][302]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=351.607] for [bpPlayer_C]
+[2018.04.28-21.31.31:052][303]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=409.389] for [bpPlayer_C]
+[2018.04.28-21.31.31:069][304]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=349.770] for [bpPlayer_C]
+[2018.04.28-21.31.31:187][311]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=343.446] for [bpPlayer_C]
+[2018.04.28-21.31.31:204][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=362.609] for [bpPlayer_C]
+[2018.04.28-21.31.31:219][313]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=395.559] for [bpPlayer_C]
+[2018.04.28-21.31.31:238][314]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=419.366] for [bpPlayer_C]
+[2018.04.28-21.31.31:573][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=303.506] for [bpPlayer_C]
+[2018.04.28-21.31.31:586][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=431.419] for [bpPlayer_C]
+[2018.04.28-21.31.31:603][334]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=391.496] for [bpPlayer_C]
+[2018.04.28-21.31.31:626][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=392.594] for [bpPlayer_C]
+[2018.04.28-21.31.31:644][336]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2530.000 Z=327.937] for [bpPlayer_C]
+[2018.04.28-21.31.32:925][405]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2445.885 Z=584.403] for [bpPlayer_C]
+[2018.04.28-21.31.32:950][406]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2419.897 Z=597.225] for [bpPlayer_C]
+[2018.04.28-21.31.32:966][407]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2386.340 Z=516.083] for [bpPlayer_C]
+[2018.04.28-21.31.32:983][408]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2350.575 Z=574.594] for [bpPlayer_C]
+[2018.04.28-21.31.33:002][409]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2312.750 Z=528.137] for [bpPlayer_C]
+[2018.04.28-21.31.33:101][415]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2049.060 Z=297.486] for [bpPlayer_C]
+[2018.04.28-21.31.33:118][416]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1999.663 Z=248.376] for [bpPlayer_C]
+[2018.04.28-21.31.33:137][417]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1949.116 Z=316.925] for [bpPlayer_C]
+[2018.04.28-21.31.33:151][418]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1897.493 Z=200.048] for [bpPlayer_C]
+[2018.04.28-21.31.33:170][419]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1844.868 Z=150.517] for [bpPlayer_C]
+[2018.04.28-21.31.33:285][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1453.455 Z=89.354] for [bpPlayer_C]
+[2018.04.28-21.31.33:303][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1394.866 Z=162.932] for [bpPlayer_C]
+[2018.04.28-21.31.33:317][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1335.739 Z=91.777] for [bpPlayer_C]
+[2018.04.28-21.31.33:338][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1276.108 Z=72.685] for [bpPlayer_C]
+[2018.04.28-21.31.33:350][430]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1216.009 Z=13.240] for [bpPlayer_C]
+[2018.04.28-21.31.33:370][431]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1155.472 Z=41.334] for [bpPlayer_C]
+[2018.04.28-21.31.33:473][437]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-789.145 Z=202.005] for [bpPlayer_C]
+[2018.04.28-21.31.33:488][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-734.989 Z=153.871] for [bpPlayer_C]
+[2018.04.28-21.31.33:503][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-685.005 Z=227.773] for [bpPlayer_C]
+[2018.04.28-21.31.33:521][440]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-638.354 Z=179.640] for [bpPlayer_C]
+[2018.04.28-21.31.33:537][441]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-594.814 Z=284.313] for [bpPlayer_C]
+[2018.04.28-21.31.33:554][442]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-554.176 Z=255.581] for [bpPlayer_C]
+[2018.04.28-21.31.33:570][443]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-520.691 Z=284.700] for [bpPlayer_C]
+[2018.04.28-21.31.33:688][450]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-450.299 Z=693.413] for [bpPlayer_C]
+[2018.04.28-21.31.33:704][451]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-459.297 Z=651.151] for [bpPlayer_C]
+[2018.04.28-21.31.33:720][452]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-472.140 Z=767.525] for [bpPlayer_C]
+[2018.04.28-21.31.33:737][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-488.571 Z=759.898] for [bpPlayer_C]
+[2018.04.28-21.31.33:753][454]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-508.352 Z=770.858] for [bpPlayer_C]
+[2018.04.28-21.31.33:770][455]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-531.258 Z=827.212] for [bpPlayer_C]
+[2018.04.28-21.31.33:856][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-685.851 Z=928.737] for [bpPlayer_C]
+[2018.04.28-21.31.33:873][461]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-723.592 Z=991.318] for [bpPlayer_C]
+[2018.04.28-21.31.33:889][462]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-764.341 Z=1036.778] for [bpPlayer_C]
+[2018.04.28-21.31.33:908][463]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-806.819 Z=1059.520] for [bpPlayer_C]
+[2018.04.28-21.31.33:922][464]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-850.909 Z=1057.684] for [bpPlayer_C]
+[2018.04.28-21.31.33:942][465]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-896.505 Z=1032.648] for [bpPlayer_C]
+[2018.04.28-21.31.34:027][470]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1143.971 Z=1080.335] for [bpPlayer_C]
+[2018.04.28-21.31.34:039][471]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1196.799 Z=1022.887] for [bpPlayer_C]
+[2018.04.28-21.31.34:058][472]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1250.550 Z=1055.552] for [bpPlayer_C]
+[2018.04.28-21.31.34:079][473]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1305.161 Z=914.365] for [bpPlayer_C]
+[2018.04.28-21.31.34:097][474]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1362.024 Z=933.489] for [bpPlayer_C]
+[2018.04.28-21.31.34:117][475]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1420.291 Z=873.245] for [bpPlayer_C]
+[2018.04.28-21.31.34:218][481]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1786.642 Z=657.024] for [bpPlayer_C]
+[2018.04.28-21.31.34:234][482]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1848.934 Z=664.096] for [bpPlayer_C]
+[2018.04.28-21.31.34:249][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1911.518 Z=537.946] for [bpPlayer_C]
+[2018.04.28-21.31.34:271][484]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1974.375 Z=483.413] for [bpPlayer_C]
+[2018.04.28-21.31.34:406][492]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2319.238 Z=94.309] for [bpPlayer_C]
+[2018.04.28-21.31.34:418][493]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2336.629 Z=38.155] for [bpPlayer_C]
+[2018.04.28-21.31.34:437][494]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2348.417 Z=46.864] for [bpPlayer_C]
+[2018.04.28-21.31.34:451][495]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2354.974 Z=-99.018] for [bpPlayer_C]
+[2018.04.28-21.31.34:469][496]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2356.649 Z=-135.835] for [bpPlayer_C]
+[2018.04.28-21.31.34:485][497]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2353.767 Z=-202.295] for [bpPlayer_C]
+[2018.04.28-21.31.34:587][503]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2256.460 Z=-330.786] for [bpPlayer_C]
+[2018.04.28-21.31.34:602][504]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2229.145 Z=-291.886] for [bpPlayer_C]
+[2018.04.28-21.31.34:618][505]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2199.206 Z=-337.078] for [bpPlayer_C]
+[2018.04.28-21.31.34:636][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2166.819 Z=-354.280] for [bpPlayer_C]
+[2018.04.28-21.31.34:651][507]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2132.146 Z=-354.519] for [bpPlayer_C]
+[2018.04.28-21.31.34:671][508]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2095.340 Z=-346.585] for [bpPlayer_C]
+[2018.04.28-21.31.34:685][509]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2056.543 Z=-406.510] for [bpPlayer_C]
+[2018.04.28-21.31.34:805][516]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1739.327 Z=-492.479] for [bpPlayer_C]
+[2018.04.28-21.31.34:818][517]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1688.708 Z=-446.570] for [bpPlayer_C]
+[2018.04.28-21.31.34:837][518]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1637.019 Z=-517.084] for [bpPlayer_C]
+[2018.04.28-21.31.34:852][519]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1584.331 Z=-408.339] for [bpPlayer_C]
+[2018.04.28-21.31.34:985][527]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1134.007 Z=-210.387] for [bpPlayer_C]
+[2018.04.28-21.31.35:002][528]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1074.852 Z=-176.595] for [bpPlayer_C]
+[2018.04.28-21.31.35:018][529]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-1015.197 Z=-61.967] for [bpPlayer_C]
+[2018.04.28-21.31.35:036][530]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-959.518 Z=-103.114] for [bpPlayer_C]
+[2018.04.28-21.31.35:051][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-907.552 Z=-13.096] for [bpPlayer_C]
+[2018.04.28-21.31.35:185][539]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-598.958 Z=422.725] for [bpPlayer_C]
+[2018.04.28-21.31.35:202][540]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-571.030 Z=445.508] for [bpPlayer_C]
+[2018.04.28-21.31.35:219][541]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-549.408 Z=463.753] for [bpPlayer_C]
+[2018.04.28-21.31.35:236][542]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-533.672 Z=550.950] for [bpPlayer_C]
+[2018.04.28-21.31.35:251][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-523.430 Z=574.505] for [bpPlayer_C]
+[2018.04.28-21.31.35:269][544]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-518.316 Z=682.292] for [bpPlayer_C]
+[2018.04.28-21.31.35:352][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-558.457 Z=889.596] for [bpPlayer_C]
+[2018.04.28-21.31.35:370][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-577.675 Z=813.016] for [bpPlayer_C]
+[2018.04.28-21.31.35:386][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-600.590 Z=891.044] for [bpPlayer_C]
+[2018.04.28-21.31.35:405][552]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-626.422 Z=945.384] for [bpPlayer_C]
+[2018.04.28-21.31.35:420][553]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-654.976 Z=881.390] for [bpPlayer_C]
+[2018.04.28-21.31.35:437][554]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-686.437 Z=891.482] for [bpPlayer_C]
+[2018.04.28-21.31.35:454][555]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-720.245 Z=950.621] for [bpPlayer_C]
+[2018.04.28-21.31.37:035][649]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2249.178 Z=-1184.710] for [bpPlayer_C]
+[2018.04.28-21.31.37:051][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2249.403 Z=-1213.710] for [bpPlayer_C]
+[2018.04.28-21.31.37:068][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2249.614 Z=-1139.961] for [bpPlayer_C]
+[2018.04.28-21.31.37:085][652]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2249.811 Z=-1158.695] for [bpPlayer_C]
+[2018.04.28-21.31.37:102][653]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2249.993 Z=-1154.758] for [bpPlayer_C]
+[2018.04.28-21.31.37:120][654]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2250.164 Z=-1269.168] for [bpPlayer_C]
+[2018.04.28-21.31.37:289][664]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.347 Z=-1164.087] for [bpPlayer_C]
+[2018.04.28-21.31.37:303][665]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.426 Z=-1245.261] for [bpPlayer_C]
+[2018.04.28-21.31.37:321][666]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.500 Z=-1280.900] for [bpPlayer_C]
+[2018.04.28-21.31.37:338][667]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.569 Z=-1276.553] for [bpPlayer_C]
+[2018.04.28-21.31.37:354][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.634 Z=-1169.094] for [bpPlayer_C]
+[2018.04.28-21.31.37:371][669]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.694 Z=-1298.953] for [bpPlayer_C]
+[2018.04.28-21.31.37:387][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2251.750 Z=-1251.087] for [bpPlayer_C]
+[2018.04.28-21.31.37:521][678]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.083 Z=-1230.543] for [bpPlayer_C]
+[2018.04.28-21.31.37:538][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.113 Z=-1199.903] for [bpPlayer_C]
+[2018.04.28-21.31.37:553][680]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.141 Z=-1202.405] for [bpPlayer_C]
+[2018.04.28-21.31.37:571][681]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.167 Z=-1274.920] for [bpPlayer_C]
+[2018.04.28-21.31.37:587][682]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.192 Z=-1229.537] for [bpPlayer_C]
+[2018.04.28-21.31.37:604][683]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.215 Z=-1242.958] for [bpPlayer_C]
+[2018.04.28-21.31.37:620][684]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.236 Z=-1200.979] for [bpPlayer_C]
+[2018.04.28-21.31.38:753][752]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.532 Z=-187.045] for [bpPlayer_C]
+[2018.04.28-21.31.38:770][753]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.532 Z=-242.131] for [bpPlayer_C]
+[2018.04.28-21.31.38:787][754]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.533 Z=-227.481] for [bpPlayer_C]
+[2018.04.28-21.31.38:804][755]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.533 Z=-195.018] for [bpPlayer_C]
+[2018.04.28-21.31.38:820][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4500.000 Y=-2252.533 Z=-262.082] for [bpPlayer_C]
+[2018.04.28-21.31.46:168][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.32.06:985][415]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.32.07:483][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.32.07:591][415]LogSavePackage: Save=99.10ms
+[2018.04.28-21.32.07:591][415]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerD7A464EE4931584F045DB3930CBF285A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.32.07:594][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.32.08:285][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.32.08:383][451]LogSavePackage: Save=92.47ms
+[2018.04.28-21.32.08:383][451]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer10284A2B475FEDDD292A1D923857F9A2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.32.08:385][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.32.11:883][637]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.32.11:940][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.32.11:940][637]PIE: New page: PIE session: Main (Apr 28, 2018, 1:32:11 PM)
+[2018.04.28-21.32.11:941][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.32.11:943][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002132s)
+[2018.04.28-21.32.11:944][637]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.32.11:944][637]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.04.28-21.32.11:944][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003355s)
+[2018.04.28-21.32.11:985][637]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.32.12:003][637]LogInit: FAudioDevice initialized.
+[2018.04.28-21.32.12:041][637]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.32.12:042][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.32.12
+[2018.04.28-21.32.12:042][637]LogWorld: Bringing up level for play took: 0.000892
+[2018.04.28-21.32.12:044][637]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.113
+[2018.04.28-21.32.29:803][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.32.29:803][331]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.32.29:835][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.32.29:835][331]PIE: New page: PIE session: Main (Apr 28, 2018, 1:32:29 PM)
+[2018.04.28-21.32.29:836][331]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.32.29:837][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001473s)
+[2018.04.28-21.32.29:838][331]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.32.29:838][331]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.04.28-21.32.29:838][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002410s)
+[2018.04.28-21.32.29:875][331]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.32.29:892][331]LogInit: FAudioDevice initialized.
+[2018.04.28-21.32.29:933][331]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.32.29:934][331]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.32.29
+[2018.04.28-21.32.29:935][331]LogWorld: Bringing up level for play took: 0.000725
+[2018.04.28-21.32.29:936][331]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.005
+[2018.04.28-21.32.39:515][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.32.53:719][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.32.53:743][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.32.53:743][724]PIE: New page: PIE session: Main (Apr 28, 2018, 1:32:53 PM)
+[2018.04.28-21.32.53:743][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.32.53:744][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001229s)
+[2018.04.28-21.32.53:745][724]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.32.53:745][724]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.04.28-21.32.53:745][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002067s)
+[2018.04.28-21.32.53:776][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.32.53:795][724]LogInit: FAudioDevice initialized.
+[2018.04.28-21.32.53:836][724]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.32.53:837][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.32.53
+[2018.04.28-21.32.53:837][724]LogWorld: Bringing up level for play took: 0.000574
+[2018.04.28-21.32.53:839][724]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.092
+[2018.04.28-21.33.04:436][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.33.53:788][137]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.33.54:300][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.33.54:407][137]LogSavePackage: Save=98.79ms
+[2018.04.28-21.33.54:407][137]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer24C70E5A41ADE476F2EAAD9B3100700C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.33.54:414][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.33.54:800][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.33.54:897][150]LogSavePackage: Save=90.94ms
+[2018.04.28-21.33.54:897][150]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer69E280F74D7D94E429C2E5BE755694E3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.33.54:898][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.34.00:080][398]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.34.00:104][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.34.00:104][398]PIE: New page: PIE session: Main (Apr 28, 2018, 1:34:00 PM)
+[2018.04.28-21.34.00:104][398]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.34.00:106][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001297s)
+[2018.04.28-21.34.00:106][398]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.34.00:107][398]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2018.04.28-21.34.00:107][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002511s)
+[2018.04.28-21.34.00:132][398]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.34.00:146][398]LogInit: FAudioDevice initialized.
+[2018.04.28-21.34.00:177][398]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.34.00:178][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.34.00
+[2018.04.28-21.34.00:178][398]LogWorld: Bringing up level for play took: 0.000624
+[2018.04.28-21.34.00:180][398]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.249
+[2018.04.28-21.34.08:052][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.34.35:748][507]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.34.35:772][507]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-21.34.35:802][507]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.04.28-21.34.36:177][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.34.36:272][507]LogSavePackage: Save=89.74ms
+[2018.04.28-21.34.36:272][507]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer0CDC2F0D431DEAEE4FB74DB2B24F6C8C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.34.36:276][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.34.36:300][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 527 ms (1 blueprints)
+[2018.04.28-21.34.36:300][507]PIE: New page: PIE session: Main (Apr 28, 2018, 1:34:36 PM)
+[2018.04.28-21.34.36:300][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.34.36:302][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001219s)
+[2018.04.28-21.34.36:302][507]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.34.36:302][507]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.04.28-21.34.36:302][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001989s)
+[2018.04.28-21.34.36:328][507]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.34.36:340][507]LogInit: FAudioDevice initialized.
+[2018.04.28-21.34.36:402][507]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.34.36:403][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.34.36
+[2018.04.28-21.34.36:403][507]LogWorld: Bringing up level for play took: 0.000721
+[2018.04.28-21.34.36:406][507]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.475
+[2018.04.28-21.34.42:139][802]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-21.34.42:421][803]LogSlate: Took 0.191105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.04.28-21.37.50:080][800]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.04.28-21.37.53:607][970]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.04.28-21.37.53:618][970]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.04.28-21.41.43:669][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.040
+[2018.04.28-21.41.43:676][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-21.41.43:712][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-21.41.43:712][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-21.41.43:823][668]LogSavePackage: Save=97.77ms
+[2018.04.28-21.41.43:824][668]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto46B5F99DB490AEC0104A621AC772E067E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto4.uasset'
+[2018.04.28-21.41.43:825][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto4.uasset
+[2018.04.28-21.41.43:825][668]LogFileHelpers: Auto-saving content packages took 0.151
+[2018.04.28-21.44.47:722][647]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.28-21.49.28:864][ 11]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.49.28:976][ 11]LogBlueprint: Warning: [Compiler bpPlayer] Can't parse default value '4.000000' for  Power Shot Count . Property: PowerShotCount.
+[2018.04.28-21.49.29:456][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.49.29:597][ 11]LogSavePackage: Save=122.43ms
+[2018.04.28-21.49.29:597][ 11]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerED371AE74E586EEF53F9C6B49D0A4DA2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.49.29:603][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.49.29:613][ 11]LogBlueprint: Warning: [Compiler bpPlayer] [4797.26] Compile of bpPlayer successful, but with 1 Warning(s) [in 749 ms] (/Game/Blueprints/bpPlayer.bpPlayer)
+[2018.04.28-21.49.30:059][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.49.30:177][ 33]LogSavePackage: Save=108.05ms
+[2018.04.28-21.49.30:177][ 33]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer5D9DDEAD4E1E4EDF12280B9F8499F10C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.49.30:179][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.49.33:313][189]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.49.33:375][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.49.33:375][189]PIE: New page: PIE session: Main (Apr 28, 2018, 1:49:33 PM)
+[2018.04.28-21.49.33:375][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.49.33:379][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003211s)
+[2018.04.28-21.49.33:379][189]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.49.33:380][189]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.04.28-21.49.33:380][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004416s)
+[2018.04.28-21.49.33:423][189]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.49.33:449][189]LogInit: FAudioDevice initialized.
+[2018.04.28-21.49.33:492][189]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.49.33:494][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.49.33
+[2018.04.28-21.49.33:494][189]LogWorld: Bringing up level for play took: 0.000936
+[2018.04.28-21.49.33:496][189]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.435
+[2018.04.28-21.49.36:982][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.49.52:341][233]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.49.52:370][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.49.52:370][233]PIE: New page: PIE session: Main (Apr 28, 2018, 1:49:52 PM)
+[2018.04.28-21.49.52:370][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.49.52:372][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2018.04.28-21.49.52:373][233]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.49.52:373][233]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.04.28-21.49.52:373][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002896s)
+[2018.04.28-21.49.52:406][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.49.52:419][233]LogInit: FAudioDevice initialized.
+[2018.04.28-21.49.52:451][233]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.49.52:452][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.49.52
+[2018.04.28-21.49.52:452][233]LogWorld: Bringing up level for play took: 0.000610
+[2018.04.28-21.49.52:453][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.522
+[2018.04.28-21.50.10:903][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.50.32:132][505]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.50.32:605][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.50.32:726][505]LogSavePackage: Save=114.02ms
+[2018.04.28-21.50.32:726][505]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer9BA980B24D6C3A2DFB4C9DAFFA9897D9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.50.32:730][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.50.33:047][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.50.33:151][519]LogSavePackage: Save=98.32ms
+[2018.04.28-21.50.33:151][519]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer54A574B54633A852052D55AF44D2C95F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.50.33:152][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.50.34:679][604]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.50.34:736][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.50.34:737][604]PIE: New page: PIE session: Main (Apr 28, 2018, 1:50:34 PM)
+[2018.04.28-21.50.34:737][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.50.34:739][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2018.04.28-21.50.34:740][604]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.50.34:740][604]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2018.04.28-21.50.34:740][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003267s)
+[2018.04.28-21.50.34:784][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.50.34:803][604]LogInit: FAudioDevice initialized.
+[2018.04.28-21.50.34:846][604]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.50.34:849][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.50.34
+[2018.04.28-21.50.34:850][604]LogWorld: Bringing up level for play took: 0.001848
+[2018.04.28-21.50.34:853][604]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.921
+[2018.04.28-21.50.46:136][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.50.59:419][964]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.50.59:915][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.51.00:042][964]LogSavePackage: Save=120.58ms
+[2018.04.28-21.51.00:042][964]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer59E884E1405CFD8D612173B921A2DA9B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.51.00:046][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.51.00:458][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.51.00:576][983]LogSavePackage: Save=112.43ms
+[2018.04.28-21.51.00:576][983]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer969BBDCA40875214F5066EB44A4EBB68.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.51.00:577][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.54.36:708][753]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.54.36:820][753]LogBlueprint: Error: [Compiler bpPlayer] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.28-21.54.36:820][753]LogBlueprint: Error: [Compiler bpPlayer] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.28-21.54.37:098][753]LogBlueprint: Warning: [Compiler bpPlayer] [5104.75] Compile of bpPlayer failed. 2 Fatal Issue(s) 0 Warning(s) [in 389 ms] (/Game/Blueprints/bpPlayer.bpPlayer)
+[2018.04.28-21.54.37:666][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.54.37:812][781]LogSavePackage: Save=121.77ms
+[2018.04.28-21.54.37:812][781]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer106D54774311676EF78E5EB644540A0D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.54.37:816][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.55.28:188][644]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.55.28:300][644]LogBlueprint: Error: [Compiler bpPlayer] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.28-21.55.28:300][644]LogBlueprint: Error: [Compiler bpPlayer] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.28-21.55.28:508][644]LogBlueprint: Warning: [Compiler bpPlayer] [5156.16] Compile of bpPlayer failed. 2 Fatal Issue(s) 0 Warning(s) [in 320 ms] (/Game/Blueprints/bpPlayer.bpPlayer)
+[2018.04.28-21.55.57:494][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.022
+[2018.04.28-21.55.57:497][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-21.55.57:517][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-21.55.57:517][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-21.55.57:680][217]LogSavePackage: Save=156.58ms
+[2018.04.28-21.55.57:680][217]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto52266AF9A425D9E77B6905C9C56515F96.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto5.uasset'
+[2018.04.28-21.55.57:682][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto5.uasset
+[2018.04.28-21.55.57:682][217]LogFileHelpers: Auto-saving content packages took 0.186
+[2018.04.28-21.56.26:650][926]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.56.26:965][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.56.27:089][926]LogSavePackage: Save=113.47ms
+[2018.04.28-21.56.27:089][926]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer79109A3543E686FAF319169A504E9A80.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.56.27:092][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.56.27:668][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.56.27:776][956]LogSavePackage: Save=102.62ms
+[2018.04.28-21.56.27:776][956]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer42C6CDF7478680BFEF848D87F9E1FEA0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.56.27:778][956]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.56.35:065][234]LogSlate: Window 'Rocket Fire' being destroyed
+[2018.04.28-21.57.51:235][627]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.57.51:275][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.57.51:275][627]PIE: New page: PIE session: Main (Apr 28, 2018, 1:57:51 PM)
+[2018.04.28-21.57.51:275][627]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.57.51:277][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001674s)
+[2018.04.28-21.57.51:279][627]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.57.51:279][627]LogPlayLevel: PIE: World Init took: (0.001834s)
+[2018.04.28-21.57.51:279][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003785s)
+[2018.04.28-21.57.51:311][627]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.57.51:327][627]LogInit: FAudioDevice initialized.
+[2018.04.28-21.57.51:359][627]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.57.51:360][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.57.51
+[2018.04.28-21.57.51:360][627]LogWorld: Bringing up level for play took: 0.000600
+[2018.04.28-21.57.51:362][627]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.569
+[2018.04.28-21.58.03:528][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.58.11:227][604]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.58.11:252][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.58.11:252][604]PIE: New page: PIE session: Main (Apr 28, 2018, 1:58:11 PM)
+[2018.04.28-21.58.11:252][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.58.11:254][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001410s)
+[2018.04.28-21.58.11:254][604]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.58.11:255][604]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.04.28-21.58.11:255][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002266s)
+[2018.04.28-21.58.11:280][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.58.11:293][604]LogInit: FAudioDevice initialized.
+[2018.04.28-21.58.11:329][604]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.58.11:330][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.58.11
+[2018.04.28-21.58.11:330][604]LogWorld: Bringing up level for play took: 0.000677
+[2018.04.28-21.58.11:332][604]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.599
+[2018.04.28-21.58.15:793][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-21.58.25:165][416]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.58.25:191][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.58.25:191][416]PIE: New page: PIE session: Main (Apr 28, 2018, 1:58:25 PM)
+[2018.04.28-21.58.25:191][416]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.58.25:192][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001522s)
+[2018.04.28-21.58.25:193][416]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.58.25:193][416]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.04.28-21.58.25:193][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002412s)
+[2018.04.28-21.58.25:219][416]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.58.25:232][416]LogInit: FAudioDevice initialized.
+[2018.04.28-21.58.25:294][416]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.58.25:295][416]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.58.25
+[2018.04.28-21.58.25:296][416]LogWorld: Bringing up level for play took: 0.000784
+[2018.04.28-21.58.25:299][416]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.632
+[2018.04.28-21.58.37:732][116]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.28-21.58.49:668][814]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-21.58.50:144][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.58.50:261][814]LogSavePackage: Save=111.22ms
+[2018.04.28-21.58.50:262][814]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerB314380B44A42416B13031BC15EBC40C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.58.50:265][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.58.50:577][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-21.58.50:685][828]LogSavePackage: Save=102.02ms
+[2018.04.28-21.58.50:685][828]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer096545284B5F4E673397509166435E47.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-21.58.50:687][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-21.58.52:140][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-21.58.52:165][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-21.58.52:165][913]PIE: New page: PIE session: Main (Apr 28, 2018, 1:58:52 PM)
+[2018.04.28-21.58.52:165][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-21.58.52:167][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2018.04.28-21.58.52:167][913]LogAIModule: Creating AISystem for world Main
+[2018.04.28-21.58.52:167][913]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.04.28-21.58.52:167][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002106s)
+[2018.04.28-21.58.52:200][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-21.58.52:216][913]LogInit: FAudioDevice initialized.
+[2018.04.28-21.58.52:252][913]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-21.58.52:254][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-17.58.52
+[2018.04.28-21.58.52:254][913]LogWorld: Bringing up level for play took: 0.001576
+[2018.04.28-21.58.52:256][913]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.325
+[2018.04.28-21.58.53:804][  0]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.53:804][  0]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.53:804][  0]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.53:804][  0]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.53:805][  0]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.53:805][  0]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.53:805][  0]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.53:805][  0]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.56:075][136]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.56:075][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.56:075][136]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.56:075][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.56:076][136]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.56:076][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.56:076][136]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.56:076][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.57:975][250]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.57:975][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.57:975][250]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.57:975][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.57:976][250]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-21.58.57:976][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.57:976][250]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-21.58.57:976][250]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-21.58.59:435][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-22.01.00:445][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.01.00:587][983]LogSavePackage: Save=125.56ms
+[2018.04.28-22.01.00:587][983]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer404202FC4DEE573FF449EABA7D467683.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.01.00:591][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.01.05:181][226]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-22.01.05:231][226]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-22.01.05:288][226]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.04.28-22.01.05:807][226]LogPlayLevel: PlayLevel: Blueprint regeneration took 576 ms (1 blueprints)
+[2018.04.28-22.01.05:808][226]PIE: New page: PIE session: Main (Apr 28, 2018, 2:01:05 PM)
+[2018.04.28-22.01.05:808][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-22.01.05:810][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001910s)
+[2018.04.28-22.01.05:811][226]LogAIModule: Creating AISystem for world Main
+[2018.04.28-22.01.05:811][226]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2018.04.28-22.01.05:811][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003133s)
+[2018.04.28-22.01.05:848][226]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-22.01.05:861][226]LogInit: FAudioDevice initialized.
+[2018.04.28-22.01.05:905][226]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-22.01.05:906][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-18.01.05
+[2018.04.28-22.01.05:906][226]LogWorld: Bringing up level for play took: 0.000815
+[2018.04.28-22.01.05:908][226]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.024
+[2018.04.28-22.01.06:561][259]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-22.01.06:562][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-22.01.06:562][259]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-22.01.06:562][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-22.01.06:563][259]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0147
+[2018.04.28-22.01.06:563][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-22.01.06:563][259]LogScript: Warning: Accessed None trying to read property Spawn Location
+	bpPlayer_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.bpPlayer_C_0
+	Function /Game/Blueprints/bpPlayer.bpPlayer_C:RocketFire:0335
+[2018.04.28-22.01.06:563][259]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Spawn Location from function: 'RocketFire' from node: SpawnActor Bp Player in graph: RocketFire in object: bpPlayer with description: Accessed None trying to read property Spawn Location
+[2018.04.28-22.01.08:621][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-22.02.06:177][641]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-22.02.06:730][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.02.06:850][641]LogSavePackage: Save=112.92ms
+[2018.04.28-22.02.06:850][641]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerF16E3FB94F866D88F246388137DEE27B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.02.06:853][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.02.07:149][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.02.07:257][651]LogSavePackage: Save=102.70ms
+[2018.04.28-22.02.07:257][651]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer1D5A39A4454CAB092C5DAD9917BE211D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.02.07:258][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.02.08:262][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.02.08:372][710]LogSavePackage: Save=103.16ms
+[2018.04.28-22.02.08:372][710]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerBC781388443299BFDDB3EF8879BA8AD1.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.02.08:373][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.02.09:784][794]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-22.02.09:816][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-22.02.09:816][794]PIE: New page: PIE session: Main (Apr 28, 2018, 2:02:09 PM)
+[2018.04.28-22.02.09:816][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-22.02.09:818][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001941s)
+[2018.04.28-22.02.09:819][794]LogAIModule: Creating AISystem for world Main
+[2018.04.28-22.02.09:819][794]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.04.28-22.02.09:819][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003038s)
+[2018.04.28-22.02.09:855][794]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-22.02.09:874][794]LogInit: FAudioDevice initialized.
+[2018.04.28-22.02.09:908][794]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-22.02.09:909][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-18.02.09
+[2018.04.28-22.02.09:910][794]LogWorld: Bringing up level for play took: 0.000896
+[2018.04.28-22.02.09:911][794]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.02
+[2018.04.28-22.06.07:762][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-22.06.59:259][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.032
+[2018.04.28-22.06.59:262][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-22.06.59:302][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-22.06.59:302][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-22.06.59:445][922]LogSavePackage: Save=121.71ms
+[2018.04.28-22.06.59:445][922]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto6C9D3F6EE4ABC784D989A9B9FA38786C5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto6.uasset'
+[2018.04.28-22.06.59:447][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto6.uasset
+[2018.04.28-22.06.59:447][922]LogFileHelpers: Auto-saving content packages took 0.186
+[2018.04.28-22.12.33:699][ 24]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-22.12.34:351][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.12.34:503][ 24]LogSavePackage: Save=136.39ms
+[2018.04.28-22.12.34:503][ 24]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerF7647E134A983EC8A92E2EA6220163E0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.12.34:506][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.12.35:124][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-22.12.35:252][ 51]LogSavePackage: Save=121.26ms
+[2018.04.28-22.12.35:252][ 51]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer6D9A116B4175D18A78D203915CC6904B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-22.12.35:253][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-22.16.59:989][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.030
+[2018.04.28-22.16.59:992][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
+[2018.04.28-22.17.00:036][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
+[2018.04.28-22.17.00:036][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
+[2018.04.28-22.17.00:179][ 47]LogSavePackage: Save=130.76ms
+[2018.04.28-22.17.00:179][ 47]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto7289FE76C4B0F773C56A359BEFBF8B877.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto7.uasset'
+[2018.04.28-22.17.00:181][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto7.uasset
+[2018.04.28-22.17.00:181][ 47]LogFileHelpers: Auto-saving content packages took 0.190
