@@ -2397,3 +2397,735 @@ Script call stack:
 [2018.04.28-22.17.00:179][ 47]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto7289FE76C4B0F773C56A359BEFBF8B877.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto7.uasset'
 [2018.04.28-22.17.00:181][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto7.uasset
 [2018.04.28-22.17.00:181][ 47]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.04.28-23.12.53:794][908]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.28-23.17.19:328][165]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.17.19:637][165]LogSavePackage: Save=16.79ms
+[2018.04.28-23.17.19:638][165]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase5BC299314228F21E614CC387593B96EC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.17.19:642][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.17.20:274][187]LogSavePackage: Save=13.02ms
+[2018.04.28-23.17.20:274][187]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase022384F142E02AA8D11E43B24996EF60.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.17.20:275][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.18.08:045][197]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.18.08:340][197]LogSavePackage: Save=13.17ms
+[2018.04.28-23.18.08:341][197]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase89DCF85C4F1FF5C269AF0BBFD60D3A3A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.18.08:343][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.18.08:952][221]LogSavePackage: Save=14.65ms
+[2018.04.28-23.18.08:952][221]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseEBF16F3B4AEB7D32B2280B9BC063F3FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.18.08:953][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.18.14:000][426]LogSlate: Window 'bpProjectilePlayerBase' being destroyed
+[2018.04.28-23.19.56:942][590]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.19.57:311][590]LogSavePackage: Save=20.06ms
+[2018.04.28-23.19.57:312][590]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase7EBB6BE04C8E9C6FB2BB35976C3EB1EA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.19.57:315][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.19.57:861][618]LogSavePackage: Save=18.43ms
+[2018.04.28-23.19.57:861][618]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase5E341E974711F90F7DC058A764C388FF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.19.57:863][618]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.21.34:478][468]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.28-23.22.59:278][515]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.28-23.23.35:779][653]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.23.36:107][653]LogSavePackage: Save=22.81ms
+[2018.04.28-23.23.36:107][653]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase557820274A6AC98BEA3FD687AC558B32.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.23.36:112][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.23.36:742][685]LogSavePackage: Save=26.06ms
+[2018.04.28-23.23.36:742][685]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseFA59731D4DA7158F51B7619B08A28628.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.23.36:744][685]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.24.22:796][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.026
+[2018.04.28-23.24.22:799][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Projectiles/bpProjectilePlayerBase] ([1] browsable assets)...
+[2018.04.28-23.24.22:799][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/bpProjectilePlayerBase]
+[2018.04.28-23.24.22:840][426]LogSavePackage: Save=34.49ms
+[2018.04.28-23.24.22:840][426]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase_Auto8BEC9112B47188FE153E369BBE10E1BF0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePlayerBase_Auto8.uasset'
+[2018.04.28-23.24.22:841][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePlayerBase_Auto8.uasset
+[2018.04.28-23.24.22:841][426]LogFileHelpers: Auto-saving content packages took 0.043
+[2018.04.28-23.25.00:973][439]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.25.01:324][439]LogSavePackage: Save=37.29ms
+[2018.04.28-23.25.01:324][439]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase27C11915419E95DCD70C4FA80CCECCDC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.25.01:327][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.25.01:863][466]LogSavePackage: Save=29.24ms
+[2018.04.28-23.25.01:863][466]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseA06840C5490A5D09AF22BEB7D84D4C1E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.25.01:864][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.26.21:410][192]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.28-23.26.28:271][506]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-23.27.08:462][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.28.15:305][594]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.28.15:898][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.28.16:048][594]LogSavePackage: Save=132.90ms
+[2018.04.28-23.28.16:048][594]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer8B14F3184A9778521EB4F29815530478.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.28.16:051][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.28.16:569][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.28.16:700][613]LogSavePackage: Save=124.26ms
+[2018.04.28-23.28.16:700][613]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerF781937F4C88614DD851D595034F2072.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.28.16:702][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.28.38:735][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:736][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:736][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:737][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:737][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:738][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:738][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:738][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:739][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:739][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.38:739][845]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:420][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:420][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:421][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:421][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:421][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:421][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.44:421][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.48:896][416]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.28.48:911][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.48:911][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:107][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:108][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:108][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:325][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:326][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:326][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:338][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:339][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:339][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:339][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:341][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:341][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:341][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:345][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:346][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:346][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:346][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.49:462][416]LogSavePackage: Save=41.92ms
+[2018.04.28-23.28.49:462][416]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase39C95B1C42E799191368AF9563A2AF00.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.28.49:468][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.28.49:537][416]LogSavePackage: Save=35.60ms
+[2018.04.28-23.28.49:537][416]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerPrimary1768BED8472BD99E034FF5A34177F3D0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset'
+[2018.04.28-23.28.49:540][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset
+[2018.04.28-23.28.50:038][433]LogSavePackage: Save=40.18ms
+[2018.04.28-23.28.50:038][433]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase1FAB7AA8422FF4E9B98E9E9CB692C3A8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.28.50:039][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.28.50:943][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.50:944][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.50:944][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.28.50:945][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.01:152][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.29.22:668][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:669][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:670][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:670][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:672][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:672][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:672][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:673][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:698][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:699][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:700][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.22:700][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:072][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:073][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:073][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:073][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:074][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:074][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:074][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:074][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:086][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:087][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:087][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.27:087][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.29:308][588]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_13:PersistentLevel.bpProjectilePlayerPrimary_C_0.ProjectileMesh' 
+[2018.04.28-23.29.29:308][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:309][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:310][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:327][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:327][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.29:329][588]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:399][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:400][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:401][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:401][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:401][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:401][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:423][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:423][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:425][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:425][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:425][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:425][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.31:426][705]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.31:426][705]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.32:310][755]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.29.32:310][755]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.29.43:681][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.32.01:714][650]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.28-23.32.09:232][ 69]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.32.09:860][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.32.09:995][ 69]LogSavePackage: Save=129.04ms
+[2018.04.28-23.32.09:995][ 69]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer810A94874E42E57B3A87DDB8E4A17404.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.32.09:998][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.32.10:568][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.32.10:711][ 97]LogSavePackage: Save=132.65ms
+[2018.04.28-23.32.10:711][ 97]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerDF506AD148D3D726A8BCEB95BAC760CA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.32.10:712][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.32.12:306][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.32.12:384][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.32.12:385][177]PIE: New page: PIE session: Main (Apr 28, 2018, 3:32:12 PM)
+[2018.04.28-23.32.12:385][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.32.12:387][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001965s)
+[2018.04.28-23.32.12:389][177]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.32.12:389][177]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2018.04.28-23.32.12:389][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003779s)
+[2018.04.28-23.32.12:430][177]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.32.12:452][177]LogInit: FAudioDevice initialized.
+[2018.04.28-23.32.12:495][177]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.32.12:496][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.32.12
+[2018.04.28-23.32.12:496][177]LogWorld: Bringing up level for play took: 0.000811
+[2018.04.28-23.32.12:498][177]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.567
+[2018.04.28-23.32.19:791][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.32.38:633][605]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.32.39:162][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.32.39:302][605]LogSavePackage: Save=129.17ms
+[2018.04.28-23.32.39:303][605]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer8DF7FA0F4FBA0BAE267EC5A6AA8EC999.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.32.39:305][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.32.39:872][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.32.40:002][633]LogSavePackage: Save=123.31ms
+[2018.04.28-23.32.40:002][633]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer8E90C40845D14498C18D169BDA44EB0E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.32.40:004][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.32.46:648][954]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.32.46:692][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.32.46:692][954]PIE: New page: PIE session: Main (Apr 28, 2018, 3:32:46 PM)
+[2018.04.28-23.32.46:694][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.32.46:698][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003567s)
+[2018.04.28-23.32.46:699][954]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.32.46:699][954]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2018.04.28-23.32.46:699][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005464s)
+[2018.04.28-23.32.46:739][954]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.32.46:756][954]LogInit: FAudioDevice initialized.
+[2018.04.28-23.32.46:799][954]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.32.46:800][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.32.46
+[2018.04.28-23.32.46:800][954]LogWorld: Bringing up level for play took: 0.000626
+[2018.04.28-23.32.46:802][954]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.871
+[2018.04.28-23.33.34:247][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.33.39:324][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.34.54:074][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_18:PersistentLevel.bpProjectilePowered_C_1.ProjectileMesh' 
+[2018.04.28-23.34.54:075][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_18:PersistentLevel.bpProjectilePowered_C_1.ProjectileMesh' 
+[2018.04.28-23.34.54:075][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_18:PersistentLevel.bpProjectilePowered_C_1.ProjectileMesh' 
+[2018.04.28-23.34.54:075][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_18:PersistentLevel.bpProjectilePowered_C_1.ProjectileMesh' 
+[2018.04.28-23.34.58:699][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.034
+[2018.04.28-23.34.58:702][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectiles/bpProjectilePlayerPrimary] ([1] browsable assets)...
+[2018.04.28-23.34.58:720][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectiles/bpProjectilePlayerPrimary.bpProjectilePlayerPrimary]
+[2018.04.28-23.34.58:720][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/bpProjectilePlayerPrimary]
+[2018.04.28-23.34.58:754][654]LogSavePackage: Save=21.77ms
+[2018.04.28-23.34.58:755][654]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerPrimary_Auto9C82470904FAA14707D23AF85FA14B3AC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePlayerPrimary_Auto9.uasset'
+[2018.04.28-23.34.58:756][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePlayerPrimary_Auto9.uasset
+[2018.04.28-23.34.58:756][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectiles/bpProjectilePowered] ([1] browsable assets)...
+[2018.04.28-23.34.58:778][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectiles/bpProjectilePowered.bpProjectilePowered]
+[2018.04.28-23.34.58:778][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/bpProjectilePowered]
+[2018.04.28-23.34.58:802][654]LogSavePackage: Save=22.37ms
+[2018.04.28-23.34.58:802][654]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered_Auto965B548A44F08C3E01E5E04BAFF615A5A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePowered_Auto9.uasset'
+[2018.04.28-23.34.58:803][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectilePowered_Auto9.uasset
+[2018.04.28-23.34.58:804][654]LogFileHelpers: Auto-saving content packages took 0.103
+[2018.04.28-23.35.02:040][814]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_18:PersistentLevel.bpProjectilePowered_C_1.ProjectileMesh' 
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:041][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:044][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:044][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:045][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:045][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:046][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:046][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:046][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:046][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:074][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:074][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:075][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:075][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:076][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:076][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:076][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:076][814]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:468][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:469][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:469][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:469][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:469][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:469][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:470][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:470][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:472][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:490][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:490][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.02:491][833]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.04:723][936]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.28-23.35.04:724][936]LogPhysics: Warning: ForeachShape(Convex): [/Game/Art/Models/Projectile.Projectile] ScaledElem[0] invalid
+[2018.04.28-23.35.19:475][754]BlueprintLog: New page: Compile bpProjectilePowered
+[2018.04.28-23.35.19:914][754]LogSavePackage: Save=19.46ms
+[2018.04.28-23.35.19:914][754]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered2FF61B634A4881417DAC9A8767D2726B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.35.19:920][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.35.20:360][776]LogSavePackage: Save=11.66ms
+[2018.04.28-23.35.20:360][776]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered84DAADF34D0F022B789998A5411CF1E5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.35.20:361][776]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.35.32:326][453]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.28-23.35.39:384][812]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.35.39:930][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.35.40:077][812]LogSavePackage: Save=130.51ms
+[2018.04.28-23.35.40:077][812]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer5D6873744BC3881DD8BBC28612F3568A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.35.40:080][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.35.40:333][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.35.40:461][822]LogSavePackage: Save=121.55ms
+[2018.04.28-23.35.40:461][822]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerAA404BCF4F49E57C516759AB51237E34.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.35.40:463][822]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.35.43:865][969]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.35.44:821][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.35.45:053][969]LogSavePackage: Save=220.69ms
+[2018.04.28-23.35.45:053][969]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer5570EDFE462D9405C0FB5BAA3110E81D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.35.45:057][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.35.47:635][ 88]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.35.47:718][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.35.47:718][ 88]PIE: New page: PIE session: Main (Apr 28, 2018, 3:35:47 PM)
+[2018.04.28-23.35.47:719][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.35.47:721][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2018.04.28-23.35.47:722][ 88]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.35.47:722][ 88]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.04.28-23.35.47:722][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003174s)
+[2018.04.28-23.35.47:781][ 88]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.35.47:805][ 88]LogInit: FAudioDevice initialized.
+[2018.04.28-23.35.47:855][ 88]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.35.47:857][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.35.47
+[2018.04.28-23.35.47:857][ 88]LogWorld: Bringing up level for play took: 0.000942
+[2018.04.28-23.35.47:861][ 88]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.071
+[2018.04.28-23.35.58:310][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.36.46:401][383]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.36.46:401][383]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.36.46:402][383]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.36.46:402][383]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.36.54:615][866]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.36.54:662][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.54:662][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:380][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:380][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:381][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:399][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:399][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:399][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.36.55:489][866]LogSavePackage: Save=23.38ms
+[2018.04.28-23.36.55:490][866]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerPrimary691D36134F28AF8B7E7AA482A65A5038.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset'
+[2018.04.28-23.36.55:493][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset
+[2018.04.28-23.36.55:545][866]LogSavePackage: Save=18.00ms
+[2018.04.28-23.36.55:545][866]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered8C90191845809AB7E03D7E8F43F05DEB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.36.55:549][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.36.56:131][888]LogSavePackage: Save=37.53ms
+[2018.04.28-23.36.56:131][888]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase25E5D583430135D74DAD5BB6EB7F66FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.36.56:133][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.36.57:885][979]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.36.57:947][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.36.57:947][979]PIE: New page: PIE session: Main (Apr 28, 2018, 3:36:57 PM)
+[2018.04.28-23.36.57:948][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.36.57:949][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2018.04.28-23.36.57:951][979]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.36.57:953][979]LogPlayLevel: PIE: World Init took: (0.003810s)
+[2018.04.28-23.36.57:954][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006258s)
+[2018.04.28-23.36.58:000][979]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.36.58:017][979]LogInit: FAudioDevice initialized.
+[2018.04.28-23.36.58:055][979]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.36.58:056][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.36.58
+[2018.04.28-23.36.58:057][979]LogWorld: Bringing up level for play took: 0.000942
+[2018.04.28-23.36.58:058][979]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.127
+[2018.04.28-23.37.13:385][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.37.29:468][447]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.37.29:497][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.37.29:497][447]PIE: New page: PIE session: Main (Apr 28, 2018, 3:37:29 PM)
+[2018.04.28-23.37.29:497][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.37.29:499][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001404s)
+[2018.04.28-23.37.29:499][447]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.37.29:500][447]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.04.28-23.37.29:500][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002207s)
+[2018.04.28-23.37.29:529][447]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.37.29:543][447]LogInit: FAudioDevice initialized.
+[2018.04.28-23.37.29:575][447]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.37.29:576][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.37.29
+[2018.04.28-23.37.29:577][447]LogWorld: Bringing up level for play took: 0.000654
+[2018.04.28-23.37.29:578][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.353
+[2018.04.28-23.37.35:393][786]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.28-23.37.35:463][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-23.37.36:160][820]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.37.36:192][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.37.36:192][820]PIE: New page: PIE session: Main (Apr 28, 2018, 3:37:36 PM)
+[2018.04.28-23.37.36:192][820]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.37.36:194][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2018.04.28-23.37.36:194][820]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.37.36:194][820]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.04.28-23.37.36:194][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002111s)
+[2018.04.28-23.37.36:225][820]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.37.36:237][820]LogInit: FAudioDevice initialized.
+[2018.04.28-23.37.36:272][820]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.37.36:273][820]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.37.36
+[2018.04.28-23.37.36:273][820]LogWorld: Bringing up level for play took: 0.000635
+[2018.04.28-23.37.36:275][820]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.344
+[2018.04.28-23.39.50:357][ 85]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.bpProjectilePlayerBase_C_0.ProjectileMesh' 
+[2018.04.28-23.39.50:360][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:361][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.50:365][ 85]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.39.52:673][222]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.39.53:537][222]LogSavePackage: Save=37.33ms
+[2018.04.28-23.39.53:537][222]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseCA308B454BC1DCF1C1EB8F8B42EB47B5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.39.53:540][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.39.53:602][222]LogSavePackage: Save=19.67ms
+[2018.04.28-23.39.53:602][222]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerPrimaryB74E3DC84F56875FF6129CB675D138B5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset'
+[2018.04.28-23.39.53:605][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset
+[2018.04.28-23.39.53:666][222]LogSavePackage: Save=17.45ms
+[2018.04.28-23.39.53:667][222]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered4089285C436FAD5395A426A62672AE05.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.39.53:669][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.39.54:232][248]LogSavePackage: Save=29.88ms
+[2018.04.28-23.39.54:232][248]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseDE0E85124B0841854A47938E8FB41D24.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.39.54:234][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.40.06:239][956]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.40.06:239][956]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.40.06:239][956]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.40.06:239][956]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.04.28-23.40.08:169][ 71]BlueprintLog: New page: Compile bpProjectilePowered
+[2018.04.28-23.40.08:563][ 71]LogSavePackage: Save=18.22ms
+[2018.04.28-23.40.08:563][ 71]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered56634A664FA20465C5EE3F8EB6058702.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.40.08:566][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.40.09:015][ 92]LogSavePackage: Save=10.34ms
+[2018.04.28-23.40.09:015][ 92]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePowered0543A2FB42E101B2315C3A8B19C5031C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.40.09:016][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.40.54:149][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.40.54:180][788]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-23.40.54:221][788]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.04.28-23.40.54:636][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.40.54:769][788]LogSavePackage: Save=119.13ms
+[2018.04.28-23.40.54:769][788]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer9354833E46BF72EEAB33CBBD2D9A66D9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.40.54:773][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.40.54:806][788]LogPlayLevel: PlayLevel: Blueprint regeneration took 626 ms (1 blueprints)
+[2018.04.28-23.40.54:806][788]PIE: New page: PIE session: Main (Apr 28, 2018, 3:40:54 PM)
+[2018.04.28-23.40.54:807][788]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.40.54:808][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2018.04.28-23.40.54:809][788]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.40.54:809][788]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.04.28-23.40.54:809][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002208s)
+[2018.04.28-23.40.54:839][788]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.40.54:852][788]LogInit: FAudioDevice initialized.
+[2018.04.28-23.40.54:883][788]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.40.54:884][788]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.40.54
+[2018.04.28-23.40.54:884][788]LogWorld: Bringing up level for play took: 0.000684
+[2018.04.28-23.40.54:886][788]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.955
+[2018.04.28-23.41.00:774][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.45.59:995][466]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.46.00:630][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.46.00:767][466]LogSavePackage: Save=121.25ms
+[2018.04.28-23.46.00:767][466]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer2F4A707B491643EE4353DA86FAB21AE3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.46.00:770][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.46.01:739][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.46.01:858][520]LogSavePackage: Save=112.49ms
+[2018.04.28-23.46.01:858][520]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer9139E27F4E06E620A787F3B2ED42E2BA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.46.01:860][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.46.03:441][615]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-23.46.03:472][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-23.46.03:472][615]PIE: New page: PIE session: Main (Apr 28, 2018, 3:46:03 PM)
+[2018.04.28-23.46.03:472][615]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.28-23.46.03:474][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2018.04.28-23.46.03:474][615]LogAIModule: Creating AISystem for world Main
+[2018.04.28-23.46.03:475][615]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.04.28-23.46.03:475][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002316s)
+[2018.04.28-23.46.03:506][615]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-23.46.03:520][615]LogInit: FAudioDevice initialized.
+[2018.04.28-23.46.03:554][615]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.28-23.46.03:556][615]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-19.46.03
+[2018.04.28-23.46.03:556][615]LogWorld: Bringing up level for play took: 0.000732
+[2018.04.28-23.46.03:558][615]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.374
+[2018.04.28-23.46.08:661][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.46.32:707][340]BlueprintLog: New page: Compile bpPlayer
+[2018.04.28-23.46.33:179][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.46.33:307][340]LogSavePackage: Save=120.40ms
+[2018.04.28-23.46.33:307][340]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerB2C7C8F543A9BC222739A8847810D585.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.46.33:310][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.46.33:713][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.28-23.46.33:832][360]LogSavePackage: Save=112.38ms
+[2018.04.28-23.46.33:832][360]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer798130504D0ED07EF1A627AD57D5CDBE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.28-23.46.33:833][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.28-23.47.02:858][698]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.28-23.47.03:403][722]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.28-23.47.03:973][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.28-23.47.08:428][913]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.28-23.47.08:586][914]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.04.28-23.47.08:586][914]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-23.47.08:586][914]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.28-23.47.08:586][914]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.28-23.47.08:586][914]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.28-23.47.08:586][914]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.28-23.47.23:736][329]LogSlate: Window 'New Channel' being destroyed
+[2018.04.28-23.47.34:849][431]LogSlate: Window 'New Channel' being destroyed
+[2018.04.28-23.47.42:623][499]LogSlate: Window 'New Channel' being destroyed
+[2018.04.28-23.47.49:759][587]LogSlate: Window 'New Channel' being destroyed
+[2018.04.28-23.48.29:462][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.49.12:063][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-23.49.12:160][211]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.28-23.49.12:596][211]LogSavePackage: Save=23.05ms
+[2018.04.28-23.49.12:596][211]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocketD3358CE844F6F8C6BDA942B821D1287A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.49.12:599][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.49.13:257][228]LogSavePackage: Save=92.28ms
+[2018.04.28-23.49.13:257][228]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket6A9CE9214F7448B6D41DBEBAB8F4A937.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.49.13:258][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.50.01:841][194]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.28-23.50.02:294][194]LogSavePackage: Save=26.95ms
+[2018.04.28-23.50.02:294][194]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket70C8B1D04223881E8C4300BB84BDD73D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.50.02:297][194]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.50.02:782][208]LogSavePackage: Save=17.60ms
+[2018.04.28-23.50.02:782][208]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket0FD7928441764B360680249CBFD49418.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.50.02:784][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.50.05:205][304]LogSlate: Window 'bpProjectileRocket' being destroyed
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.45:551][998]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.04.28-23.51.48:159][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:159][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:159][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:159][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:166][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:166][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:166][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.48:166][153]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:753][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:754][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:754][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:754][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:756][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:757][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:757][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.53:757][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:140][568]BlueprintLog: New page: Compile bpProjectilePlayerBase
+[2018.04.28-23.51.55:177][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:177][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:177][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:894][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:895][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:895][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:896][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:915][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:915][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:915][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.55:915][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_22:PersistentLevel.bpProjectilePlayerBase_C_213.ProjectileMesh' 
+[2018.04.28-23.51.56:048][568]LogSavePackage: Save=38.54ms
+[2018.04.28-23.51.56:048][568]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBase7E4521EC44ACC4C41E6BF596754DEF6F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.51.56:051][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.51.56:084][568]LogSavePackage: Save=12.00ms
+[2018.04.28-23.51.56:084][568]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerPrimary02AE8F334F85A2E6999AB4B019BD11FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset'
+[2018.04.28-23.51.56:086][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerPrimary.uasset
+[2018.04.28-23.51.56:121][568]LogSavePackage: Save=11.04ms
+[2018.04.28-23.51.56:121][568]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePoweredCF1DB7B340193207AC2658BF88F26B3A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset'
+[2018.04.28-23.51.56:124][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePowered.uasset
+[2018.04.28-23.51.56:196][568]LogSavePackage: Save=22.12ms
+[2018.04.28-23.51.56:196][568]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket4AF8885C4B80C307BBC598BDAF11239C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.51.56:199][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.51.56:750][590]LogSavePackage: Save=32.31ms
+[2018.04.28-23.51.56:750][590]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectilePlayerBaseD7406F40416DACBBC0809498CAED9EED.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset'
+[2018.04.28-23.51.56:752][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectilePlayerBase.uasset
+[2018.04.28-23.56.55:553][412]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.28-23.56.56:040][412]LogSavePackage: Save=31.19ms
+[2018.04.28-23.56.56:040][412]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket98E5E5A54B01F1D52C817D92B798CD50.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.28-23.56.56:043][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.28-23.58.58:338][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.030
+[2018.04.28-23.58.58:341][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectiles/bpProjectileRocket] ([1] browsable assets)...
+[2018.04.28-23.58.58:384][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectiles/bpProjectileRocket.bpProjectileRocket]
+[2018.04.28-23.58.58:384][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/bpProjectileRocket]
+[2018.04.28-23.58.58:430][302]LogSavePackage: Save=38.43ms
+[2018.04.28-23.58.58:430][302]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket_Auto06E634C0E4E08420D025D7BB03E3F5918.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectileRocket_Auto0.uasset'
+[2018.04.28-23.58.58:432][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Projectiles/bpProjectileRocket_Auto0.uasset
+[2018.04.28-23.58.58:432][302]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.04.29-00.00.19:219][124]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.29-00.00.19:697][124]LogSavePackage: Save=39.81ms
+[2018.04.29-00.00.19:697][124]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket0686E4E8424C4B2C04338E88FCBB2D60.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.00.19:700][124]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.00.20:290][152]LogSavePackage: Save=34.81ms
+[2018.04.29-00.00.20:290][152]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocketE53BE7C04F687CCC38DA529401F1933C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.00.20:292][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.00.47:393][708]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.29-00.00.53:956][ 84]BlueprintLog: New page: Compile bpPlayer
+[2018.04.29-00.00.54:514][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.29-00.00.54:660][ 84]LogSavePackage: Save=129.67ms
+[2018.04.29-00.00.54:660][ 84]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer9ABAF1B94DF094E90804DCA9020CF8F3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.29-00.00.54:663][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.29-00.00.54:997][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
+[2018.04.29-00.00.55:120][ 98]LogSavePackage: Save=115.56ms
+[2018.04.29-00.00.55:120][ 98]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer310D28574A33047E1F5A9E912D087357.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
+[2018.04.29-00.00.55:122][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.04.29-00.00.57:067][211]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.29-00.00.57:119][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-00.00.57:119][211]PIE: New page: PIE session: Main (Apr 28, 2018, 4:00:57 PM)
+[2018.04.29-00.00.57:120][211]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.29-00.00.57:122][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2018.04.29-00.00.57:123][211]LogAIModule: Creating AISystem for world Main
+[2018.04.29-00.00.57:123][211]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2018.04.29-00.00.57:123][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003773s)
+[2018.04.29-00.00.57:172][211]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.29-00.00.57:193][211]LogInit: FAudioDevice initialized.
+[2018.04.29-00.00.57:232][211]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.29-00.00.57:233][211]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-20.00.57
+[2018.04.29-00.00.57:234][211]LogWorld: Bringing up level for play took: 0.000828
+[2018.04.29-00.00.57:236][211]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.696
+[2018.04.29-00.01.14:830][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-00.01.40:033][672]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.29-00.01.53:935][474]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.29-00.01.54:947][531]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.29-00.01.55:475][531]LogSavePackage: Save=39.05ms
+[2018.04.29-00.01.55:475][531]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocketEF2B88654F34C899E2CD1AA6FBAE63C7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.01.55:478][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.01.56:153][564]LogSavePackage: Save=27.44ms
+[2018.04.29-00.01.56:153][564]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket6F2FD1104A658B7EB69997BD803A12E5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.01.56:155][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.02.20:075][975]BlueprintLog: New page: Compile bpProjectileRocket
+[2018.04.29-00.02.20:568][975]LogSavePackage: Save=40.55ms
+[2018.04.29-00.02.20:568][975]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocketC8E315F747FB6B36D51587B1F198F1F8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.02.20:572][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.02.21:103][999]LogSavePackage: Save=32.70ms
+[2018.04.29-00.02.21:103][999]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileRocket3A2B442242EC1C67F44F9FB03D9AE35B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset'
+[2018.04.29-00.02.21:104][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileRocket.uasset
+[2018.04.29-00.02.24:984][214]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.29-00.02.25:030][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-00.02.25:030][214]PIE: New page: PIE session: Main (Apr 28, 2018, 4:02:25 PM)
+[2018.04.29-00.02.25:030][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.04.29-00.02.25:032][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001925s)
+[2018.04.29-00.02.25:033][214]LogAIModule: Creating AISystem for world Main
+[2018.04.29-00.02.25:033][214]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.04.29-00.02.25:033][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002974s)
+[2018.04.29-00.02.25:081][214]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.29-00.02.25:100][214]LogInit: FAudioDevice initialized.
+[2018.04.29-00.02.25:139][214]LogLoad: Game class is 'bpGameMode_C'
+[2018.04.29-00.02.25:140][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.28-20.02.25
+[2018.04.29-00.02.25:140][214]LogWorld: Bringing up level for play took: 0.000768
+[2018.04.29-00.02.25:142][214]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.789
+[2018.04.29-00.02.42:924][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-00.02.43:056][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.29-00.02.43:122][240]LogSavePackage: Save=20.40ms
+[2018.04.29-00.02.43:122][240]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main6240D4664A1FCD7A454A6DA757D4250F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.04.29-00.02.43:124][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.04.29-00.02.43:170][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.04.29-00.02.43:209][240]LogSavePackage: Save=25.73ms
+[2018.04.29-00.02.43:209][240]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataC5004B71455B73473EBC01AF02EF1E19.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.04.29-00.02.43:210][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.04.29-00.05.07:892][257]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.29-00.05.08:013][258]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.04.29-00.05.08:013][258]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.29-00.05.08:013][258]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.29-00.05.08:013][258]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.29-00.05.08:013][258]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.29-00.05.08:013][258]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.29-00.05.16:029][550]LogSlate: Window 'New Channel' being destroyed
+[2018.04.29-00.47.34:550][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-00.49.15:514][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.29-00.49.15:723][960]LogSavePackage: Save=24.59ms
+[2018.04.29-00.49.15:723][960]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainE24FD11642F4A6CFA830D7B42E4AB32C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.04.29-00.49.15:730][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.04.29-00.49.15:771][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.04.29-00.49.15:849][960]LogSavePackage: Save=18.92ms
+[2018.04.29-00.49.15:849][960]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataF2E2DEA045B3C67D89F2DE86B2E4D9B7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.04.29-00.49.15:850][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.04.29-03.49.17:604][476]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.29-03.49.23:935][495]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.29-14.15.42:190][513]LogHttp: Warning: 0000023F889E9900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.29-14.15.42:190][513]LogHttp: Warning: 0000023F889E9900: libcurl info message cache 0 (Connection 272 seems to be dead!)
+[2018.04.29-14.15.42:190][513]LogHttp: Warning: 0000023F889E9900: libcurl info message cache 1 (Closing connection 272)
+[2018.04.29-14.15.42:190][513]LogHttp: Warning: 0000023F889E9900: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.29-14.15.42:190][513]LogHttp: Warning: 0000023F889E9900: libcurl info message cache 3 (Closing connection 273)
+[2018.04.29-14.15.43:193][514]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.29-14.15.46:202][515]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.04.29-14.15.46:202][515]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.04.29-14.16.23:538][515]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.04.29-14.16.23:538][515]LogWindows: Error: === Critical error: ===
+[2018.04.29-14.16.23:538][515]LogWindows: Error: 
+[2018.04.29-14.16.23:538][515]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2018.04.29-14.16.23:538][515]LogWindows: Error: Rendering thread exception:
+[2018.04.29-14.16.23:538][515]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 182] 
+[2018.04.29-14.16.23:538][515]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2018.04.29-14.16.23:538][515]LogWindows: Error: 
+[2018.04.29-14.16.23:538][515]LogWindows: Error: 
+[2018.04.29-14.16.23:538][515]LogWindows: Error: [Callstack] 0x00000000EF924008 KERNELBASE.dll!UnknownFunction []
+[2018.04.29-14.16.23:538][515]LogWindows: Error: [Callstack] 0x00000000C5F97884 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EBF6D8B UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EB31929 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B54A0CF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B54E5E0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B52D62A UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B52D58C UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B53AADF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000C225F0B6 UE4Editor-RHI.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B311FF8 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000008B317C4C UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EA0B713 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EA0BD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000CED73CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000CED74CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EDD9FEC UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x000000009EDCED53 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000F2091FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000F345F061 ntdll.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: [Callstack] 0x00000000F345F061 ntdll.dll!UnknownFunction []
+[2018.04.29-14.16.23:539][515]LogWindows: Error: 
+[2018.04.29-14.16.23:539][515]LogWindows: Error: 
+[2018.04.29-14.16.23:539][515]LogWindows: Error: 
+[2018.04.29-14.16.23:539][515]LogWindows: Error: 
+[2018.04.29-14.16.23:558][515]LogExit: Executing StaticShutdownAfterError
+[2018.04.29-14.16.23:640][515]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.04.29-14.16.23:714][515]Log file closed, 04/29/18 10:16:23
