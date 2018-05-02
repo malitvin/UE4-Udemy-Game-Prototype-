@@ -1,4 +1,4 @@
-﻿Log file open, 04/29/18 10:16:36
+﻿Log file open, 05/01/18 23:14:51
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: SpaceShooterTemplate
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-205241484) SRandInit(-205241484).
+LogInit: Display: RandInit(1860066482) SRandInit(1860066482).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.281888
+LogStats: Stats thread started at 0.326575
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  1.775s to configure plugins.
+LogStreaming: Display: Took  1.877s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -219,308 +219,715 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.29-14.16.39:018][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.29-14.16.39:018][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.29-14.16.39:065][  0]LogInit: Computer: SUPERBEAST
-[2018.04.29-14.16.39:066][  0]LogInit: User: MaximusLitvinov
-[2018.04.29-14.16.39:066][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.29-14.16.39:066][  0]LogInit: High frequency timer resolution =2.435775 MHz
-[2018.04.29-14.16.39:066][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.29-14.16.39:066][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.29-14.16.39:066][  0]LogMemory: Process Physical Memory: 276.67 MB used, 276.67 MB peak
-[2018.04.29-14.16.39:066][  0]LogMemory: Process Virtual Memory: 264.74 MB used, 264.74 MB peak
-[2018.04.29-14.16.39:066][  0]LogMemory: Physical Memory: 5993.68 MB used,  10271.35 MB free, 16265.02 MB total
-[2018.04.29-14.16.39:066][  0]LogMemory: Virtual Memory: 698.36 MB used,  10271.35 MB free, 134217728.00 MB total
-[2018.04.29-14.16.39:092][  0]LogInit: Using OS detected language (en-US).
-[2018.04.29-14.16.39:092][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.29-14.16.39:292][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.29-14.16.39:849][  0]LogStreaming: Display: Took  0.757s to EndInitTextLocalization.
-[2018.04.29-14.16.39:849][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.29-14.16.39:897][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.04.29-14.16.39:897][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.04.29-14.16.44:645][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.29-14.16.44:656][  0]LogD3D11RHI:    0. 'AMD Radeon R9 M290X' (Feature Level 11_0)
-[2018.04.29-14.16.44:656][  0]LogD3D11RHI:       4074/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
-[2018.04.29-14.16.44:662][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2018.04.29-14.16.44:662][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.04.29-14.16.44:664][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.29-14.16.44:664][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.29-14.16.44:664][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.29-14.16.44:673][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.29-14.16.44:673][  0]LogD3D11RHI:     GPU DeviceId: 0x6801 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.29-14.16.44:673][  0]LogWindows: EnumDisplayDevices:
-[2018.04.29-14.16.44:673][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2018.04.29-14.16.44:674][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
-[2018.04.29-14.16.44:674][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    3. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    4. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    5. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    6. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    7. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:674][  0]LogWindows:    8. 'AMD Radeon R9 M290X' (P:0 D:0)
-[2018.04.29-14.16.44:675][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.29-14.16.44:675][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 M290X
-[2018.04.29-14.16.44:675][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.29-14.16.44:675][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.29-14.16.44:675][  0]LogRHI: Texture pool is 2852 MB (70% of 4074 MB)
-[2018.04.29-14.16.44:694][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.29-14.16.44:709][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
-[2018.04.29-14.16.44:710][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Intermediate/Shaders/WorkingDirectory/22976/).
-[2018.04.29-14.16.44:710][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maximus Litvinov/AppData/Local/Temp/UnrealShaderWorkingDir/911ED937423A18430CA9A08AD2742807/'.
-[2018.04.29-14.16.46:204][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.29-14.16.46:218][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.29-14.16.46:235][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.29-14.16.46:252][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.29-14.16.46:272][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.29-14.16.46:287][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.29-14.16.46:303][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.29-14.16.46:318][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.29-14.16.46:325][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.29-14.16.46:338][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.29-14.16.46:351][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.29-14.16.46:364][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.29-14.16.46:378][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.04.29-14.16.46:391][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.29-14.16.46:404][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.29-14.16.46:431][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.29-14.16.46:431][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.29-14.16.46:449][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.29-14.16.46:450][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.29-14.16.46:494][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.29-14.16.46:506][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.29-14.16.46:522][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.29-14.16.46:535][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.29-14.16.46:549][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.29-14.16.46:568][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.29-14.16.46:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.29-14.16.49:406][  0]LogXGEController: Cleaning working directory: C:/Users/Maximus Litvinov/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.04.29-14.16.49:406][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.04.29-14.16.49:407][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.04.29-14.16.49:407][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.29-14.16.51:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: Loaded boot cache 0.38s 74MB C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.29-14.16.51:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.29-14.16.51:977][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.29-14.16.51:990][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.29-14.16.52:002][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.29-14.16.52:002][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.29-14.16.52:003][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.29-14.16.52:003][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.29-14.16.53:479][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
-[2018.04.29-14.16.53:807][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.29-14.16.54:124][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.29-14.16.54:127][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.29-14.16.54:127][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.29-14.16.54:127][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.29-14.16.54:127][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.29-14.16.54:127][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.29-14.16.54:187][  0]LogNetVersion: SpaceShooterTemplate , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 318975527)
-[2018.04.29-14.16.55:748][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.110339 seconds
-[2018.04.29-14.16.55:754][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.04.29-14.16.55:754][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.04.29-14.16.55:754][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.29-14.17.02:176][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.29-14.17.02:209][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.29-14.17.02:677][  0]SourceControl: Source control is disabled
-[2018.04.29-14.17.02:677][  0]SourceControl: Source control is disabled
-[2018.04.29-14.17.02:697][  0]SourceControl: Source control is disabled
-[2018.04.29-14.17.02:719][  0]SourceControl: Source control is disabled
-[2018.04.29-14.17.03:308][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.29-14.17.03:505][  0]LogOcInput: OculusInput pre-init called
-[2018.04.29-14.17.03:657][  0]LogEngine: Initializing Engine...
-[2018.04.29-14.17.03:658][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.29-14.17.03:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.29-14.17.03:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.29-14.17.04:108][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.29-14.17.04:121][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-14.17.04:137][  0]LogInit: FAudioDevice initialized.
-[2018.04.29-14.17.04:332][  0]LogDerivedDataCache: Saved boot cache 0.19s 74MB C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.04.29-14.17.04:351][  0]LogInit: Texture streaming: Enabled
-[2018.04.29-14.17.04:373][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.29-14.17.04:392][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={83927A18-431A-9466-F12C-59A58D7402F4}
-[2018.04.29-14.17.04:414][  0]LogInit: Transaction tracking system initialized
-[2018.04.29-14.17.04:444][  0]BlueprintLog: New page: Editor Load
-[2018.04.29-14.17.04:540][  0]LocalizationService: Localization service is disabled
-[2018.04.29-14.17.04:710][  0]LogConsoleResponse: Display: 
-[2018.04.29-14.17.05:193][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.29-14.17.05:193][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.29-14.17.05:193][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.29-14.17.05:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.29-14.17.05:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.29-14.17.05:670][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/' took 0.02s
-[2018.04.29-14.17.05:670][  0]SourceControl: Source control is disabled
-[2018.04.29-14.17.05:760][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.29-14.17.17:656][  0]LogSlate: Window 'Restore Packages' being destroyed
-[2018.04.29-14.17.17:657][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.29-14.17.17:676][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.29-14.17.19:052][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
-[2018.04.29-14.17.19:052][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.29-14.17.19:100][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.29-14.17.19:101][  0]Cmd: MAP LOAD FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.29-14.17.19:101][  0]LightingResults: New page: Lighting Build
-[2018.04.29-14.17.19:105][  0]MapCheck: New page: Map Check
-[2018.04.29-14.17.19:105][  0]LightingResults: New page: Lighting Build
-[2018.04.29-14.17.19:677][  0]LogAIModule: Creating AISystem for world Main
-[2018.04.29-14.17.19:691][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.29-14.17.19:717][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.29-14.17.19:803][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.16ms to complete.
-[2018.04.29-14.17.19:803][  0]LogFileHelpers: Loading map 'Main' took 0.703
-[2018.04.29-14.17.19:915][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_5ed0_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_4ffc_0///####STATCAT_Advanced####
-[2018.04.29-14.17.19:915][  0]LogCollectionManager: Loaded 0 collections in 0.001701 seconds
-[2018.04.29-14.17.19:961][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Saved/Collections/' took 0.01s
-[2018.04.29-14.17.19:961][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/Developers/MaximusLitvinov/Collections/' took 0.01s
-[2018.04.29-14.17.19:961][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/Collections/' took 0.01s
-[2018.04.29-14.17.19:961][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.04.29-14.17.19:971][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2452 classes and 558 folders.
-[2018.04.29-14.17.19:978][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.29-14.17.20:463][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.04.29-14.17.20:472][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.04.29-14.17.20:492][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.29-14.17.20:508][  0]LogSlate: Took 0.010858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.29-14.17.20:693][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
-[2018.04.29-14.17.21:052][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.04.29-14.17.21:052][  0]LogLoad: (Engine Initialization) Total time: 46.60 seconds
-[2018.04.29-14.17.21:052][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.29-14.17.21:088][  0]LogContentStreaming: Texture pool size now 800 MB
-[2018.04.29-14.17.21:124][  0]LogSlate: Took 0.008290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.29-14.17.21:145][  1]LogAssetRegistry: Asset discovery search completed in 27.6884 seconds
-[2018.04.29-14.17.21:147][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.04.29-14.17.21:148][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
-[2018.04.29-14.17.22:108][ 49]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.04.29-14.17.29:905][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-14.17.30:666][524]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2018.04.29-14.17.32:024][524]LogSlate: Took 0.004117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.04.29-14.17.32:179][525]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.04.29-14.17.34:830][654]LogSlate: Window 'bpProjectileRocket' being destroyed
-[2018.04.29-14.18.26:075][273]LogRenderer: Reallocating scene render targets to support 1208x712 Format 9 NumSamples 1 (Frame:1).
-[2018.04.29-14.18.27:848][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-14.36.37:824][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-14.36.43:820][343]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-18.19.28:132][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-18.19.52:098][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.21.44:112][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.036
-[2018.04.29-18.21.44:114][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/bpPlayer] ([1] browsable assets)...
-[2018.04.29-18.21.44:159][ 62]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/bpPlayer.bpPlayer]
-[2018.04.29-18.21.44:159][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/bpPlayer]
-[2018.04.29-18.21.44:301][ 62]LogSavePackage: Save=124.17ms
-[2018.04.29-18.21.44:301][ 62]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer_Auto1A25106D0498490DA570A609542F893BD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto1.uasset'
-[2018.04.29-18.21.44:303][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/bpPlayer_Auto1.uasset
-[2018.04.29-18.21.44:303][ 62]LogFileHelpers: Auto-saving content packages took 0.189
-[2018.04.29-18.21.57:995][816]BlueprintLog: New page: Compile bpPlayer
-[2018.04.29-18.21.58:457][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.21.58:596][816]LogSavePackage: Save=132.34ms
-[2018.04.29-18.21.58:597][816]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerF68423984A54EC5FA8D61FBB92DF7F8B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.21.58:607][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.21.59:133][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.21.59:259][840]LogSavePackage: Save=115.46ms
-[2018.04.29-18.21.59:259][840]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer0B16491244558F397CD99BB43DCA7C35.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.21.59:260][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.22.11:001][419]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.04.29-18.22.11:150][420]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
-[2018.04.29-18.22.11:150][420]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.04.29-18.22.11:150][420]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
-[2018.04.29-18.22.11:150][420]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.04.29-18.22.11:150][420]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
-[2018.04.29-18.22.11:150][420]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.04.29-18.23.48:721][127]BlueprintLog: New page: Compile bpPlayer
-[2018.04.29-18.23.49:170][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.23.49:307][127]LogSavePackage: Save=127.67ms
-[2018.04.29-18.23.49:307][127]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerD275A793410E1E75E77C14B041388120.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.23.49:313][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.23.49:929][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.23.50:055][156]LogSavePackage: Save=118.63ms
-[2018.04.29-18.23.50:055][156]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer4FE1291E4DFB70E60A9A8ABE8DF24DF7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.23.50:056][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.24.01:258][737]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
-[2018.04.29-18.24.01:258][737]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
-[2018.04.29-18.24.01:262][737]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
-[2018.04.29-18.24.01:262][737]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
-[2018.04.29-18.24.12:832][398]BlueprintLog: New page: Compile bpPlayer
-[2018.04.29-18.24.13:277][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.24.13:413][398]LogSavePackage: Save=127.34ms
-[2018.04.29-18.24.13:413][398]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer88C0953044E44534969BD79CA08B11D4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.24.13:416][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.24.15:118][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.24.15:305][488]LogSavePackage: Save=174.36ms
-[2018.04.29-18.24.15:305][488]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayerAEC81BB74E84A7B9DDA8F2BDAD8D8E75.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.24.15:307][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.24.26:190][ 16]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
-[2018.04.29-18.24.29:646][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.24.42:483][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.25.10:293][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.25.12:883][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.04.29-18.25.12:949][717]LogSavePackage: Save=23.71ms
-[2018.04.29-18.25.12:949][717]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainE05372FB4D1E404C65A950876AB1B8EC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
-[2018.04.29-18.25.12:951][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
-[2018.04.29-18.25.12:993][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
-[2018.04.29-18.25.13:034][717]LogSavePackage: Save=25.91ms
-[2018.04.29-18.25.13:034][717]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataA135CA62465B31C86EA442A24838172A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
-[2018.04.29-18.25.13:035][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
-[2018.04.29-18.25.16:496][865]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.29-18.25.16:563][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.29-18.25.16:564][865]PIE: New page: PIE session: Main (Apr 29, 2018, 10:25:16 AM)
-[2018.04.29-18.25.16:564][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
-[2018.04.29-18.25.16:567][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002774s)
-[2018.04.29-18.25.16:569][865]LogAIModule: Creating AISystem for world Main
-[2018.04.29-18.25.16:571][865]LogPlayLevel: PIE: World Init took: (0.003843s)
-[2018.04.29-18.25.16:571][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.007186s)
-[2018.04.29-18.25.16:621][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-18.25.16:637][865]LogInit: FAudioDevice initialized.
-[2018.04.29-18.25.16:688][865]LogLoad: Game class is 'bpGameMode_C'
-[2018.04.29-18.25.16:690][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.29-14.25.16
-[2018.04.29-18.25.16:691][865]LogWorld: Bringing up level for play took: 0.000878
-[2018.04.29-18.25.16:697][865]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
-[2018.04.29-18.25.16:699][865]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.779
-[2018.04.29-18.25.28:138][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.25.30:397][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.26.21:313][838]BlueprintLog: New page: Compile bpPlayer
-[2018.04.29-18.26.21:764][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.26.21:901][838]LogSavePackage: Save=124.79ms
-[2018.04.29-18.26.21:901][838]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer9E0A9BF045C63E50A69EF79535095F1F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.26.21:904][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.26.22:536][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset" SILENT=true
-[2018.04.29-18.26.22:666][867]LogSavePackage: Save=118.16ms
-[2018.04.29-18.26.22:666][867]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer82C6EDD64A56EDE92ECC9CB6286C8508.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
-[2018.04.29-18.26.22:668][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
-[2018.04.29-18.26.27:116][ 74]LogTemp: Repeating last play command: Selected Viewport
-[2018.04.29-18.26.27:178][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.04.29-18.26.27:178][ 74]PIE: New page: PIE session: Main (Apr 29, 2018, 10:26:27 AM)
-[2018.04.29-18.26.27:178][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
-[2018.04.29-18.26.27:182][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003682s)
-[2018.04.29-18.26.27:184][ 74]LogAIModule: Creating AISystem for world Main
-[2018.04.29-18.26.27:184][ 74]LogPlayLevel: PIE: World Init took: (0.002354s)
-[2018.04.29-18.26.27:185][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006507s)
-[2018.04.29-18.26.27:233][ 74]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.29-18.26.27:256][ 74]LogInit: FAudioDevice initialized.
-[2018.04.29-18.26.27:296][ 74]LogLoad: Game class is 'bpGameMode_C'
-[2018.04.29-18.26.27:297][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.04.29-14.26.27
-[2018.04.29-18.26.27:298][ 74]LogWorld: Bringing up level for play took: 0.001180
-[2018.04.29-18.26.27:300][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.619
-[2018.04.29-18.27.17:689][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.27.24:769][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.27.36:106][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.27.47:316][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.27.50:507][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.27.54:406][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.27.56:245][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.28.43:130][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.29.33:677][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.29.34:680][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.29.37:677][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.29.43:017][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.29.44:929][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.31.35:096][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.04.29-18.31.44:899][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.32.05:247][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.32.44:526][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.04.29-18.32.44:593][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Models/Boss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Boss.uasset" SILENT=true
-[2018.04.29-18.32.44:633][ 98]LogSavePackage: Save=22.35ms
-[2018.04.29-18.32.44:633][ 98]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/BossC2DB9F4240A7383D81EDFF9319C0E25A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Boss.uasset'
-[2018.04.29-18.32.44:637][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Boss.uasset
+[2018.05.02-03.14.54:021][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-03.14.54:021][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.02-03.14.54:063][  0]LogInit: Computer: SUPERBEAST
+[2018.05.02-03.14.54:063][  0]LogInit: User: MaximusLitvinov
+[2018.05.02-03.14.54:063][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.02-03.14.54:063][  0]LogInit: High frequency timer resolution =2.435775 MHz
+[2018.05.02-03.14.54:064][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.02-03.14.54:064][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.02-03.14.54:064][  0]LogMemory: Process Physical Memory: 277.33 MB used, 277.33 MB peak
+[2018.05.02-03.14.54:064][  0]LogMemory: Process Virtual Memory: 264.82 MB used, 264.82 MB peak
+[2018.05.02-03.14.54:064][  0]LogMemory: Physical Memory: 7907.09 MB used,  8357.93 MB free, 16265.02 MB total
+[2018.05.02-03.14.54:064][  0]LogMemory: Virtual Memory: 698.36 MB used,  8357.93 MB free, 134217728.00 MB total
+[2018.05.02-03.14.54:088][  0]LogInit: Using OS detected language (en-US).
+[2018.05.02-03.14.54:088][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.02-03.14.54:093][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.02-03.14.54:753][  0]LogStreaming: Display: Took  0.665s to EndInitTextLocalization.
+[2018.05.02-03.14.54:754][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.02-03.14.54:815][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.02-03.14.54:815][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.02-03.14.55:171][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.02-03.14.55:191][  0]LogD3D11RHI:    0. 'AMD Radeon R9 M290X' (Feature Level 11_0)
+[2018.05.02-03.14.55:191][  0]LogD3D11RHI:       4074/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.05.02-03.14.55:201][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.05.02-03.14.55:201][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.02-03.14.55:206][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.02-03.14.55:206][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.02-03.14.55:207][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.02-03.14.55:222][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.02-03.14.55:222][  0]LogD3D11RHI:     GPU DeviceId: 0x6801 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.02-03.14.55:223][  0]LogWindows: EnumDisplayDevices:
+[2018.05.02-03.14.55:223][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.05.02-03.14.55:223][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.05.02-03.14.55:223][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.05.02-03.14.55:223][  0]LogWindows:    3. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:224][  0]LogWindows:    4. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:224][  0]LogWindows:    5. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:224][  0]LogWindows:    6. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:224][  0]LogWindows:    7. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:225][  0]LogWindows:    8. 'AMD Radeon R9 M290X' (P:0 D:0)
+[2018.05.02-03.14.55:225][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.02-03.14.55:225][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 M290X
+[2018.05.02-03.14.55:225][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.02-03.14.55:225][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.02-03.14.55:225][  0]LogRHI: Texture pool is 2852 MB (70% of 4074 MB)
+[2018.05.02-03.14.55:254][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.02-03.14.55:271][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.05.02-03.14.55:272][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Intermediate/Shaders/WorkingDirectory/23828/).
+[2018.05.02-03.14.55:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maximus Litvinov/AppData/Local/Temp/UnrealShaderWorkingDir/3456244D4A7C3300210CE7A91689F15E/'.
+[2018.05.02-03.14.55:786][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.02-03.14.55:813][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.02-03.14.55:843][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.02-03.14.55:872][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.02-03.14.55:901][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.02-03.14.55:928][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.02-03.14.55:956][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.02-03.14.55:984][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.02-03.14.55:998][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.02-03.14.56:025][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.02-03.14.56:050][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.02-03.14.56:075][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.02-03.14.56:099][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.02-03.14.56:124][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.02-03.14.56:147][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.02-03.14.56:197][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.02-03.14.56:198][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.02-03.14.56:222][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.02-03.14.56:224][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.02-03.14.56:277][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.02-03.14.56:302][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.02-03.14.56:328][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.02-03.14.56:354][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.02-03.14.56:379][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.02-03.14.56:403][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.02-03.14.56:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.02-03.14.56:599][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.02-03.14.56:599][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.02-03.14.56:599][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.02-03.14.58:043][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.02-03.14.58:194][  0]LogDerivedDataCache: Loaded boot cache 0.15s 74MB C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.02-03.14.58:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.02-03.14.58:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.02-03.14.58:194][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.02-03.14.58:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.02-03.14.58:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.02-03.14.58:224][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.02-03.14.58:236][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.02-03.14.58:265][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.02-03.14.58:266][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.02-03.14.58:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-03.14.58:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-03.14.58:497][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2018.05.02-03.14.59:130][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-03.14.59:414][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.02-03.14.59:420][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.02-03.14.59:420][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.02-03.14.59:420][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.02-03.14.59:420][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.02-03.14.59:420][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.02-03.14.59:491][  0]LogNetVersion: SpaceShooterTemplate , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 318975527)
+[2018.05.02-03.15.00:546][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.217398 seconds
+[2018.05.02-03.15.00:561][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.02-03.15.00:561][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.02-03.15.00:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.02-03.15.03:672][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.02-03.15.03:729][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.02-03.15.04:397][  0]SourceControl: Source control is disabled
+[2018.05.02-03.15.04:397][  0]SourceControl: Source control is disabled
+[2018.05.02-03.15.04:428][  0]SourceControl: Source control is disabled
+[2018.05.02-03.15.04:458][  0]SourceControl: Source control is disabled
+[2018.05.02-03.15.05:366][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.02-03.15.05:688][  0]LogOcInput: OculusInput pre-init called
+[2018.05.02-03.15.05:891][  0]LogEngine: Initializing Engine...
+[2018.05.02-03.15.05:894][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.02-03.15.05:898][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-03.15.05:898][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-03.15.06:378][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.02-03.15.06:400][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.15.06:469][  0]LogInit: FAudioDevice initialized.
+[2018.05.02-03.15.06:672][  0]LogDerivedDataCache: Saved boot cache 0.20s 74MB C:/Users/Maximus Litvinov/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.02-03.15.06:704][  0]LogInit: Texture streaming: Enabled
+[2018.05.02-03.15.06:737][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.02-03.15.06:779][  0]LogInit: Transaction tracking system initialized
+[2018.05.02-03.15.06:824][  0]BlueprintLog: New page: Editor Load
+[2018.05.02-03.15.06:976][  0]LocalizationService: Localization service is disabled
+[2018.05.02-03.15.07:181][  0]LogConsoleResponse: Display: 
+[2018.05.02-03.15.07:468][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.02-03.15.07:468][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.02-03.15.07:469][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.02-03.15.07:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-03.15.07:469][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-03.15.08:047][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/' took 0.02s
+[2018.05.02-03.15.08:136][  0]SourceControl: Source control is disabled
+[2018.05.02-03.15.08:136][  0]Cmd: MAP LOAD FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-03.15.08:137][  0]LightingResults: New page: Lighting Build
+[2018.05.02-03.15.08:143][  0]MapCheck: New page: Map Check
+[2018.05.02-03.15.08:143][  0]LightingResults: New page: Lighting Build
+[2018.05.02-03.15.09:357][  0]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.15.09:367][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-03.15.09:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-03.15.09:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.717ms to complete.
+[2018.05.02-03.15.09:530][  0]LogFileHelpers: Loading map 'Main' took 1.394
+[2018.05.02-03.15.09:763][  0]LogCollectionManager: Loaded 0 collections in 0.003237 seconds
+[2018.05.02-03.15.09:821][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Saved/Collections/' took 0.01s
+[2018.05.02-03.15.09:821][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/Developers/MaximusLitvinov/Collections/' took 0.01s
+[2018.05.02-03.15.09:821][  0]LogFileCache: Scanning file cache for directory 'C:/Development/Udemy/UE4/SpaceShooterTemplate/Content/Collections/' took 0.01s
+[2018.05.02-03.15.09:821][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.02-03.15.09:838][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2452 classes and 558 folders.
+[2018.05.02-03.15.09:851][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.02-03.15.09:930][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.02-03.15.09:938][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.02-03.15.09:966][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-03.15.09:969][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.02-03.15.09:977][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.02-03.15.10:178][  0]LogRenderer: Reallocating scene render targets to support 1152x576 Format 9 NumSamples 1 (Frame:1).
+[2018.05.02-03.15.10:896][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.02-03.15.10:896][  0]LogLoad: (Engine Initialization) Total time: 21.17 seconds
+[2018.05.02-03.15.10:896][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.02-03.15.11:231][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.02-03.15.11:263][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.02-03.15.11:403][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.02-03.15.12:126][  3]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.02-03.15.13:512][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.05.02-03.15.16:632][  3]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.02-03.15.17:081][  4]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.02-03.15.17:739][  6]LogAssetRegistry: Asset discovery search completed in 19.2637 seconds
+[2018.05.02-03.15.17:743][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.02-03.15.17:743][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000107 seconds (updated 0 objects)
+[2018.05.02-03.15.24:426][ 27]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.05.02-03.15.24:427][ 27]LogSynthBenchmark: Display: ===============
+[2018.05.02-03.15.24:427][ 27]LogSynthBenchmark: Display: Main Processor:
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:          ... 0.021943 s/Run 'RayIntersect'
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:          ... 0.020878 s/Run 'Fractal'
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display: 
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   CPU Perf Index 0: 116.7 (weight 1.00)
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   CPU Perf Index 1: 137.0 (weight 1.50)
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:  
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display: Graphics:
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   Adapter Name: 'AMD Radeon R9 M290X'
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   Vendor Id: 0x1002
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   Device Id: 0x6801
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   Device Revision: 0x0
+[2018.05.02-03.15.24:641][ 27]LogSynthBenchmark: Display:   GPU Memory: 4075/0/8133 MB
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:   GPU first test: 0.06s
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 2.585 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 2.960 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 2.464 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 7.354 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 0.475 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.05.02-03.15.24:813][ 27]LogSynthBenchmark: Display:          ... 1.581 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.05.02-03.15.24:814][ 27]LogSynthBenchmark: Display:          ... 1.682 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU second test: 0.28s
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 3.680 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 4.017 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 2.934 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 15.104 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 0.473 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 1.671 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 1.683 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 3.680 s/GigaPix, Confidence=89% 'ALUHeavyNoise'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 4.017 s/GigaPix, Confidence=89% 'TexHeavy'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 2.934 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 15.104 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 0.473 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 1.671 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... 1.683 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display: 
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 0: 80.0 (weight 1.00)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 1: 53.9 (weight 0.10)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 2: 76.3 (weight 0.10)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 3: 59.3 (weight 3.00)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 4: 44.2 (weight 1.00)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 5: 108.7 (weight 0.00)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPU Perf Index 6: 95.2 (weight 0.00)
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   CPUIndex: 128.9
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:   GPUIndex: 60.6
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display: 
+[2018.05.02-03.15.25:182][ 27]LogSynthBenchmark: Display:          ... Total Time: 0.756010 sec
+[2018.05.02-03.15.33:201][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.16.19:181][ 56]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.16.19:607][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.16.19:715][ 56]LogSavePackage: Save=66.95ms
+[2018.05.02-03.16.19:715][ 56]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase9F3B66C64595C66C463AE1BE52745F24.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.16.19:718][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.16.19:721][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.16.19:756][ 56]LogSavePackage: Save=16.81ms
+[2018.05.02-03.16.19:756][ 56]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne11C7E41745CC45D8312793875D372879.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.16.19:760][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.16.20:075][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.16.20:155][ 62]LogSavePackage: Save=68.54ms
+[2018.05.02-03.16.20:155][ 62]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase9BB1CF7D43EB3716A8F3EEA617CAF9F1.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.16.20:156][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.16.42:294][641]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.05.02-03.16.42:294][641]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.05.02-03.16.51:674][203]BlueprintLog: New page: Compile bpEnemyOne
+[2018.05.02-03.16.51:952][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.16.51:984][203]LogSavePackage: Save=17.93ms
+[2018.05.02-03.16.51:984][203]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneB8499769432AD57A24366992243A4DE7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.16.51:987][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.16.52:334][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.16.52:364][219]LogSavePackage: Save=16.46ms
+[2018.05.02-03.16.52:364][219]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneFB840089404D4544A148D89022AF3084.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.16.52:365][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.17.13:925][746]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.17.14:388][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.17.14:469][746]LogSavePackage: Save=68.34ms
+[2018.05.02-03.17.14:469][746]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseD8D31D434A5F34278DC65E897101DCD1.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.17.14:472][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.17.14:476][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.17.14:504][746]LogSavePackage: Save=16.85ms
+[2018.05.02-03.17.14:504][746]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneF3C9D4A740A55421CFE3088C0CF3B696.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.17.14:508][746]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.17.14:807][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.17.14:886][752]LogSavePackage: Save=67.21ms
+[2018.05.02-03.17.14:886][752]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase2A0D13ED49CE902E888F29B59E6F6846.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.17.14:887][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.17.23:266][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-03.17.23:328][247]LogSavePackage: Save=21.99ms
+[2018.05.02-03.17.23:328][247]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainF51325784116888A7C3CDA9C6E2160F7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.02-03.17.23:331][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.02-03.17.23:370][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.02-03.17.23:410][247]LogSavePackage: Save=23.91ms
+[2018.05.02-03.17.23:410][247]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataEF631D0841D0B59E7AF2E88682AEE756.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.02-03.17.23:412][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.02-03.17.24:124][290]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.17.24:162][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.17.24:162][290]PIE: New page: PIE session: Main (May 1, 2018, 7:17:24 PM)
+[2018.05.02-03.17.24:162][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.17.24:164][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001434s)
+[2018.05.02-03.17.24:165][290]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.17.24:165][290]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2018.05.02-03.17.24:165][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002450s)
+[2018.05.02-03.17.24:191][290]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.17.24:208][290]LogInit: FAudioDevice initialized.
+[2018.05.02-03.17.24:252][290]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.17.24:255][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.17.24
+[2018.05.02-03.17.24:255][290]LogWorld: Bringing up level for play took: 0.000882
+[2018.05.02-03.17.24:259][290]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.02-03.17.24:260][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.353
+[2018.05.02-03.18.00:451][455]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2018.05.02-03.18.36:391][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.02-03.19.08:454][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.19.32:342][774]LogEditorTransaction: Undo Create Capsule Collision
+[2018.05.02-03.19.34:845][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Models/Enem1" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Enem1.uasset" SILENT=true
+[2018.05.02-03.19.34:889][902]LogSavePackage: Save=19.82ms
+[2018.05.02-03.19.34:889][902]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Enem1E0D1CF2648F3FD83CC672B9BAFFD4A78.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Enem1.uasset'
+[2018.05.02-03.19.34:892][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Models/Enem1.uasset
+[2018.05.02-03.21.08:194][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.21.08:275][ 35]LogSavePackage: Save=68.08ms
+[2018.05.02-03.21.08:275][ 35]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase1EA1AE8F45B6F3FD6BA4C1879C52DE5A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.21.08:279][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.21.08:718][ 61]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.21.10:326][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.21.10:370][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.21.10:370][133]PIE: New page: PIE session: Main (May 1, 2018, 7:21:10 PM)
+[2018.05.02-03.21.10:370][133]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.21.10:373][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002214s)
+[2018.05.02-03.21.10:373][133]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.21.10:374][133]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2018.05.02-03.21.10:374][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003424s)
+[2018.05.02-03.21.10:409][133]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.21.10:431][133]LogInit: FAudioDevice initialized.
+[2018.05.02-03.21.10:464][133]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.21.10:466][133]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.21.10
+[2018.05.02-03.21.10:466][133]LogWorld: Bringing up level for play took: 0.001167
+[2018.05.02-03.21.10:468][133]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.561
+[2018.05.02-03.23.58:229][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.25.39:209][627]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.25.39:259][627]LogBlueprint: Warning: [Compiler bpEnemyBase] 'Bp Player' does not inherit from 'Primitive Component' ( Cast To bpPlayer  would always fail).
+[2018.05.02-03.25.39:634][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.25.39:674][627]LogSavePackage: Save=17.58ms
+[2018.05.02-03.25.39:674][627]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne72AD1BB743024DB0127E33B1F6C38F46.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.25.39:678][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.25.39:688][627]LogBlueprint: Warning: [Compiler bpEnemyBase] [0649.96] Compile of bpEnemyBase successful, but with 1 Warning(s) [in 477 ms] (/Game/Blueprints/Enemies/bpEnemyBase.bpEnemyBase)
+[2018.05.02-03.25.40:039][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.25.40:143][640]LogSavePackage: Save=66.14ms
+[2018.05.02-03.25.40:143][640]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseB4EACA2F4727D7730AB94FB0BA3E7DC6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.25.40:146][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.26.06:208][646]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.26.06:624][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.26.06:707][646]LogSavePackage: Save=69.86ms
+[2018.05.02-03.26.06:707][646]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase7C6F3E644817635C1924E8B2C4250F42.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.26.06:710][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.26.07:271][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.26.07:348][671]LogSavePackage: Save=66.27ms
+[2018.05.02-03.26.07:348][671]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseD8F93866406498A3C735B982DAD22D7F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.26.07:350][671]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.26.11:357][909]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.26.11:414][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.26.11:414][909]PIE: New page: PIE session: Main (May 1, 2018, 7:26:11 PM)
+[2018.05.02-03.26.11:414][909]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.26.11:416][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001516s)
+[2018.05.02-03.26.11:417][909]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.26.11:417][909]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.05.02-03.26.11:417][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002545s)
+[2018.05.02-03.26.11:453][909]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.26.11:470][909]LogInit: FAudioDevice initialized.
+[2018.05.02-03.26.11:508][909]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.26.11:509][909]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.26.11
+[2018.05.02-03.26.11:510][909]LogWorld: Bringing up level for play took: 0.000877
+[2018.05.02-03.26.11:512][909]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.396
+[2018.05.02-03.28.19:333][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.02-03.28.19:377][252]LogSavePackage: Save=21.59ms
+[2018.05.02-03.28.19:377][252]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto165412D324AE6E7B71DD23EA292D0AC89.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2018.05.02-03.28.19:378][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto1.umap
+[2018.05.02-03.28.19:381][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.071
+[2018.05.02-03.28.19:381][252]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2018.05.02-03.28.52:399][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-03.28.52:454][186]LogSavePackage: Save=21.25ms
+[2018.05.02-03.28.52:455][186]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainFEB3045F4B8D94CBF11B07B873DF8827.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.02-03.28.52:458][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.02-03.28.52:494][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.02-03.28.52:530][186]LogSavePackage: Save=18.47ms
+[2018.05.02-03.28.52:530][186]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData32A40C4D4A3304EED8EAFE9613C386CF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.02-03.28.52:531][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.02-03.28.56:757][326]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.02-03.28.56:825][326]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.05.02-03.28.56:825][326]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.02-03.28.56:825][326]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.02-03.28.56:825][326]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.02-03.28.56:825][326]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.02-03.28.56:844][326]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.02-03.30.01:356][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.30.14:264][789]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.30.14:690][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.30.14:771][789]LogSavePackage: Save=64.27ms
+[2018.05.02-03.30.14:771][789]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase7AAA894E473BB80103B2C38338525D40.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.30.14:774][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.30.17:033][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.30.17:084][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.30.17:084][913]PIE: New page: PIE session: Main (May 1, 2018, 7:30:17 PM)
+[2018.05.02-03.30.17:084][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.30.17:086][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001777s)
+[2018.05.02-03.30.17:086][913]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.30.17:087][913]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.05.02-03.30.17:087][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002863s)
+[2018.05.02-03.30.17:123][913]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.30.17:140][913]LogInit: FAudioDevice initialized.
+[2018.05.02-03.30.17:176][913]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.30.17:177][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.30.17
+[2018.05.02-03.30.17:178][913]LogWorld: Bringing up level for play took: 0.000750
+[2018.05.02-03.30.17:179][913]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.728
+[2018.05.02-03.30.22:700][227]LogEditorViewport: Clicking on Actor (LMB): bpEnemyOne_C (bpEnemyOne)
+[2018.05.02-03.30.32:102][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.30.56:301][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.30.59:457][289]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_Event', from offset 0
+[2018.05.02-03.30.59:457][289]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enemies/bpEnemyBase.bpEnemyBase_C:ReceiveHit
+
+[2018.05.02-03.30.59:459][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.02-03.31.29:777][499]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_Event', from offset 0
+[2018.05.02-03.31.29:777][499]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enemies/bpEnemyBase.bpEnemyBase_C:ReceiveHit
+
+[2018.05.02-03.31.29:780][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.02-03.32.12:241][260]LogSlate: Window 'bpPlayer' being destroyed
+[2018.05.02-03.32.12:247][260]LogSlate: Window 'bpPlayer' being destroyed
+[2018.05.02-03.32.18:838][326]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.05.02-03.32.18:908][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.02-03.32.20:963][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottom)
+[2018.05.02-03.32.35:321][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.34.09:820][713]LogSlate: Window 'bpPlayer' being destroyed
+[2018.05.02-03.34.28:127][786]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.34.28:581][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.34.28:688][786]LogSavePackage: Save=67.03ms
+[2018.05.02-03.34.28:688][786]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseDA03D1F14C989AF76C9671A2C42C82EB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.34.28:691][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.34.28:951][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.34.29:033][793]LogSavePackage: Save=66.44ms
+[2018.05.02-03.34.29:033][793]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase520870E14C0FAF1E43FE33A452D0DBBB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.34.29:035][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.35.02:871][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Right)
+[2018.05.02-03.35.04:450][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottom)
+[2018.05.02-03.35.19:647][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Right)
+[2018.05.02-03.35.33:907][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.35.45:437][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-03.36.23:084][290]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.36.23:421][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.36.23:504][290]LogSavePackage: Save=67.08ms
+[2018.05.02-03.36.23:504][290]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseEBE44547469A20B36D50C196D67669EF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.36.23:508][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.36.23:511][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.36.23:545][290]LogSavePackage: Save=16.26ms
+[2018.05.02-03.36.23:545][290]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneA3FCEE7944D9FD0CBB15519BBEBF734D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.36.23:548][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.36.23:849][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.36.23:929][296]LogSavePackage: Save=66.72ms
+[2018.05.02-03.36.23:929][296]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseF5342B094FA4F436AF2AA8AD51D1D734.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.36.23:931][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.36.27:287][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.36.27:350][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.36.27:350][496]PIE: New page: PIE session: Main (May 1, 2018, 7:36:27 PM)
+[2018.05.02-03.36.27:351][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.36.27:353][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002005s)
+[2018.05.02-03.36.27:353][496]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.36.27:353][496]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.05.02-03.36.27:353][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002984s)
+[2018.05.02-03.36.27:387][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.36.27:402][496]LogInit: FAudioDevice initialized.
+[2018.05.02-03.36.27:443][496]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.36.27:444][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.36.27
+[2018.05.02-03.36.27:445][496]LogWorld: Bringing up level for play took: 0.001081
+[2018.05.02-03.36.27:447][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.46
+[2018.05.02-03.36.39:079][167]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.36.39:411][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.36.39:489][167]LogSavePackage: Save=66.52ms
+[2018.05.02-03.36.39:489][167]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase1B7059674CB25200323BF19BFD4A6720.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.36.39:493][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.36.39:496][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.02-03.36.39:524][167]LogSavePackage: Save=16.48ms
+[2018.05.02-03.36.39:524][167]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneC649F3C74902AEC0A7DBA1A0CAE4A1DE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.02-03.36.39:527][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.02-03.36.39:862][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.36.39:942][175]LogSavePackage: Save=68.05ms
+[2018.05.02-03.36.39:942][175]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase88CFCB634EE27E074BA619A9ACF4F3B2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.36.39:944][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.36.45:299][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottom)
+[2018.05.02-03.36.46:474][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.02-03.37.00:032][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.37.00:514][386]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.37.00:553][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.37.00:553][386]PIE: New page: PIE session: Main (May 1, 2018, 7:37:00 PM)
+[2018.05.02-03.37.00:553][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.37.00:554][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001348s)
+[2018.05.02-03.37.00:555][386]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.37.00:555][386]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.05.02-03.37.00:555][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002019s)
+[2018.05.02-03.37.00:580][386]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.37.00:592][386]LogInit: FAudioDevice initialized.
+[2018.05.02-03.37.00:625][386]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.37.00:626][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.37.00
+[2018.05.02-03.37.00:627][386]LogWorld: Bringing up level for play took: 0.000762
+[2018.05.02-03.37.00:628][386]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.721
+[2018.05.02-03.37.22:827][701]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.37.22:850][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.37.22:850][701]PIE: New page: PIE session: Main (May 1, 2018, 7:37:22 PM)
+[2018.05.02-03.37.22:850][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.37.22:852][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001363s)
+[2018.05.02-03.37.22:852][701]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.37.22:852][701]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.05.02-03.37.22:852][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002121s)
+[2018.05.02-03.37.22:877][701]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.37.22:890][701]LogInit: FAudioDevice initialized.
+[2018.05.02-03.37.22:926][701]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.37.22:927][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.37.22
+[2018.05.02-03.37.22:927][701]LogWorld: Bringing up level for play took: 0.000810
+[2018.05.02-03.37.22:929][701]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.021
+[2018.05.02-03.37.26:455][904]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.37.26:477][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.37.26:477][904]PIE: New page: PIE session: Main (May 1, 2018, 7:37:26 PM)
+[2018.05.02-03.37.26:477][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.37.26:478][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2018.05.02-03.37.26:479][904]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.37.26:479][904]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.05.02-03.37.26:479][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002178s)
+[2018.05.02-03.37.26:502][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.37.26:515][904]LogInit: FAudioDevice initialized.
+[2018.05.02-03.37.26:547][904]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.37.26:548][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.37.26
+[2018.05.02-03.37.26:548][904]LogWorld: Bringing up level for play took: 0.000781
+[2018.05.02-03.37.26:550][904]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.643
+[2018.05.02-03.37.57:964][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.38.23:027][436]LogSlate: Window 'Cube' being destroyed
+[2018.05.02-03.38.23:032][436]LogSlate: Window 'Cube' being destroyed
+[2018.05.02-03.39.22:752][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.39.55:434][705]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.05.02-03.40.18:211][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.40.18:212][706]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.40.18:236][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.40.18:236][706]PIE: New page: PIE session: Main (May 1, 2018, 7:40:18 PM)
+[2018.05.02-03.40.18:236][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.40.18:238][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001646s)
+[2018.05.02-03.40.18:238][706]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.40.18:238][706]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.05.02-03.40.18:238][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002564s)
+[2018.05.02-03.40.18:267][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.40.18:281][706]LogInit: FAudioDevice initialized.
+[2018.05.02-03.40.18:315][706]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.40.18:316][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.40.18
+[2018.05.02-03.40.18:317][706]LogWorld: Bringing up level for play took: 0.000753
+[2018.05.02-03.40.18:318][706]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.411
+[2018.05.02-03.40.25:068][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.40.25:150][107]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.40.25:172][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.40.25:173][107]PIE: New page: PIE session: Main (May 1, 2018, 7:40:25 PM)
+[2018.05.02-03.40.25:173][107]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.40.25:175][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002063s)
+[2018.05.02-03.40.25:175][107]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.40.25:176][107]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.05.02-03.40.25:176][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003137s)
+[2018.05.02-03.40.25:201][107]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.40.25:212][107]LogInit: FAudioDevice initialized.
+[2018.05.02-03.40.25:244][107]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.40.25:246][107]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.40.25
+[2018.05.02-03.40.25:246][107]LogWorld: Bringing up level for play took: 0.000736
+[2018.05.02-03.40.25:248][107]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.66
+[2018.05.02-03.40.34:585][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.40.34:742][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-03.40.34:806][664]LogSavePackage: Save=20.99ms
+[2018.05.02-03.40.34:806][664]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main75A040F8424427D210C4F1BF870F7B42.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.02-03.40.34:809][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.02-03.40.34:848][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.02-03.40.34:883][664]LogSavePackage: Save=18.15ms
+[2018.05.02-03.40.34:883][664]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData229C47814EBD50B3B6304CB29EFA93B4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.02-03.40.34:884][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.02-03.42.22:812][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottom)
+[2018.05.02-03.42.34:963][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.45.35:287][545]LogActorFactory: Actor Factory created Cube
+[2018.05.02-03.45.36:399][605]LogActorFactory: Actor Factory created Cube
+[2018.05.02-03.45.46:425][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.46.11:355][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.46.26:074][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.46.26:180][132]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.46.26:218][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.46.26:218][132]PIE: New page: PIE session: Main (May 1, 2018, 7:46:26 PM)
+[2018.05.02-03.46.26:218][132]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.46.26:220][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002187s)
+[2018.05.02-03.46.26:221][132]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.46.26:221][132]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2018.05.02-03.46.26:221][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003394s)
+[2018.05.02-03.46.26:252][132]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.46.26:270][132]LogInit: FAudioDevice initialized.
+[2018.05.02-03.46.26:305][132]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.46.26:307][132]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.46.26
+[2018.05.02-03.46.26:308][132]LogWorld: Bringing up level for play took: 0.000901
+[2018.05.02-03.46.26:309][132]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.402
+[2018.05.02-03.46.29:072][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.46.29:115][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.46.29:116][277]PIE: New page: PIE session: Main (May 1, 2018, 7:46:29 PM)
+[2018.05.02-03.46.29:116][277]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.46.29:119][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002684s)
+[2018.05.02-03.46.29:121][277]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.46.29:121][277]LogPlayLevel: PIE: World Init took: (0.002242s)
+[2018.05.02-03.46.29:121][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005160s)
+[2018.05.02-03.46.29:158][277]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.46.29:175][277]LogInit: FAudioDevice initialized.
+[2018.05.02-03.46.29:211][277]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.46.29:212][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.46.29
+[2018.05.02-03.46.29:213][277]LogWorld: Bringing up level for play took: 0.001065
+[2018.05.02-03.46.29:214][277]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.693
+[2018.05.02-03.46.31:609][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.46.31:655][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.46.31:656][402]PIE: New page: PIE session: Main (May 1, 2018, 7:46:31 PM)
+[2018.05.02-03.46.31:656][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.46.31:664][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007255s)
+[2018.05.02-03.46.31:664][402]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.46.31:665][402]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.05.02-03.46.31:665][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.008394s)
+[2018.05.02-03.46.31:698][402]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.46.31:714][402]LogInit: FAudioDevice initialized.
+[2018.05.02-03.46.31:751][402]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.46.31:753][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.46.31
+[2018.05.02-03.46.31:753][402]LogWorld: Bringing up level for play took: 0.001151
+[2018.05.02-03.46.31:756][402]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.152
+[2018.05.02-03.46.35:084][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.02-03.46.36:917][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.46.37:016][666]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.46.37:040][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.46.37:041][666]PIE: New page: PIE session: Main (May 1, 2018, 7:46:37 PM)
+[2018.05.02-03.46.37:041][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.46.37:042][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001739s)
+[2018.05.02-03.46.37:043][666]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.46.37:044][666]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.05.02-03.46.37:044][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003089s)
+[2018.05.02-03.46.37:073][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.46.37:086][666]LogInit: FAudioDevice initialized.
+[2018.05.02-03.46.37:125][666]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.46.37:127][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.46.37
+[2018.05.02-03.46.37:127][666]LogWorld: Bringing up level for play took: 0.000895
+[2018.05.02-03.46.37:129][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.778
+[2018.05.02-03.46.39:905][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.46.39:949][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.46.39:949][813]PIE: New page: PIE session: Main (May 1, 2018, 7:46:39 PM)
+[2018.05.02-03.46.39:949][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.46.39:953][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003218s)
+[2018.05.02-03.46.39:954][813]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.46.39:955][813]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2018.05.02-03.46.39:955][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005521s)
+[2018.05.02-03.46.40:000][813]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.46.40:015][813]LogInit: FAudioDevice initialized.
+[2018.05.02-03.46.40:061][813]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.46.40:062][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.46.40
+[2018.05.02-03.46.40:062][813]LogWorld: Bringing up level for play took: 0.000994
+[2018.05.02-03.46.40:064][813]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.156
+[2018.05.02-03.46.43:542][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.02-03.46.44:419][ 32]Cmd: DELETE
+[2018.05.02-03.46.44:419][ 32]Cmd: ACTOR DELETE
+[2018.05.02-03.46.44:425][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.02-03.46.44:453][ 32]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.05.02-03.46.51:620][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-03.49.07:014][581]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.49.07:037][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.49.07:037][581]PIE: New page: PIE session: Main (May 1, 2018, 7:49:07 PM)
+[2018.05.02-03.49.07:037][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.49.07:039][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001640s)
+[2018.05.02-03.49.07:039][581]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.49.07:039][581]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.05.02-03.49.07:039][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002545s)
+[2018.05.02-03.49.07:066][581]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.49.07:078][581]LogInit: FAudioDevice initialized.
+[2018.05.02-03.49.07:108][581]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.49.07:109][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.49.07
+[2018.05.02-03.49.07:109][581]LogWorld: Bringing up level for play took: 0.000848
+[2018.05.02-03.49.07:111][581]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.796
+[2018.05.02-03.50.56:743][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.02-03.50.56:787][560]LogSavePackage: Save=21.05ms
+[2018.05.02-03.50.56:787][560]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto2431886B245733E8B6BE4A9A4AD3B67ED.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2018.05.02-03.50.56:788][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto2.umap
+[2018.05.02-03.50.56:793][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.073
+[2018.05.02-03.50.56:793][560]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2018.05.02-03.52.46:821][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-03.52.46:883][400]LogSavePackage: Save=22.84ms
+[2018.05.02-03.52.46:883][400]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main66E1B9BA456C2C8ACED560BDFC7426A6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.02-03.52.46:886][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.02-03.52.46:922][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.02-03.52.46:957][400]LogSavePackage: Save=17.98ms
+[2018.05.02-03.52.46:957][400]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData75EFFD964F01FAE1905147BA07FCA75A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.02-03.52.46:958][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.02-03.52.47:977][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.52.47:998][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.52.47:998][460]PIE: New page: PIE session: Main (May 1, 2018, 7:52:47 PM)
+[2018.05.02-03.52.47:998][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.52.48:000][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2018.05.02-03.52.48:000][460]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.52.48:000][460]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.05.02-03.52.48:000][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002400s)
+[2018.05.02-03.52.48:026][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.52.48:041][460]LogInit: FAudioDevice initialized.
+[2018.05.02-03.52.48:078][460]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.52.48:079][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.52.48
+[2018.05.02-03.52.48:080][460]LogWorld: Bringing up level for play took: 0.000832
+[2018.05.02-03.52.48:081][460]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.174
+[2018.05.02-03.54.56:014][171]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.02-03.54.56:355][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.02-03.54.56:460][171]LogSavePackage: Save=66.83ms
+[2018.05.02-03.54.56:460][171]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase883D2B1F49FA8BAECE5A2FBAED36392D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.02-03.54.56:463][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.02-03.54.58:314][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-03.54.58:361][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-03.54.58:362][271]PIE: New page: PIE session: Main (May 1, 2018, 7:54:58 PM)
+[2018.05.02-03.54.58:362][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.02-03.54.58:363][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001585s)
+[2018.05.02-03.54.58:364][271]LogAIModule: Creating AISystem for world Main
+[2018.05.02-03.54.58:364][271]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2018.05.02-03.54.58:364][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002637s)
+[2018.05.02-03.54.58:396][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-03.54.58:412][271]LogInit: FAudioDevice initialized.
+[2018.05.02-03.54.58:446][271]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.02-03.54.58:448][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.01-23.54.58
+[2018.05.02-03.54.58:448][271]LogWorld: Bringing up level for play took: 0.001048
+[2018.05.02-03.54.58:450][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.543
+[2018.05.02-03.55.58:910][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.02-03.55.58:976][990]LogSavePackage: Save=23.47ms
+[2018.05.02-03.55.58:976][990]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main6DAB1591497454B621EC759920569989.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.02-03.55.58:980][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.02-03.55.59:027][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.02-03.55.59:065][990]LogSavePackage: Save=22.04ms
+[2018.05.02-03.55.59:066][990]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData21D39B0C4B3D007DAC863B9F2E00D136.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.02-03.55.59:067][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
