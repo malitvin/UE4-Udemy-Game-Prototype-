@@ -931,3 +931,583 @@ Script call stack:
 [2018.05.02-03.55.59:065][990]LogSavePackage: Save=22.04ms
 [2018.05.02-03.55.59:066][990]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData21D39B0C4B3D007DAC863B9F2E00D136.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
 [2018.05.02-03.55.59:067][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.02-04.13.33:827][932]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-04.13.39:811][950]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-12.47.08:559][376]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-13.02.05:880][ 68]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-13.02.11:877][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-01.35.21:984][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-02.01.00:528][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-02.01.00:558][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-02.01.00:558][596]PIE: New page: PIE session: Main (May 2, 2018, 6:01:00 PM)
+[2018.05.03-02.01.00:558][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-02.01.00:560][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001682s)
+[2018.05.03-02.01.00:561][596]LogAIModule: Creating AISystem for world Main
+[2018.05.03-02.01.00:561][596]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.05.03-02.01.00:561][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002677s)
+[2018.05.03-02.01.00:590][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-02.01.00:605][596]LogInit: FAudioDevice initialized.
+[2018.05.03-02.01.00:637][596]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-02.01.00:639][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-22.01.00
+[2018.05.03-02.01.00:639][596]LogWorld: Bringing up level for play took: 0.000855
+[2018.05.03-02.01.00:640][596]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.397
+[2018.05.03-02.01.12:902][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.02.29:723][748]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.03-02.04.02:472][768]LogSlate: Window 'bpEnemyTwo*' being destroyed
+[2018.05.03-02.06.42:001][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.03-02.06.48:804][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.06.54:743][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.07.37:848][198]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.03-02.07.38:113][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.03-02.07.38:140][198]LogSavePackage: Save=21.95ms
+[2018.05.03-02.07.38:140][198]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo3F659DA14607E383ECD8A9B41379A39A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.03-02.07.38:143][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.03-02.07.38:674][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.07.38:819][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.03-02.07.38:861][234]LogSavePackage: Save=15.52ms
+[2018.05.03-02.07.38:861][234]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo358C27CA4BC6832BD9337EB029570541.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.03-02.07.38:862][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.03-02.07.57:367][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.09.51:391][101]LogBlueprint: Warning: [bpEnemyTwo] 'ProjectileSpawn' variable not found. Base class was probably changed. /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo
+[2018.05.03-02.10.06:328][929]LogEditorTransaction: Undo Paste clipboard contents
+[2018.05.03-02.10.06:869][960]LogEditorTransaction: Undo Delete current selection
+[2018.05.03-02.10.14:481][405]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo:EventGraph.K2Node_Event_2 or K2Node_Event /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo:EventGraph.K2Node_Event_2
+[2018.05.03-02.10.14:481][405]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo:EventGraph.K2Node_CallParentFunction_2 or K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo:EventGraph.K2Node_CallParentFunction_2
+[2018.05.03-02.10.14:484][405]LogBlueprint: Warning: [bpEnemyTwo] 'ProjectileSpawn' variable not found. Base class was probably changed. /Game/Blueprints/Enemies/bpEnemyTwo.bpEnemyTwo
+[2018.05.03-02.12.21:814][281]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.03-02.12.22:073][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.03-02.12.22:111][281]LogSavePackage: Save=19.60ms
+[2018.05.03-02.12.22:111][281]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo53DE6D9A41789A8465982192B6F353AD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.03-02.12.22:116][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.03-02.12.24:666][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.03-02.12.24:712][431]LogSavePackage: Save=24.72ms
+[2018.05.03-02.12.24:712][431]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo4EDB65E14AAFB8DA7DD24CB38835E867.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.03-02.12.24:714][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.03-02.12.53:111][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.13.28:867][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:867][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:868][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:868][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:869][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:870][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:870][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.28:870][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:439][534]BlueprintLog: New page: Compile bpProjectileEnemy
+[2018.05.03-02.13.30:541][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:541][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:541][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:714][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:715][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:715][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:715][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:726][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:726][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:726][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:727][534]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_16:PersistentLevel.bpProjectileEnemy_C_1.ProjectileMesh' 
+[2018.05.03-02.13.30:843][534]LogSavePackage: Save=27.11ms
+[2018.05.03-02.13.30:843][534]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileEnemyA06BD0F54B1894F16EFD6FAB921104AE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset'
+[2018.05.03-02.13.30:846][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset
+[2018.05.03-02.13.31:396][560]LogSavePackage: Save=19.38ms
+[2018.05.03-02.13.31:396][560]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileEnemyD1CA96E74E0373D3610F97BBED9CD3A2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset'
+[2018.05.03-02.13.31:397][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset
+[2018.05.03-02.13.39:757][922]Cmd: POLY SELECT ALL
+[2018.05.03-02.13.51:130][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.13.52:514][676]EditorErrors: New page: Actor attachment
+[2018.05.03-02.14.07:983][598]LogEditorActor: Deleted Actor: bpEnemyOne_C
+[2018.05.03-02.14.08:011][598]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.05.03-02.14.08:901][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-02.14.08:945][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-02.14.08:945][650]PIE: New page: PIE session: Main (May 2, 2018, 6:14:08 PM)
+[2018.05.03-02.14.08:945][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-02.14.08:946][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001445s)
+[2018.05.03-02.14.08:947][650]LogAIModule: Creating AISystem for world Main
+[2018.05.03-02.14.08:947][650]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.05.03-02.14.08:947][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002592s)
+[2018.05.03-02.14.08:977][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-02.14.08:990][650]LogInit: FAudioDevice initialized.
+[2018.05.03-02.14.09:024][650]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-02.14.09:025][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-22.14.09
+[2018.05.03-02.14.09:026][650]LogWorld: Bringing up level for play took: 0.000819
+[2018.05.03-02.14.09:027][650]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.783
+[2018.05.03-02.14.42:511][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.03-02.14.42:555][644]LogSavePackage: Save=21.77ms
+[2018.05.03-02.14.42:555][644]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto358E38834488516680EF202B7B470C4AD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2018.05.03-02.14.42:556][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto3.umap
+[2018.05.03-02.14.42:561][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.076
+[2018.05.03-02.14.42:561][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2018.05.03-02.15.47:593][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-02.15.47:668][102]LogSavePackage: Save=28.60ms
+[2018.05.03-02.15.47:668][102]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main4A549B224EA925FBDA6FFAB5EB74437E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-02.15.47:671][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-02.15.47:712][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-02.15.47:759][102]LogSavePackage: Save=20.49ms
+[2018.05.03-02.15.47:759][102]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData21C627174AC86F8880564B839E3133ED.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-02.15.47:762][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-02.19.31:466][875]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-02.19.32:048][903]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-02.19.32:604][931]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-02.21.10:412][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.21.15:723][647]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.03-02.21.15:999][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.21.16:018][647]LogSavePackage: Save=16.52ms
+[2018.05.03-02.21.16:018][647]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss306DA0D5460A5C9958BD64A46B24C1ED.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.21.16:023][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.21.16:574][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.21.16:615][672]LogSavePackage: Save=15.20ms
+[2018.05.03-02.21.16:615][672]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss422C08E2490DEA8833853C95DE62219E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.21.16:617][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.22.03:883][419]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.03-02.22.04:118][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.22.04:153][419]LogSavePackage: Save=17.53ms
+[2018.05.03-02.22.04:153][419]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss15372B3D43C7DFB46CDBC98079E3E502.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.22.04:157][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.22.04:712][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.22.04:744][448]LogSavePackage: Save=18.48ms
+[2018.05.03-02.22.04:744][448]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBossC4D183B44462FC89BB4C6AAEC9A05E4A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.22.04:746][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.22.20:918][310]LogEditorTransaction: Undo Paste clipboard contents
+[2018.05.03-02.22.27:402][560]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_Event_0 or K2Node_Event /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_Event_0
+[2018.05.03-02.22.27:402][560]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_CallParentFunction_1 or K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_CallParentFunction_1
+[2018.05.03-02.22.27:403][560]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Event /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_Event_2 or K2Node_Event /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_Event_2
+[2018.05.03-02.22.27:403][560]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_CallParentFunction_2 or K2Node_CallParentFunction /Game/Blueprints/Enemies/bpEnemyBoss.bpEnemyBoss:EventGraph.K2Node_CallParentFunction_2
+[2018.05.03-02.22.39:128][252]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.03-02.22.39:372][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.22.39:415][252]LogSavePackage: Save=25.48ms
+[2018.05.03-02.22.39:415][252]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss3AB212774E74F59B93B381BB92C68A8A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.22.39:419][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.22.39:853][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.22.39:889][275]LogSavePackage: Save=20.68ms
+[2018.05.03-02.22.39:890][275]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss8C6093F24FC0FE4C9317528A3F8FE1F2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.22.39:891][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.23.21:853][752]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.03-02.23.22:097][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.23.22:137][752]LogSavePackage: Save=26.15ms
+[2018.05.03-02.23.22:137][752]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss5D203CAE478C4E8C39BA5A8E9756498B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.23.22:140][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.23.22:466][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.03-02.23.22:504][769]LogSavePackage: Save=24.66ms
+[2018.05.03-02.23.22:504][769]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBossEB1EF6964928FBE22B2F5DB645E14528.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.03-02.23.22:505][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.03-02.23.27:729][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.23.32:632][291]LogEditorViewport: Clicking on Actor (LMB): bpEnemyTwo_C (bpEnemyTwo)
+[2018.05.03-02.23.33:492][334]Cmd: DELETE
+[2018.05.03-02.23.33:492][334]Cmd: ACTOR DELETE
+[2018.05.03-02.23.33:495][334]LogEditorActor: Deleted Actor: bpEnemyTwo_C
+[2018.05.03-02.23.33:537][334]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.05.03-02.23.34:391][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.23.34:503][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-02.23.34:573][387]LogSavePackage: Save=23.55ms
+[2018.05.03-02.23.34:573][387]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainA10946454D136CF7FF13B1A9BE3F348A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-02.23.34:577][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-02.23.34:616][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-02.23.34:654][387]LogSavePackage: Save=19.79ms
+[2018.05.03-02.23.34:654][387]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData9B88194446BF95EDF420BDA56D16EC70.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-02.23.34:656][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-02.23.35:438][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-02.23.35:489][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-02.23.35:489][432]PIE: New page: PIE session: Main (May 2, 2018, 6:23:35 PM)
+[2018.05.03-02.23.35:489][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-02.23.35:491][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001501s)
+[2018.05.03-02.23.35:492][432]LogAIModule: Creating AISystem for world Main
+[2018.05.03-02.23.35:492][432]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.05.03-02.23.35:492][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002323s)
+[2018.05.03-02.23.35:522][432]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-02.23.35:536][432]LogInit: FAudioDevice initialized.
+[2018.05.03-02.23.35:569][432]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-02.23.35:572][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-22.23.35
+[2018.05.03-02.23.35:573][432]LogWorld: Bringing up level for play took: 0.001736
+[2018.05.03-02.23.35:575][432]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.669
+[2018.05.03-02.23.56:070][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-02.23.56:211][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-02.23.56:277][519]LogSavePackage: Save=24.71ms
+[2018.05.03-02.23.56:277][519]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main9136C6164E671B62B03D28B50F15AEC0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-02.23.56:278][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-02.23.56:317][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-02.23.56:349][519]LogSavePackage: Save=19.54ms
+[2018.05.03-02.23.56:349][519]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData82587E9E439D10ADFA14B4A012850461.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-02.23.56:350][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-02.32.23:506][249]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.03-02.32.48:490][700]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.32.48:717][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.32.48:734][700]LogSavePackage: Save=12.37ms
+[2018.05.03-02.32.48:734][700]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy759AD4674B10A5AA230B0D9BB163AD88.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.32.48:739][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.32.49:050][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.32.49:088][715]LogSavePackage: Save=11.45ms
+[2018.05.03-02.32.49:088][715]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy41F2DBC14763D22AD3F845A77A0057AA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.32.49:091][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.33.32:543][288]LogSlate: Took 0.005819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.03-02.34.07:915][380]LogClass: Warning: Type mismatch in WaveActive of SKEL_bpSpawnerEnemy_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2018.05.03-02.35.21:545][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.027
+[2018.05.03-02.35.21:546][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/bpSpawnerEnemy] ([1] browsable assets)...
+[2018.05.03-02.35.21:546][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bpSpawnerEnemy]
+[2018.05.03-02.35.21:575][852]LogSavePackage: Save=14.51ms
+[2018.05.03-02.35.21:575][852]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy_Auto481BF0A994B93D0A5814BBB9A64BA7121.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto4.uasset'
+[2018.05.03-02.35.21:577][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto4.uasset
+[2018.05.03-02.35.21:577][852]LogFileHelpers: Auto-saving content packages took 0.031
+[2018.05.03-02.36.08:486][936]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.36.08:716][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.36.08:754][936]LogSavePackage: Save=24.29ms
+[2018.05.03-02.36.08:754][936]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy58467D8A427868587F0C0D9B2494015A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.36.08:757][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.36.09:602][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.36.09:634][984]LogSavePackage: Save=14.56ms
+[2018.05.03-02.36.09:634][984]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy7C72302843E2995762D99C8876E9298D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.36.09:636][984]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.39.17:771][219]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.39.18:017][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.39.18:054][219]LogSavePackage: Save=13.04ms
+[2018.05.03-02.39.18:054][219]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy8D811CEF4647A6404BB1BA8AAA4B1EAF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.39.18:057][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.39.18:491][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.39.18:520][242]LogSavePackage: Save=12.75ms
+[2018.05.03-02.39.18:520][242]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy8DE135574B47AD56C1567E968BB38624.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.39.18:521][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.41.26:206][802]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.41.26:462][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.41.26:505][802]LogSavePackage: Save=22.02ms
+[2018.05.03-02.41.26:505][802]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy8558662648270B89AA97C2847FB226C9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.41.26:508][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.41.26:858][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.41.26:890][820]LogSavePackage: Save=17.39ms
+[2018.05.03-02.41.26:890][820]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy2A8AC328421CFE8D767A1191A77EC9F9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.41.26:892][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.42.38:312][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.42.38:345][ 98]LogSavePackage: Save=18.81ms
+[2018.05.03-02.42.38:345][ 98]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy0C1AFCFD4B69C3990D3411BD3BAC55A2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.42.38:348][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.44.25:565][497]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.44.25:841][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.44.25:884][497]LogSavePackage: Save=22.07ms
+[2018.05.03-02.44.25:884][497]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy165BFCE04C253E5D05E9E19E9C8A7EE3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.44.25:889][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.44.26:251][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.44.26:284][516]LogSavePackage: Save=19.84ms
+[2018.05.03-02.44.26:284][516]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy93826F24463A689D671F0FA27A522FB8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.44.26:285][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.46.01:337][657]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.46.01:573][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.46.01:609][657]LogSavePackage: Save=21.26ms
+[2018.05.03-02.46.01:609][657]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyD9572F384796577260E0B5A2896E4E39.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.46.01:614][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.46.02:006][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.46.02:040][678]LogSavePackage: Save=19.83ms
+[2018.05.03-02.46.02:040][678]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy6D114C97458C15E3CC0111B62380854E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.46.02:041][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.57.37:901][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.030
+[2018.05.03-02.57.37:903][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/bpSpawnerEnemy] ([1] browsable assets)...
+[2018.05.03-02.57.37:903][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bpSpawnerEnemy]
+[2018.05.03-02.57.37:949][287]LogSavePackage: Save=22.07ms
+[2018.05.03-02.57.37:950][287]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy_Auto51578B2DC42C2FF78B7310FBFEF6A3439.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto5.uasset'
+[2018.05.03-02.57.37:951][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto5.uasset
+[2018.05.03-02.57.37:951][287]LogFileHelpers: Auto-saving content packages took 0.049
+[2018.05.03-02.58.59:408][410]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-02.58.59:626][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.58.59:661][410]LogSavePackage: Save=21.37ms
+[2018.05.03-02.58.59:661][410]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy8F58529C4B41F0D0E958D688F1484EA4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.58.59:664][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-02.59.01:132][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-02.59.01:165][496]LogSavePackage: Save=20.50ms
+[2018.05.03-02.59.01:165][496]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyA51289BD45EDCE6DA21B3FAC7AF9437D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-02.59.01:167][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.06.46:210][679]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.06.46:473][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.06.46:535][679]LogSavePackage: Save=34.06ms
+[2018.05.03-03.06.46:535][679]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy2D999E0D4564A9F645D1DE992DE132C5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.06.46:538][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.06.46:831][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.06.46:881][693]LogSavePackage: Save=35.75ms
+[2018.05.03-03.06.46:881][693]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyD52122224547F89F497972B8D2D8E0B4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.06.46:882][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.08.29:448][457]BlueprintLog: New page: Compile bpGameMode
+[2018.05.03-03.08.29:746][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset" SILENT=true
+[2018.05.03-03.08.29:779][457]LogSavePackage: Save=13.88ms
+[2018.05.03-03.08.29:780][457]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode17A1E8EF4E665C06954918AA8FAB1903.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset'
+[2018.05.03-03.08.29:783][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset
+[2018.05.03-03.08.30:078][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset" SILENT=true
+[2018.05.03-03.08.30:104][472]LogSavePackage: Save=11.06ms
+[2018.05.03-03.08.30:104][472]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode0833AEB7473B5C16FABA258D3AA42A4C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset'
+[2018.05.03-03.08.30:107][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset
+[2018.05.03-03.08.45:478][394]BlueprintLog: New page: Compile bpGameMode
+[2018.05.03-03.08.46:192][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset" SILENT=true
+[2018.05.03-03.08.46:219][420]LogSavePackage: Save=11.86ms
+[2018.05.03-03.08.46:219][420]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode99467A774FBB65D6FFDE9BB6073EFA2B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset'
+[2018.05.03-03.08.46:220][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpGameMode.uasset
+[2018.05.03-03.09.06:463][618]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.03-03.09.37:394][472]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.09.37:659][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.09.37:708][472]LogSavePackage: Save=34.51ms
+[2018.05.03-03.09.37:708][472]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy4ECECA7946B4CA536389618D74559274.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.09.37:711][472]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.09.38:129][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.09.38:178][493]LogSavePackage: Save=34.94ms
+[2018.05.03-03.09.38:179][493]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE19953944A13626074FE91848560F503.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.09.38:180][493]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.10.08:590][272]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.03-03.10.09:093][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.03-03.10.09:136][285]LogSavePackage: Save=21.17ms
+[2018.05.03-03.10.09:136][285]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo2D5D1AEE400C085EC9253AA77CC93620.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.03-03.10.09:138][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.03-03.10.15:550][632]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.03-03.11.08:227][ 18]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.11.08:514][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.11.08:567][ 18]LogSavePackage: Save=35.16ms
+[2018.05.03-03.11.08:567][ 18]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy2F976CE04FAD73A99C1210B524BCAC06.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.11.08:570][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.11.08:826][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.11.08:877][ 29]LogSavePackage: Save=33.30ms
+[2018.05.03-03.11.08:877][ 29]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy1B4D3A6F40AA558CA1131EBA70AD686F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.11.08:878][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.12.05:177][773]LogSlate: Window 'Delete Variable' being destroyed
+[2018.05.03-03.12.53:548][244]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.031
+[2018.05.03-03.12.53:551][244]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/bpSpawnerEnemy] ([1] browsable assets)...
+[2018.05.03-03.12.53:551][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bpSpawnerEnemy]
+[2018.05.03-03.12.53:616][244]LogSavePackage: Save=39.42ms
+[2018.05.03-03.12.53:616][244]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy_Auto67C7D8AF041BD5FA3D7CD66B0DD939D6B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto6.uasset'
+[2018.05.03-03.12.53:617][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto6.uasset
+[2018.05.03-03.12.53:617][244]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.05.03-03.13.48:527][839]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.13.48:767][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.13.48:818][839]LogSavePackage: Save=35.40ms
+[2018.05.03-03.13.48:818][839]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE1F758084A397E5B755A59A50BB7C444.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.13.48:822][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.13.49:244][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.13.49:291][862]LogSavePackage: Save=34.47ms
+[2018.05.03-03.13.49:291][862]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy14E786BF40FA1D1EB787DF9881FDD82D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.13.49:293][862]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.14.29:303][467]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-03.14.32:720][665]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-03.14.38:524][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-03.14.42:563][215]LogEditorActor: Deleted Actor: bpEnemyBoss_C
+[2018.05.03-03.14.42:601][215]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.05.03-03.22.55:035][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.03-03.22.55:080][360]LogSavePackage: Save=19.82ms
+[2018.05.03-03.22.55:080][360]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto7FA464A2D4D7D7A79CBAEB0B997E706BB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto7.umap'
+[2018.05.03-03.22.55:082][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto7.umap
+[2018.05.03-03.22.55:084][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.075
+[2018.05.03-03.22.55:084][360]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2018.05.03-03.22.55:086][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/bpSpawnerEnemy] ([1] browsable assets)...
+[2018.05.03-03.22.55:087][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/bpSpawnerEnemy]
+[2018.05.03-03.22.55:153][360]LogSavePackage: Save=44.39ms
+[2018.05.03-03.22.55:153][360]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy_Auto7A1ABE61B49C4366929E1A0A5116D370E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto7.uasset'
+[2018.05.03-03.22.55:154][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Enemies/bpSpawnerEnemy_Auto7.uasset
+[2018.05.03-03.22.55:154][360]LogFileHelpers: Auto-saving content packages took 0.069
+[2018.05.03-03.23.07:765][ 98]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.03-03.23.12:273][363]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.23.12:535][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.23.12:595][363]LogSavePackage: Save=46.46ms
+[2018.05.03-03.23.12:596][363]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy1226F83746E20553EE97DE8F73ABE9DE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.23.12:602][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.23.14:125][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.23.14:184][450]LogSavePackage: Save=45.58ms
+[2018.05.03-03.23.14:184][450]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy8336EAB84666E0B86ABAC9B21A7D4BDC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.23.14:187][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.23.40:258][  0]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.03-03.23.44:849][270]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.23.45:114][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.23.45:175][270]LogSavePackage: Save=46.21ms
+[2018.05.03-03.23.45:175][270]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy171B368C4F0C43285D332B9F5CA39805.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.23.45:178][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.23.45:548][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.23.45:610][288]LogSavePackage: Save=44.78ms
+[2018.05.03-03.23.45:610][288]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyDDDD1A454611FAC0506A56A2D46A7030.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.23.45:611][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.25.57:500][951]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.25.57:773][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.25.57:840][951]LogSavePackage: Save=50.54ms
+[2018.05.03-03.25.57:840][951]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE4D926F048E6FD5E4FBC77BEEF3BFC9E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.25.57:843][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.25.58:213][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.25.58:279][968]LogSavePackage: Save=47.77ms
+[2018.05.03-03.25.58:279][968]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy62923E2941E2EA4A9A66588D61A9DC57.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.25.58:280][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.26.18:397][103]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.26.18:674][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.26.18:742][103]LogSavePackage: Save=48.75ms
+[2018.05.03-03.26.18:743][103]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy29398A1446E894754B129BBF728C46E4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.26.18:746][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.26.19:256][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.26.19:318][128]LogSavePackage: Save=48.92ms
+[2018.05.03-03.26.19:318][128]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy6E8296384A1B865F9DCF0CA5298C898F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.26.19:320][128]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.26.41:181][385]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.26.41:917][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.26.41:986][406]LogSavePackage: Save=49.31ms
+[2018.05.03-03.26.41:986][406]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy4DB272854C5BA76BB47BECA5211E15C5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.26.41:988][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.26.55:016][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-03.26.55:081][153]LogSavePackage: Save=19.58ms
+[2018.05.03-03.26.55:081][153]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainD35D8DCE455E881154AE8AB814B310FD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-03.26.55:084][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-03.26.55:126][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-03.26.55:169][153]LogSavePackage: Save=23.65ms
+[2018.05.03-03.26.55:169][153]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataEF1B75E44B31D8985875EBAB9FD79A5E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-03.26.55:171][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-03.26.59:426][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-03.27.13:897][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-03.27.13:937][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-03.27.13:937][186]PIE: New page: PIE session: Main (May 2, 2018, 7:27:13 PM)
+[2018.05.03-03.27.13:937][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-03.27.13:939][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2018.05.03-03.27.13:940][186]LogAIModule: Creating AISystem for world Main
+[2018.05.03-03.27.13:940][186]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.05.03-03.27.13:940][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002629s)
+[2018.05.03-03.27.13:976][186]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-03.27.13:992][186]LogInit: FAudioDevice initialized.
+[2018.05.03-03.27.14:029][186]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-03.27.14:031][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-23.27.14
+[2018.05.03-03.27.14:032][186]LogWorld: Bringing up level for play took: 0.001383
+[2018.05.03-03.27.14:033][186]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.21
+[2018.05.03-03.27.56:374][526]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-03.27.56:397][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-03.27.56:397][526]PIE: New page: PIE session: Main (May 2, 2018, 7:27:56 PM)
+[2018.05.03-03.27.56:397][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-03.27.56:398][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001388s)
+[2018.05.03-03.27.56:399][526]LogAIModule: Creating AISystem for world Main
+[2018.05.03-03.27.56:399][526]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.05.03-03.27.56:399][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002213s)
+[2018.05.03-03.27.56:425][526]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-03.27.56:437][526]LogInit: FAudioDevice initialized.
+[2018.05.03-03.27.56:470][526]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-03.27.56:472][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-23.27.56
+[2018.05.03-03.27.56:472][526]LogWorld: Bringing up level for play took: 0.000876
+[2018.05.03-03.27.56:474][526]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.23
+[2018.05.03-03.27.56:884][546]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_SwitchInteger', from offset 378
+[2018.05.03-03.27.56:884][546]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:WaveCheck
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:ExecuteUbergraph_bpSpawnerEnemy
+
+[2018.05.03-03.29.52:426][252]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.29.52:752][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.29.52:819][252]LogSavePackage: Save=46.16ms
+[2018.05.03-03.29.52:819][252]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyF64583E54C5263D2CAFB33957BF3D62C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.29.52:822][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.29.53:127][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.29.53:187][268]LogSavePackage: Save=45.68ms
+[2018.05.03-03.29.53:187][268]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy5A5AFF4F4E3413DBAF0DA1880144B132.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.29.53:188][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.29.55:009][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-03.29.55:090][376]LogSavePackage: Save=30.51ms
+[2018.05.03-03.29.55:090][376]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainDEF659E941CA978718E10EA6ED8A2112.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-03.29.55:094][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-03.29.55:143][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-03.29.55:182][376]LogSavePackage: Save=20.97ms
+[2018.05.03-03.29.55:182][376]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData044B130E4ECB417D73C6E0AFA542A84C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-03.29.55:184][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-03.30.19:568][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-03.30.19:611][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-03.30.19:611][828]PIE: New page: PIE session: Main (May 2, 2018, 7:30:19 PM)
+[2018.05.03-03.30.19:611][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-03.30.19:613][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001411s)
+[2018.05.03-03.30.19:614][828]LogAIModule: Creating AISystem for world Main
+[2018.05.03-03.30.19:614][828]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.05.03-03.30.19:614][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002261s)
+[2018.05.03-03.30.19:640][828]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-03.30.19:652][828]LogInit: FAudioDevice initialized.
+[2018.05.03-03.30.19:717][828]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-03.30.19:719][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-23.30.19
+[2018.05.03-03.30.19:719][828]LogWorld: Bringing up level for play took: 0.000821
+[2018.05.03-03.30.19:722][828]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.522
+[2018.05.03-03.30.20:082][841]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_SwitchInteger', from offset 378
+[2018.05.03-03.30.20:082][841]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:WaveCheck
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:ExecuteUbergraph_bpSpawnerEnemy
+
+[2018.05.03-03.30.32:589][ 73]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.03-03.30.51:542][189]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-03.30.51:566][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-03.30.51:566][189]PIE: New page: PIE session: Main (May 2, 2018, 7:30:51 PM)
+[2018.05.03-03.30.51:567][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-03.30.51:568][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001376s)
+[2018.05.03-03.30.51:568][189]LogAIModule: Creating AISystem for world Main
+[2018.05.03-03.30.51:569][189]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.05.03-03.30.51:569][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002174s)
+[2018.05.03-03.30.51:594][189]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-03.30.51:607][189]LogInit: FAudioDevice initialized.
+[2018.05.03-03.30.51:668][189]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-03.30.51:669][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-23.30.51
+[2018.05.03-03.30.51:669][189]LogWorld: Bringing up level for play took: 0.000719
+[2018.05.03-03.30.51:674][189]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.57
+[2018.05.03-03.30.55:054][374]LogSlate: Window 'SpaceShooterTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.03-03.32.02:316][ 30]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.32.02:635][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.32.02:698][ 30]LogSavePackage: Save=47.45ms
+[2018.05.03-03.32.02:698][ 30]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE6F3DF6345617BC17FAC8986F781A180.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.32.02:701][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.32.03:086][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.32.03:150][ 50]LogSavePackage: Save=46.10ms
+[2018.05.03-03.32.03:150][ 50]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyC233BDB343D56601DEBBA4B9952AB495.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.32.03:152][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.32.08:361][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-03.32.08:415][360]LogSavePackage: Save=20.45ms
+[2018.05.03-03.32.08:415][360]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main8055645044EC3572650B7E803939505B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-03.32.08:418][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-03.32.08:454][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-03.32.08:490][360]LogSavePackage: Save=17.45ms
+[2018.05.03-03.32.08:490][360]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData40EC096748A09902E9353981134E3CD8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-03.32.08:492][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.03-03.32.09:300][408]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.03-03.32.09:331][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-03.32.09:331][408]PIE: New page: PIE session: Main (May 2, 2018, 7:32:09 PM)
+[2018.05.03-03.32.09:331][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.03-03.32.09:332][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2018.05.03-03.32.09:333][408]LogAIModule: Creating AISystem for world Main
+[2018.05.03-03.32.09:333][408]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.05.03-03.32.09:333][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002164s)
+[2018.05.03-03.32.09:358][408]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-03.32.09:370][408]LogInit: FAudioDevice initialized.
+[2018.05.03-03.32.09:401][408]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.03-03.32.09:403][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.02-23.32.09
+[2018.05.03-03.32.09:403][408]LogWorld: Bringing up level for play took: 0.000752
+[2018.05.03-03.32.09:405][408]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.839
+[2018.05.03-03.32.09:814][428]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 266
+[2018.05.03-03.32.09:814][428]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:WaveCheck
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:ExecuteUbergraph_bpSpawnerEnemy
+	Function /Game/Blueprints/Enemies/bpSpawnerEnemy.bpSpawnerEnemy_C:SpawnWave
+
+[2018.05.03-03.32.36:244][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.03-03.32.45:785][149]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.32.46:109][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.32.46:172][149]LogSavePackage: Save=49.98ms
+[2018.05.03-03.32.46:172][149]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyC29471A546C3E5124CE247AD10575EB4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.32.46:175][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.32.46:419][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.32.46:480][160]LogSavePackage: Save=45.55ms
+[2018.05.03-03.32.46:480][160]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyCEAF99CA4DDC024E55AC1FA082673A4F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.32.46:481][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.33.37:817][202]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.33.38:213][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.33.38:281][202]LogSavePackage: Save=50.10ms
+[2018.05.03-03.33.38:281][202]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy132DE7C94B1A05EC285A018BCEADCA7D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.33.38:284][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.33.38:518][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.33.38:581][212]LogSavePackage: Save=47.12ms
+[2018.05.03-03.33.38:581][212]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy5BA2652945F12CA850FE01B47C9C82E9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.33.38:582][212]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.34.45:241][169]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.03-03.34.45:603][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.34.45:672][169]LogSavePackage: Save=49.06ms
+[2018.05.03-03.34.45:672][169]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyEAA548CD433F2E822EFFD5BE3D847EC5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.34.45:675][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.34.45:946][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.03-03.34.46:013][181]LogSavePackage: Save=49.29ms
+[2018.05.03-03.34.46:013][181]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy86FBAE5E43F9E7B450994F9A8D18FEE7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.03-03.34.46:015][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.03-03.42.33:456][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.03-03.42.33:501][735]LogSavePackage: Save=20.72ms
+[2018.05.03-03.42.33:501][735]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto8D049E21C4C3BF34851F709BB82835C8F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap'
+[2018.05.03-03.42.33:502][735]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap
+[2018.05.03-03.42.33:505][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.074
+[2018.05.03-03.42.33:505][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2018.05.03-03.51.09:600][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.03-03.51.09:666][485]LogSavePackage: Save=20.21ms
+[2018.05.03-03.51.09:666][485]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main1840911E4757FF8D75BE548583B541D4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.03-03.51.09:670][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.03-03.51.09:707][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.03-03.51.09:745][485]LogSavePackage: Save=17.92ms
+[2018.05.03-03.51.09:745][485]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData321E5DD74679414CDF57E7838D4CC987.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.03-03.51.09:746][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
