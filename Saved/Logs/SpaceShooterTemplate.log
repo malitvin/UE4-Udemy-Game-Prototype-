@@ -1214,3 +1214,955 @@ LogInit: Object subsystem initialized
 [2018.05.05-03.07.13:801][292]LogSavePackage: Save=126.78ms
 [2018.05.05-03.07.13:801][292]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer98F0CD8A4BBA66E761B084A93480589F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset'
 [2018.05.05-03.07.13:802][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/bpPlayer.uasset
+[2018.05.05-03.10.43:842][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.025
+[2018.05.05-03.10.43:845][304]LogExec: Warning: Missing filename
+[2018.05.05-03.10.43:845][304]LogFileHelpers: Auto-saving content packages took 0.001
+[2018.05.05-03.27.14:147][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-03.27.20:143][293]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-13.35.59:564][851]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-13.36.31:679][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-13.36.31:898][ 48]LogSavePackage: Save=143.85ms
+[2018.05.05-13.36.31:898][ 48]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Menu284F39D64A12A228A5B343A163D43C65.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap'
+[2018.05.05-13.36.31:904][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap
+[2018.05.05-13.36.44:338][748]LogRenderer: Reallocating scene render targets to support 1204x712 Format 9 NumSamples 1 (Frame:1).
+[2018.05.05-13.37.35:403][972]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode:AddCoin.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:EnemySpawnLocationMax' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:EnemySpawnLocationMin' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:Coins' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:CoinsEarned' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:Score' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:ActiveWave' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:MaxWaves' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:LiveEnemies' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:SpawnInterval' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:bPlayerDead' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.SKEL_bpGameMode_C' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:EnemySpawnLocationMax' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:EnemySpawnLocationMin' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:Coins' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:CoinsEarned' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:Score' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:ActiveWave' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:MaxWaves' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:LiveEnemies' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:SpawnInterval' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:bPlayerDead' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:394][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpGameMode.bpGameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bpGameMode.PackageMetaData'
+[2018.05.05-13.37.51:413][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:RocketFire.K2Node_FunctionEntry_113' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:PowerUpFire.K2Node_FunctionEntry_100' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:PrimaryFire.K2Node_FunctionEntry_87' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:GetDirection.K2Node_FunctionEntry_74' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer:GetDirection.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ExecuteUbergraph_bpPlayer' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:RocketFire.Offset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:PowerUpFire.offset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:RocketFire.Offset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:PowerUpFire.offset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:ProjectileSpawn' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:RotationOffset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:ShipCollider' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:PlayerMesh' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:SpawnAnimation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:bHasPower' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:bMovementEnabled' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:bHasRockets' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:SpawnLocation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:MovementSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:CurrentSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:DeltaSeconds' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:HorizontalSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:VerticalSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:Pitch' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:Health' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:PrimaryFireRate' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:PrimaryFireRateBase' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:RocketFireRate' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:RocketFireRateBase' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:MaxHealth' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:SpawnRotation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:AnimationPitch' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:PowerShotCount' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:RocketShotCount' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:HUDReference' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:GameOverMenuReference' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:ReceiveTick' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.SKEL_bpPlayer_C' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ProjectileSpawn' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:RotationOffset' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:ShipCollider' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:PlayerMesh' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:SpawnAnimation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:bHasPower' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:414][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:bMovementEnabled' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:bHasRockets' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:SpawnLocation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:MovementSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:CurrentSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:DeltaSeconds' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:HorizontalSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:VerticalSpeed' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:Pitch' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:Health' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:PrimaryFireRate' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:PrimaryFireRateBase' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:RocketFireRate' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:RocketFireRateBase' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:MaxHealth' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:SpawnRotation' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:AnimationPitch' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:PowerShotCount' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:RocketShotCount' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:HUDReference' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:415][868]LogMetaData: Removing '/Game/Blueprints/Misc/bpPlayer.bpPlayer_C:GameOverMenuReference' ref from Metadata '/Game/Blueprints/bpPlayer.PackageMetaData'
+[2018.05.05-13.37.51:461][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-13.37.51:481][868]LogSavePackage: Save=17.37ms
+[2018.05.05-13.37.51:481][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode415980D9480323AF4D44C69737D408EB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-13.37.51:484][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-13.37.51:524][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.05-13.37.51:675][868]LogSavePackage: Save=149.12ms
+[2018.05.05-13.37.51:675][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer263D128E42A3F6904BD6A2A6DBCD98CE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.05-13.37.51:678][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.05-13.37.51:965][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.05-13.37.52:084][868]LogSavePackage: Save=69.76ms
+[2018.05.05-13.37.52:084][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseD2F4EDDF49CD5BFEC1A84ABDCCE1131D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.05-13.37.52:088][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.05-13.37.52:092][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.05-13.37.52:164][868]LogSavePackage: Save=49.44ms
+[2018.05.05-13.37.52:164][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyA36B066A4FF6AB17D20B599A4CADF993.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.05-13.37.52:168][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.05-13.37.52:172][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/bpPickUpCoin" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpCoin.uasset" SILENT=true
+[2018.05.05-13.37.52:213][868]LogSavePackage: Save=18.29ms
+[2018.05.05-13.37.52:213][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPickUpCoinA12A9FFA43AABAACB1D7D8B630E5070A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpCoin.uasset'
+[2018.05.05-13.37.52:216][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpCoin.uasset
+[2018.05.05-13.37.52:219][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/HUD" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/UI/HUD.uasset" SILENT=true
+[2018.05.05-13.37.52:275][868]LogSavePackage: Save=31.78ms
+[2018.05.05-13.37.52:275][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/HUD5C52C873404FEB3E43586BAF3FFAE4AF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/UI/HUD.uasset'
+[2018.05.05-13.37.52:278][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/UI/HUD.uasset
+[2018.05.05-13.37.52:281][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/bpPickUpBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpBase.uasset" SILENT=true
+[2018.05.05-13.37.52:332][868]LogSavePackage: Save=30.38ms
+[2018.05.05-13.37.52:333][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPickUpBase9AD7E03A453C7730D3F441A5B6ACE6FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpBase.uasset'
+[2018.05.05-13.37.52:336][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpBase.uasset
+[2018.05.05-13.37.52:343][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/bpPickUpPowerUp" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpPowerUp.uasset" SILENT=true
+[2018.05.05-13.37.52:380][868]LogSavePackage: Save=16.76ms
+[2018.05.05-13.37.52:380][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPickUpPowerUp4FD8621B4DEB9F9EA5651BBD48429615.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpPowerUp.uasset'
+[2018.05.05-13.37.52:383][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpPowerUp.uasset
+[2018.05.05-13.37.52:387][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/bpPickUpRocket" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpRocket.uasset" SILENT=true
+[2018.05.05-13.37.52:427][868]LogSavePackage: Save=16.22ms
+[2018.05.05-13.37.52:427][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPickUpRocket356DC46C44CDCA5DA80A2F941B23BECD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpRocket.uasset'
+[2018.05.05-13.37.52:430][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Pickups/bpPickUpRocket.uasset
+[2018.05.05-13.37.52:526][868]LogSavePackage: Save=29.35ms
+[2018.05.05-13.37.52:526][868]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpProjectileEnemy67B6772646173EC0856B3C99D112F7DA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset'
+[2018.05.05-13.37.52:530][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Projectiles/bpProjectileEnemy.uasset
+[2018.05.05-13.38.01:091][195]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.05-13.38.01:228][196]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SpaceShooterTemplate
+[2018.05.05-13.38.01:228][196]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.05-13.38.01:228][196]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.05-13.38.01:228][196]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.05-13.38.01:228][196]LogTemp: BranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = SUPERBEAST/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.05-13.38.01:228][196]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Maximus Litvinov\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.05-13.38.08:023][593]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-13.38.08:052][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.38.08:052][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.05-13.38.08:109][593]LogPlayLevel: [PlayLevel] Compiling bpEnemyBase before play...
+[2018.05.05-13.38.08:124][593]LogPlayLevel: [PlayLevel]   Compiling bpEnemyBoss as a dependent...
+[2018.05.05-13.38.08:128][593]LogPlayLevel: [PlayLevel]   Compiling bpEnemyOne as a dependent...
+[2018.05.05-13.38.08:131][593]LogPlayLevel: [PlayLevel]   Compiling bpEnemyTwo as a dependent...
+[2018.05.05-13.38.08:174][593]LogPlayLevel: [PlayLevel] Compiling bpProjectileEnemy before play...
+[2018.05.05-13.38.08:363][593]LogPlayLevel: [PlayLevel] Compiling bpSpawnerEnemy before play...
+[2018.05.05-13.38.08:401][593]LogPlayLevel: [PlayLevel] Compiling bpPickUpBase before play...
+[2018.05.05-13.38.08:408][593]LogPlayLevel: [PlayLevel]   Compiling bpPickUpCoin as a dependent...
+[2018.05.05-13.38.08:411][593]LogPlayLevel: [PlayLevel]   Compiling bpPickUpPowerUp as a dependent...
+[2018.05.05-13.38.08:413][593]LogPlayLevel: [PlayLevel]   Compiling bpPickUpRocket as a dependent...
+[2018.05.05-13.38.08:474][593]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2018.05.05-13.38.08:527][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 474 ms (11 blueprints)
+[2018.05.05-13.38.08:527][593]PIE: New page: PIE session: Menu (May 5, 2018, 5:38:08 AM)
+[2018.05.05-13.38.08:527][593]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.05-13.38.08:528][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2018.05.05-13.38.08:529][593]LogAIModule: Creating AISystem for world Menu
+[2018.05.05-13.38.08:529][593]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.05.05-13.38.08:529][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002227s)
+[2018.05.05-13.38.08:556][593]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-13.38.08:569][593]LogInit: FAudioDevice initialized.
+[2018.05.05-13.38.08:607][593]LogLinker: Warning: Can't find file '/Game/Blueprints/bpGameMode'
+[2018.05.05-13.38.08:608][593]LogLinker: Warning: Can't find file '/Game/Blueprints/bpGameMode'
+[2018.05.05-13.38.08:608][593]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/bpGameMode.bpGameMode_C'
+[2018.05.05-13.38.08:608][593]LogLoad: Game class is 'GameModeBase'
+[2018.05.05-13.38.08:609][593]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.05-09.38.08
+[2018.05.05-13.38.08:609][593]LogWorld: Bringing up level for play took: 0.000725
+[2018.05.05-13.38.08:611][593]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.368
+[2018.05.05-13.38.08:611][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.38.21:177][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-13.38.21:295][348]LogNet: Browse: /Game/Maps/Main
+[2018.05.05-13.38.21:295][348]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.05-13.38.21:504][348]LogAIModule: Creating AISystem for world Main
+[2018.05.05-13.38.21:504][348]LogLoad: Game class is 'GameModeBase'
+[2018.05.05-13.38.21:506][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-09.38.21
+[2018.05.05-13.38.21:506][348]LogWorld: Bringing up level for play took: 0.001453
+[2018.05.05-13.38.21:507][348]LogLoad: Took 0.212102 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.05-13.38.35:433][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-13.38.35:541][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.38.35:574][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.39.12:563][104]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-13.39.32:815][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-13.40.03:550][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-13.40.03:581][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.40.03:581][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-13.40.03:581][145]PIE: New page: PIE session: Menu (May 5, 2018, 5:40:03 AM)
+[2018.05.05-13.40.03:581][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.05-13.40.03:583][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001695s)
+[2018.05.05-13.40.03:584][145]LogAIModule: Creating AISystem for world Menu
+[2018.05.05-13.40.03:584][145]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.05.05-13.40.03:584][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002504s)
+[2018.05.05-13.40.03:611][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-13.40.03:624][145]LogInit: FAudioDevice initialized.
+[2018.05.05-13.40.03:655][145]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-13.40.03:657][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.05-09.40.03
+[2018.05.05-13.40.03:657][145]LogWorld: Bringing up level for play took: 0.000670
+[2018.05.05-13.40.03:659][145]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.584
+[2018.05.05-13.40.03:659][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.40.08:592][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-13.40.08:742][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.40.08:777][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-13.40.24:654][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-13.40.26:680][  9]LogSlate: Window 'boCoinSave*' being destroyed
+[2018.05.05-13.40.27:780][ 75]BlueprintLog: New page: Compile boCoinSave
+[2018.05.05-13.40.27:838][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/boCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset" SILENT=true
+[2018.05.05-13.40.27:848][ 75]LogSavePackage: Save=7.26ms
+[2018.05.05-13.40.27:848][ 75]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/boCoinSaveA7E3A6E54FB7276CBAB68F95B7F8393B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset'
+[2018.05.05-13.40.27:852][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset
+[2018.05.05-13.40.28:448][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/boCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset" SILENT=true
+[2018.05.05-13.40.28:482][109]LogSavePackage: Save=7.19ms
+[2018.05.05-13.40.28:482][109]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/boCoinSave3AD119C74F45247280B1C892056D3159.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset'
+[2018.05.05-13.40.28:483][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset
+[2018.05.05-13.41.03:339][196]BlueprintLog: New page: Compile boCoinSave
+[2018.05.05-13.41.03:393][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/boCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset" SILENT=true
+[2018.05.05-13.41.03:429][196]LogSavePackage: Save=6.71ms
+[2018.05.05-13.41.03:429][196]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/boCoinSave200E2AF84BF1E9096F2FC192206DE932.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset'
+[2018.05.05-13.41.03:432][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset
+[2018.05.05-13.41.04:216][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/boCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset" SILENT=true
+[2018.05.05-13.41.04:256][241]LogSavePackage: Save=11.57ms
+[2018.05.05-13.41.04:256][241]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/boCoinSave4F672DF941D31A9057B2CFA2CE766BE8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset'
+[2018.05.05-13.41.04:258][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/boCoinSave.uasset
+[2018.05.05-13.41.13:648][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset" SILENT=true
+[2018.05.05-13.41.13:660][763]LogSavePackage: Save=7.16ms
+[2018.05.05-13.41.13:660][763]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpCoinSave122792C541492BFFAAEE708B33C6AF15.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset'
+[2018.05.05-13.41.13:662][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset
+[2018.05.05-13.41.13:664][763]LogMetaData: Removing '/Game/Blueprints/Misc/bpCoinSave.SKEL_bpCoinSave_C' ref from Metadata '/Game/Blueprints/Misc/boCoinSave.PackageMetaData'
+[2018.05.05-13.41.13:664][763]LogMetaData: Removing '/Game/Blueprints/Misc/bpCoinSave.bpCoinSave_C' ref from Metadata '/Game/Blueprints/Misc/boCoinSave.PackageMetaData'
+[2018.05.05-13.41.13:690][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpCoinSave" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset" SILENT=true
+[2018.05.05-13.41.13:724][763]LogSavePackage: Save=10.03ms
+[2018.05.05-13.41.13:724][763]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpCoinSave23B40B04455413C79B1316B8ADD960BA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset'
+[2018.05.05-13.41.13:727][763]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpCoinSave.uasset
+[2018.05.05-13.42.21:389][363]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-13.42.21:688][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-13.42.21:745][363]LogSavePackage: Save=23.56ms
+[2018.05.05-13.42.21:745][363]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode0B3E06FE4AF112C41B30869BF7BEFFBF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-13.42.21:748][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-13.42.22:151][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-13.42.22:191][384]LogSavePackage: Save=20.62ms
+[2018.05.05-13.42.22:191][384]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode7C3E5DD44E49F3EC589975B06C0072CC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-13.42.22:192][384]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-14.04.51:720][201]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-14.04.57:718][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.22.49:154][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-16.34.52:164][872]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.025
+[2018.05.05-16.34.52:167][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Misc/bpGameMode] ([1] browsable assets)...
+[2018.05.05-16.34.52:167][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/bpGameMode]
+[2018.05.05-16.34.52:215][872]LogSavePackage: Save=17.69ms
+[2018.05.05-16.34.52:215][872]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode_Auto40AE6D9EB4CAB013D082628A073CF397D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto4.uasset'
+[2018.05.05-16.34.52:215][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto4.uasset
+[2018.05.05-16.34.52:216][872]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.05.05-16.57.30:575][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-16.57.30:632][972]LogSavePackage: Save=20.54ms
+[2018.05.05-16.57.30:632][972]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeB190D4764E4AAE33D60688AA3CE2C793.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-16.57.30:635][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-16.57.31:652][ 32]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-16.57.47:847][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-16.59.09:889][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.028
+[2018.05.05-16.59.09:891][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Misc/bpGameMode] ([1] browsable assets)...
+[2018.05.05-16.59.09:891][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/bpGameMode]
+[2018.05.05-16.59.09:936][312]LogSavePackage: Save=20.06ms
+[2018.05.05-16.59.09:937][312]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode_Auto55F0A2851495BB352DCC13F8654CAA767.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto5.uasset'
+[2018.05.05-16.59.09:938][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto5.uasset
+[2018.05.05-16.59.09:938][312]LogFileHelpers: Auto-saving content packages took 0.048
+[2018.05.05-16.59.53:714][919]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-16.59.53:985][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-16.59.54:030][919]LogSavePackage: Save=18.74ms
+[2018.05.05-16.59.54:030][919]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeA49451B64932450DA5BDB8A7503C3779.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-16.59.54:033][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-16.59.54:855][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-16.59.54:892][965]LogSavePackage: Save=19.58ms
+[2018.05.05-16.59.54:892][965]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeEE48E10F4F614E4FB5F084961B980AF2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-16.59.54:893][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.09.10:513][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.025
+[2018.05.05-17.09.10:515][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Misc/bpGameMode] ([1] browsable assets)...
+[2018.05.05-17.09.10:515][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Misc/bpGameMode]
+[2018.05.05-17.09.10:581][  0]LogSavePackage: Save=21.22ms
+[2018.05.05-17.09.10:581][  0]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode_Auto6D5C0DC2F4B91FE3B959769AB8D90AC14.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto6.uasset'
+[2018.05.05-17.09.10:583][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Blueprints/Misc/bpGameMode_Auto6.uasset
+[2018.05.05-17.09.10:583][  0]LogFileHelpers: Auto-saving content packages took 0.070
+[2018.05.05-17.17.09:996][461]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.17.10:272][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.17.10:332][461]LogSavePackage: Save=25.13ms
+[2018.05.05-17.17.10:332][461]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode23371BD54B873AA4ED4F86945098720C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.17.10:335][461]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.17.10:851][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.17.10:894][489]LogSavePackage: Save=25.48ms
+[2018.05.05-17.17.10:894][489]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode93D5B5584F5C34B952D7C7924C3CBCA9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.17.10:895][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.18.39:922][406]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.18.40:209][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.18.40:266][406]LogSavePackage: Save=29.86ms
+[2018.05.05-17.18.40:266][406]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeEC5E8B09433445F9554987B5A6357854.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.18.40:269][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.18.40:737][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.18.40:784][431]LogSavePackage: Save=27.61ms
+[2018.05.05-17.18.40:784][431]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode7789F1FB457F4A352CC9A3A88ED2E85A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.18.40:786][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.18.51:261][ 27]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-17.21.58:577][751]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.21.58:880][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.21.58:938][751]LogSavePackage: Save=31.84ms
+[2018.05.05-17.21.58:938][751]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeCDB7434A474CBB51247EB480192A1467.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.21.58:941][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.21.59:368][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.21.59:422][771]LogSavePackage: Save=33.14ms
+[2018.05.05-17.21.59:422][771]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode1EB1A3204DBC5250F346A2A7105CE3FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.21.59:424][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.22.53:950][150]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.22.54:243][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.22.54:308][150]LogSavePackage: Save=31.82ms
+[2018.05.05-17.22.54:308][150]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeA062A6C741821823DC1C6382FD68CFA3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.22.54:311][150]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.22.54:613][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.22.54:664][164]LogSavePackage: Save=31.44ms
+[2018.05.05-17.22.54:664][164]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeD7122A7F40FF90A09CE16D82F887AA11.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.22.54:666][164]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.23.20:056][657]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.23.20:344][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.23.20:402][657]LogSavePackage: Save=33.12ms
+[2018.05.05-17.23.20:402][657]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode1CF7A65549280D83327B2A9C8027B173.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.23.20:405][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.23.21:071][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.23.21:475][693]LogSavePackage: Save=383.79ms
+[2018.05.05-17.23.21:476][693]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode1041BE594C56CDB5C8C9C69916FBD581.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.23.21:477][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.24.11:233][ 10]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.24.11:519][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.24.11:577][ 10]LogSavePackage: Save=33.28ms
+[2018.05.05-17.24.11:577][ 10]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode88F0F40E47CEC5A02CF951BF60CCA487.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.24.11:581][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.24.11:992][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.24.12:045][ 30]LogSavePackage: Save=34.62ms
+[2018.05.05-17.24.12:045][ 30]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode80AA8BDB477682CD7A71FDB1DE621FCF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.24.12:047][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.24.42:974][666]LogEditorTransaction: Undo Delete current selection
+[2018.05.05-17.24.43:638][701]LogEditorTransaction: Undo Paste clipboard contents
+[2018.05.05-17.25.01:113][731]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.25.01:411][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.25.01:472][731]LogSavePackage: Save=37.47ms
+[2018.05.05-17.25.01:472][731]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode5ABEBF2A445969831C22A0834BF13E29.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.25.01:475][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.25.01:914][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.25.01:971][753]LogSavePackage: Save=38.52ms
+[2018.05.05-17.25.01:971][753]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode4E65A9B347F0453A00B1CF97319747B5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.25.01:972][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.27.08:371][352]BlueprintLog: New page: Compile bpGameMode
+[2018.05.05-17.27.08:678][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.27.08:736][352]LogSavePackage: Save=34.53ms
+[2018.05.05-17.27.08:736][352]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeD225E98C4705EA5ACC6D35B66DDD0909.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.27.08:740][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.27.09:138][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.05-17.27.09:197][371]LogSavePackage: Save=37.60ms
+[2018.05.05-17.27.09:197][371]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode433307C04C308E82270233BFEF1B4860.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.05-17.27.09:198][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.05-17.29.35:238][644]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.05-17.29.35:583][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.05-17.29.35:710][644]LogSavePackage: Save=75.54ms
+[2018.05.05-17.29.35:710][644]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase371533A54AC55BC444A661A1DDD669CF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.05-17.29.35:714][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.05-17.29.36:173][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.05-17.29.36:262][666]LogSavePackage: Save=69.56ms
+[2018.05.05-17.29.36:262][666]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBaseD5C8EB2B403CD34E4DDD20AD489006DE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.05-17.29.36:264][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.05-17.29.55:788][821]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.29.55:819][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.29.55:819][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.29.55:819][821]PIE: New page: PIE session: Menu (May 5, 2018, 9:29:55 AM)
+[2018.05.05-17.29.55:819][821]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.05-17.29.55:821][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2018.05.05-17.29.55:821][821]LogAIModule: Creating AISystem for world Menu
+[2018.05.05-17.29.55:821][821]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.05.05-17.29.55:822][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002426s)
+[2018.05.05-17.29.55:854][821]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.29.55:871][821]LogInit: FAudioDevice initialized.
+[2018.05.05-17.29.55:907][821]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.29.55:908][821]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.05-13.29.55
+[2018.05.05-17.29.55:909][821]LogWorld: Bringing up level for play took: 0.000753
+[2018.05.05-17.29.55:916][821]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0.327
+[2018.05.05-17.29.55:916][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.29.57:386][904]LogNet: Browse: /Game/Maps/Main
+[2018.05.05-17.29.57:386][904]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.05-17.29.57:524][904]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.29.57:525][904]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.29.57:526][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.29.57
+[2018.05.05-17.29.57:527][904]LogWorld: Bringing up level for play took: 0.001257
+[2018.05.05-17.29.57:533][904]LogLoad: Took 0.147601 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.05-17.30.06:084][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.06:124][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.11:085][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.14:532][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.16:542][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.16:625][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.30.16:652][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.16:652][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.30.16:652][817]PIE: New page: PIE session: Menu (May 5, 2018, 9:30:16 AM)
+[2018.05.05-17.30.16:653][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.05-17.30.16:654][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001646s)
+[2018.05.05-17.30.16:655][817]LogAIModule: Creating AISystem for world Menu
+[2018.05.05-17.30.16:655][817]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2018.05.05-17.30.16:655][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002332s)
+[2018.05.05-17.30.16:682][817]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.30.16:694][817]LogInit: FAudioDevice initialized.
+[2018.05.05-17.30.16:724][817]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.30.16:726][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.05-13.30.16
+[2018.05.05-17.30.16:726][817]LogWorld: Bringing up level for play took: 0.000797
+[2018.05.05-17.30.16:730][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.487
+[2018.05.05-17.30.16:730][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.18:685][930]LogNet: Browse: /Game/Maps/Main
+[2018.05.05-17.30.18:686][930]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.05-17.30.18:838][930]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.30.18:838][930]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.30.18:841][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.30.18
+[2018.05.05-17.30.18:841][930]LogWorld: Bringing up level for play took: 0.002179
+[2018.05.05-17.30.18:846][930]LogLoad: Took 0.160924 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.05-17.30.20:141][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.20:181][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.05-17.30.24:847][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.26:990][400]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.30.28:822][400]LogSlate: Window 'Save Content' being destroyed
+[2018.05.05-17.30.30:927][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-17.30.31:126][400]LogSavePackage: Save=139.43ms
+[2018.05.05-17.30.31:128][400]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MenuC841DC2F4A2819B042CB498AE511D63D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap'
+[2018.05.05-17.30.31:132][400]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap
+[2018.05.05-17.30.31:170][400]LogFileHelpers: Saving map 'Menu' took 2.341
+[2018.05.05-17.30.31:172][400]Cmd: MAP LOAD FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.05-17.30.31:172][400]LightingResults: New page: Lighting Build
+[2018.05.05-17.30.31:173][400]LoadErrors: New page: Loading map: Main.umap
+[2018.05.05-17.30.31:173][400]MapCheck: New page: Map Check
+[2018.05.05-17.30.31:174][400]LightingResults: New page: Lighting Build
+[2018.05.05-17.30.31:202][400]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.05-17.30.31:260][400]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.05-17.30.31:322][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.72ms to complete.
+[2018.05.05-17.30.31:322][400]LogFileHelpers: Loading map 'Main' took 0.152
+[2018.05.05-17.30.33:531][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.36:562][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.36:629][706]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.30.36:656][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.36:657][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.30.36:657][706]PIE: New page: PIE session: Main (May 5, 2018, 9:30:36 AM)
+[2018.05.05-17.30.36:657][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.30.36:658][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2018.05.05-17.30.36:659][706]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.30.36:659][706]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.05.05-17.30.36:659][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002332s)
+[2018.05.05-17.30.36:686][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.30.36:698][706]LogInit: FAudioDevice initialized.
+[2018.05.05-17.30.36:729][706]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.30.36:731][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.30.36
+[2018.05.05-17.30.36:731][706]LogWorld: Bringing up level for play took: 0.000739
+[2018.05.05-17.30.36:735][706]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.492
+[2018.05.05-17.30.36:735][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.40:771][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.40:815][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.41:559][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.30.41:642][990]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.30.41:669][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.41:669][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.30.41:669][990]PIE: New page: PIE session: Main (May 5, 2018, 9:30:41 AM)
+[2018.05.05-17.30.41:669][990]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.30.41:671][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001721s)
+[2018.05.05-17.30.41:672][990]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.30.41:672][990]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.05.05-17.30.41:672][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002442s)
+[2018.05.05-17.30.41:698][990]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.30.41:709][990]LogInit: FAudioDevice initialized.
+[2018.05.05-17.30.41:745][990]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.30.41:746][990]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.30.41
+[2018.05.05-17.30.41:747][990]LogWorld: Bringing up level for play took: 0.000837
+[2018.05.05-17.30.41:751][990]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.492
+[2018.05.05-17.30.41:751][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.46:731][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.30.46:773][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.31.16:891][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.31.16:891][491]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.31.16:924][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.31.16:924][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.31.16:924][491]PIE: New page: PIE session: Main (May 5, 2018, 9:31:16 AM)
+[2018.05.05-17.31.16:924][491]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.31.16:926][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001718s)
+[2018.05.05-17.31.16:927][491]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.31.16:927][491]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.05.05-17.31.16:927][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002488s)
+[2018.05.05-17.31.16:955][491]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.31.16:968][491]LogInit: FAudioDevice initialized.
+[2018.05.05-17.31.17:007][491]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.31.17:008][491]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.31.17
+[2018.05.05-17.31.17:009][491]LogWorld: Bringing up level for play took: 0.000833
+[2018.05.05-17.31.17:013][491]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.77
+[2018.05.05-17.31.17:013][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.31.31:235][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.31.31:287][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.31.35:856][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.32.22:158][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.32.22:188][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.32.22:188][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.32.22:189][228]PIE: New page: PIE session: Main (May 5, 2018, 9:32:22 AM)
+[2018.05.05-17.32.22:189][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.32.22:191][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001751s)
+[2018.05.05-17.32.22:191][228]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.32.22:191][228]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2018.05.05-17.32.22:191][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002558s)
+[2018.05.05-17.32.22:220][228]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.32.22:232][228]LogInit: FAudioDevice initialized.
+[2018.05.05-17.32.22:265][228]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.32.22:267][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.32.22
+[2018.05.05-17.32.22:267][228]LogWorld: Bringing up level for play took: 0.000792
+[2018.05.05-17.32.22:271][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.028
+[2018.05.05-17.32.22:272][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.32.26:150][437]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.05.05-17.32.34:381][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.32.34:435][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.32.35:070][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.33.07:855][896]LogEditorTransaction: Undo Create Pin Link
+[2018.05.05-17.33.16:081][385]LogEditorTransaction: Undo Create Pin Link
+[2018.05.05-17.33.18:525][528]LogEditorTransaction: Undo Add Node
+[2018.05.05-17.33.20:053][617]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.05-17.33.20:394][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.05-17.33.20:470][617]LogSavePackage: Save=45.67ms
+[2018.05.05-17.33.20:470][617]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy5A402C624D808FFC1620AB9F55DC9FA3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.05-17.33.20:473][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.05-17.33.20:714][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.05-17.33.20:775][628]LogSavePackage: Save=45.27ms
+[2018.05.05-17.33.20:775][628]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy2E77DED345F95DB726F2728308D2D245.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.05-17.33.20:776][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.05-17.33.21:843][691]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.05-17.33.21:883][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.33.21:883][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.05-17.33.21:883][691]PIE: New page: PIE session: Main (May 5, 2018, 9:33:21 AM)
+[2018.05.05-17.33.21:883][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.33.21:885][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2018.05.05-17.33.21:886][691]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.33.21:886][691]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.05.05-17.33.21:886][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002591s)
+[2018.05.05-17.33.21:914][691]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.05-17.33.21:926][691]LogInit: FAudioDevice initialized.
+[2018.05.05-17.33.21:956][691]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.33.21:958][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.33.21
+[2018.05.05-17.33.21:958][691]LogWorld: Bringing up level for play took: 0.000893
+[2018.05.05-17.33.21:962][691]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.281
+[2018.05.05-17.33.21:962][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.33.26:306][942]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:320][943]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:335][944]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:352][945]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:369][946]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:385][947]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:403][948]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:418][949]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:435][950]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:451][951]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:468][952]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:484][953]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:501][954]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:518][955]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:535][956]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:551][957]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.26:567][958]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_168
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.05-17.33.27:366][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.33.27:450][ 11]LogNet: Browse: /Game/Maps/Main
+[2018.05.05-17.33.27:450][ 11]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.05-17.33.27:480][ 11]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.05-17.33.27:482][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001618s)
+[2018.05.05-17.33.27:482][ 11]LogAIModule: Creating AISystem for world Main
+[2018.05.05-17.33.27:482][ 11]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2018.05.05-17.33.27:482][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002334s)
+[2018.05.05-17.33.27:482][ 11]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.05-17.33.27:484][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.05-13.33.27
+[2018.05.05-17.33.27:484][ 11]LogWorld: Bringing up level for play took: 0.000695
+[2018.05.05-17.33.27:488][ 11]LogLoad: Took 0.037651 seconds to LoadMap(/Game/Maps/UEDPIE_0_Main)
+[2018.05.05-17.33.43:902][985]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.05.05-17.33.45:386][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.33.45:431][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.05-17.33.46:753][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.33.46:823][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.05-17.33.46:984][151]LogSavePackage: Save=109.11ms
+[2018.05.05-17.33.46:984][151]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main22D7C40648DA7C95C007DB8D200208A8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.05-17.33.46:987][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.05-17.33.47:024][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.05-17.33.47:067][151]LogSavePackage: Save=21.03ms
+[2018.05.05-17.33.47:067][151]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltDataE0C23E83458B7414657F45A14C783F0B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.05-17.33.47:069][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.05-17.46.15:118][631]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.05.05-17.46.18:567][743]LogSlate: Window 'P_Pixel_Explosion' being destroyed
+[2018.05.05-17.46.22:607][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.47.20:385][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.47.20:864][469]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-17.47.21:344][488]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.05-17.48.13:643][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.48.15:947][742]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.48.17:060][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.48.22:924][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.48.24:846][256]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.48.25:410][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.48.43:483][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.48.45:178][458]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.48.49:137][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.49.33:622][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.49.33:702][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.032
+[2018.05.05-17.49.33:704][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Particles/P_Pixel_Explosion] ([1] browsable assets)...
+[2018.05.05-17.49.33:710][351]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Art/Particles/P_Pixel_Explosion.P_Pixel_Explosion]
+[2018.05.05-17.49.33:710][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Particles/P_Pixel_Explosion]
+[2018.05.05-17.49.33:831][351]LogSavePackage: Save=89.10ms
+[2018.05.05-17.49.33:831][351]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/P_Pixel_Explosion_Auto784389FEF42AB6E3B5BEF73BA4CD3845C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/P_Pixel_Explosion_Auto7.uasset'
+[2018.05.05-17.49.33:833][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/P_Pixel_Explosion_Auto7.uasset
+[2018.05.05-17.49.33:833][351]LogFileHelpers: Auto-saving content packages took 0.130
+[2018.05.05-17.49.54:160][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.49.55:615][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.50.02:224][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.50.25:319][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.50.33:613][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.51.05:898][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.51.20:502][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.51.40:622][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.51.57:061][853]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.51.57:679][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.52.00:327][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.52.06:143][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.52.11:100][682]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.52.26:695][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.52.29:527][782]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.52.30:330][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.52.32:720][965]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.53.09:230][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.53.19:212][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.54.32:110][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.55.48:914][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.55.57:040][194]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.55.59:591][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.55.59:703][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/P_Pixel_Explosion" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion.uasset" SILENT=true
+[2018.05.05-17.55.59:754][352]LogSavePackage: Save=16.12ms
+[2018.05.05-17.55.59:754][352]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/P_Pixel_ExplosionB6F547384C42EDA9F1B73FB93347D7CE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion.uasset'
+[2018.05.05-17.55.59:758][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion.uasset
+[2018.05.05-17.56.03:718][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.56.15:972][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitEnemy.uasset" SILENT=true
+[2018.05.05-17.56.15:994][305]LogSavePackage: Save=19.68ms
+[2018.05.05-17.56.15:994][305]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pHitEnemy84F965514BAAC89FEE965BA9A67D820F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitEnemy.uasset'
+[2018.05.05-17.56.15:997][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitEnemy.uasset
+[2018.05.05-17.56.48:794][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.56.54:446][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.57.08:940][377]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.05.05-17.57.11:376][517]LogEditorViewport: Clicking on Actor (LMB): Emitter (pHitEnemy)
+[2018.05.05-17.57.12:647][588]Cmd: DELETE
+[2018.05.05-17.57.12:647][588]Cmd: ACTOR DELETE
+[2018.05.05-17.57.12:649][588]LogEditorActor: Deleted Actor: Emitter
+[2018.05.05-17.57.12:683][588]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.05.05-17.57.26:822][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.57.36:670][986]LogCascade: Quitting Cascade. FXSystem=0x0000017D6C7F1EE0
+[2018.05.05-17.57.38:818][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2018.05.05-17.57.38:850][ 88]LogSavePackage: Save=27.80ms
+[2018.05.05-17.57.38:850][ 88]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pHitPlayer40C25B0640BAA8A763DBF98D9669F0C4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset'
+[2018.05.05-17.57.38:854][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset
+[2018.05.05-17.57.57:009][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.58.01:667][435]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.58.02:700][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.58.07:017][741]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-17.58.40:250][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.58.40:439][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2018.05.05-17.58.40:492][742]LogSavePackage: Save=18.66ms
+[2018.05.05-17.58.40:492][742]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pHitPlayer5C9EC8964B2C5027CD595AB4635701C8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset'
+[2018.05.05-17.58.40:496][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset
+[2018.05.05-17.58.55:827][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-17.59.35:095][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-17.59.35:164][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.05-17.59.35:317][  7]LogSavePackage: Save=118.56ms
+[2018.05.05-17.59.35:317][  7]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto8586CB94741EB6457FE5F0780C1D49A8E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap'
+[2018.05.05-17.59.35:320][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto8.umap
+[2018.05.05-17.59.35:326][  7]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.188
+[2018.05.05-17.59.35:326][  7]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2018.05.05-17.59.35:328][  7]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Particles/pHitPlayer] ([1] browsable assets)...
+[2018.05.05-17.59.35:333][  7]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Art/Particles/pHitPlayer.pHitPlayer]
+[2018.05.05-17.59.35:333][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Particles/pHitPlayer]
+[2018.05.05-17.59.35:377][  7]LogSavePackage: Save=17.07ms
+[2018.05.05-17.59.35:377][  7]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pHitPlayer_Auto8AA10AD1142DE149CE3D017AD053DDB7A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/pHitPlayer_Auto8.uasset'
+[2018.05.05-17.59.35:378][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/pHitPlayer_Auto8.uasset
+[2018.05.05-17.59.35:378][  7]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.05.05-18.00.06:198][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.00.08:882][  2]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.00.09:590][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.00.17:236][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.01.06:058][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.01.06:220][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pHitPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset" SILENT=true
+[2018.05.05-18.01.06:269][407]LogSavePackage: Save=20.23ms
+[2018.05.05-18.01.06:269][407]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pHitPlayerB832E3054C983984040A0AA8B7358F70.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset'
+[2018.05.05-18.01.06:275][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pHitPlayer.uasset
+[2018.05.05-18.39.43:163][213]LogCascade: Quitting Cascade. FXSystem=0x0000017CEEE9B880
+[2018.05.05-18.39.43:201][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.05.05-18.39.53:841][631]LogSlate: Window 'P_Pixel_Explosion_Enemy' being destroyed
+[2018.05.05-18.39.56:390][777]LogSavePackage: Save=29.04ms
+[2018.05.05-18.39.56:390][777]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/P_Pixel_Explosion_EnemyDBA92AFB4AC4E626C89D888D7514F823.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion_Enemy.uasset'
+[2018.05.05-18.39.56:392][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion_Enemy.uasset
+[2018.05.05-18.40.36:226][143]LogEditorTransaction: Undo Delete Emitter
+[2018.05.05-18.40.40:971][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.40.43:158][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.40.56:232][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.03:895][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.10:949][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.12:473][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.16:189][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.43:357][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.41.43:437][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.037
+[2018.05.05-18.41.43:439][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Particles/P_Pixel_Explosion_Enemy] ([1] browsable assets)...
+[2018.05.05-18.41.43:445][641]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Art/Particles/P_Pixel_Explosion_Enemy.P_Pixel_Explosion_Enemy]
+[2018.05.05-18.41.43:445][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Particles/P_Pixel_Explosion_Enemy]
+[2018.05.05-18.41.43:498][641]LogSavePackage: Save=24.99ms
+[2018.05.05-18.41.43:498][641]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/P_Pixel_Explosion_Enemy_Auto968E27F1048DE7CC974184CA9757E67CB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/P_Pixel_Explosion_Enemy_Auto9.uasset'
+[2018.05.05-18.41.43:499][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/P_Pixel_Explosion_Enemy_Auto9.uasset
+[2018.05.05-18.41.43:500][641]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.05.05-18.41.51:350][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.42.55:360][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.42.57:274][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.43.00:378][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.43.05:021][452]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.43.16:961][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.43.20:615][352]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.43.21:522][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.43.23:776][524]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.43.26:326][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.43.34:039][126]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.44.10:520][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.44.10:708][317]LogSavePackage: Save=23.84ms
+[2018.05.05-18.44.10:708][317]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/P_Pixel_Explosion_EnemyE521E42C48406BD200FA92803155C6B9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion_Enemy.uasset'
+[2018.05.05-18.44.10:713][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/P_Pixel_Explosion_Enemy.uasset
+[2018.05.05-18.44.10:944][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.44.17:072][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathPlayer.uasset" SILENT=true
+[2018.05.05-18.44.17:144][642]LogSavePackage: Save=69.79ms
+[2018.05.05-18.44.17:144][642]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pDeathPlayerCC699D5A417E72F66A566C99533F8733.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathPlayer.uasset'
+[2018.05.05-18.44.17:148][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathPlayer.uasset
+[2018.05.05-18.45.30:322][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2018.05.05-18.45.30:370][479]LogSavePackage: Save=38.83ms
+[2018.05.05-18.45.30:370][479]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pDeathEnemyC66EC0984496256E02549F8D06745FC0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset'
+[2018.05.05-18.45.30:374][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset
+[2018.05.05-18.45.35:179][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.45.38:003][900]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.45.38:717][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.45.40:988][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.45.42:472][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.45.42:606][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2018.05.05-18.45.42:663][139]LogSavePackage: Save=22.91ms
+[2018.05.05-18.45.42:663][139]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pDeathEnemyB68FFBDA483769BF7DFB07BF14D8BFC2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset'
+[2018.05.05-18.45.42:666][139]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset
+[2018.05.05-18.46.24:858][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.46.26:168][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.46.28:093][825]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.46.28:815][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.46.30:865][964]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.46.33:709][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.46.35:851][249]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.46.39:028][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.46.39:164][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2018.05.05-18.46.39:215][442]LogSavePackage: Save=21.76ms
+[2018.05.05-18.46.39:215][442]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pDeathEnemyFF06323444CF5EEF13A2B691A8FA43B9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset'
+[2018.05.05-18.46.39:222][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset
+[2018.05.05-18.46.46:503][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.46.49:272][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.47.39:238][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.47.39:373][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pDeathEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset" SILENT=true
+[2018.05.05-18.47.39:426][ 28]LogSavePackage: Save=19.75ms
+[2018.05.05-18.47.39:426][ 28]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pDeathEnemy13A38B8943DD265CC4DF37880705FDD4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset'
+[2018.05.05-18.47.39:427][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pDeathEnemy.uasset
+[2018.05.05-18.47.41:374][145]LogCascade: Quitting Cascade. FXSystem=0x0000017D555825C0
+[2018.05.05-18.47.42:040][170]LogCascade: Quitting Cascade. FXSystem=0x0000017D58E8BBA0
+[2018.05.05-18.47.42:104][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.05.05-18.49.14:733][618]LogSlate: Window 'pPlayerThruster*' being destroyed
+[2018.05.05-18.49.59:053][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.50.01:151][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.50.50:875][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.50.55:836][696]LogMaterial: Warning: Material /Game/Art/Materials/mGame.mGame needed to have new flag set bUsedWithMeshParticles !
+[2018.05.05-18.50.55:839][696]LogMaterial: Missing cached shader map for material mGame, compiling. 
+[2018.05.05-18.50.55:886][696]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.05.05-18.50.55:886][696]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.05-18.50.55:886][696]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.05.05-18.50.55:886][696]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.05-18.50.56:925][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.51.04:365][108]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.05-18.51.17:594][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.51.24:733][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.51.27:088][431]LogMaterial: Warning: Material /Game/Art/Materials/mPlayer.mPlayer needed to have new flag set bUsedWithMeshParticles !
+[2018.05.05-18.51.27:091][431]LogMaterial: Missing cached shader map for material mPlayer, compiling. 
+[2018.05.05-18.51.27:134][433]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.05-18.51.27:134][433]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.05-18.51.27:134][433]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.05-18.51.27:134][433]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.05-18.51.33:271][694]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.05-18.52.11:146][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.52.11:298][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.05-18.52.11:501][959]LogSavePackage: Save=168.09ms
+[2018.05.05-18.52.11:501][959]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto0ADA501BA45A9CD431988F6AE88A3D88C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto0.umap'
+[2018.05.05-18.52.11:503][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto0.umap
+[2018.05.05-18.52.11:506][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.322
+[2018.05.05-18.52.11:506][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.322
+[2018.05.05-18.52.11:507][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Materials/mPlayer] ([1] browsable assets)...
+[2018.05.05-18.52.11:550][959]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Materials/mPlayer.mPlayer]
+[2018.05.05-18.52.11:550][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Materials/mPlayer]
+[2018.05.05-18.52.11:601][959]LogSavePackage: Save=18.18ms
+[2018.05.05-18.52.11:601][959]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/mPlayer_Auto0136516FD4D757B6DB553CAABBBCE884C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/mPlayer_Auto0.uasset'
+[2018.05.05-18.52.11:603][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/mPlayer_Auto0.uasset
+[2018.05.05-18.52.11:603][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Materials/mGame] ([1] browsable assets)...
+[2018.05.05-18.52.11:633][959]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Materials/mGame.mGame]
+[2018.05.05-18.52.11:634][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Materials/mGame]
+[2018.05.05-18.52.11:690][959]LogSavePackage: Save=23.00ms
+[2018.05.05-18.52.11:690][959]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/mGame_Auto043417626402A9F41F8F6DCAB53BD0BA6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/mGame_Auto0.uasset'
+[2018.05.05-18.52.11:691][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/mGame_Auto0.uasset
+[2018.05.05-18.52.11:692][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Particles/pPlayerThruster] ([1] browsable assets)...
+[2018.05.05-18.52.11:697][959]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Art/Particles/pPlayerThruster.pPlayerThruster]
+[2018.05.05-18.52.11:697][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Particles/pPlayerThruster]
+[2018.05.05-18.52.11:712][959]LogSavePackage: Save=12.64ms
+[2018.05.05-18.52.11:712][959]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThruster_Auto0DD9FC165430AEAC2F05E20B2BAA020B3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/pPlayerThruster_Auto0.uasset'
+[2018.05.05-18.52.11:714][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Particles/pPlayerThruster_Auto0.uasset
+[2018.05.05-18.52.11:714][959]LogFileHelpers: Auto-saving content packages took 0.207
+[2018.05.05-18.52.20:364][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.52.47:399][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.53.13:452][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.53.20:722][ 84]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.05-18.54.03:281][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.54.27:538][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.54.28:743][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.54.32:789][393]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.54.36:639][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.55.36:835][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.55.53:357][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.55.54:811][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.56.01:868][710]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.56.06:441][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.56.11:016][253]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.56.40:519][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.56.50:600][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.56.50:718][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2018.05.05-18.56.50:734][616]LogSavePackage: Save=13.11ms
+[2018.05.05-18.56.50:734][616]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThrusterE5926A334A3DB5ED5E6E7684BEAD4EB0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset'
+[2018.05.05-18.56.50:740][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset
+[2018.05.05-18.57.31:360][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.57.34:487][617]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.57.48:870][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.57.51:543][ 83]LogMaterial: Warning: Material /Game/Art/Materials/m_flare_03.m_flare_03 needed to have new flag set bUsedWithMeshParticles !
+[2018.05.05-18.57.51:547][ 83]LogMaterial: Missing cached shader map for material m_flare_03, compiling. 
+[2018.05.05-18.57.51:647][ 83]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.05-18.57.51:647][ 83]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.05-18.57.51:647][ 83]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.05-18.57.51:647][ 83]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.05-18.58.02:042][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.58.05:416][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.58.10:783][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.58.16:194][138]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.58.17:061][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.58.19:229][317]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.58.20:348][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-18.58.24:942][652]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-18.58.28:402][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-18.58.28:533][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2018.05.05-18.58.28:579][865]LogSavePackage: Save=12.61ms
+[2018.05.05-18.58.28:579][865]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThruster6DFB723F45851A48F4C72385276FFFC9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset'
+[2018.05.05-18.58.28:583][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset
+[2018.05.05-19.00.01:501][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.00.06:083][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.00.12:556][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.00.39:601][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.00.58:327][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.01.15:964][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.01.16:144][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2018.05.05-19.01.16:241][801]LogSavePackage: Save=67.46ms
+[2018.05.05-19.01.16:241][801]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThrusterB3321B5144EDB7E0CC911C9998C277F6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset'
+[2018.05.05-19.01.16:244][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset
+[2018.05.05-19.01.58:539][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.02.08:666][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.02.12:428][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.02.30:582][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.02.32:533][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2018.05.05-19.02.32:579][361]LogSavePackage: Save=15.85ms
+[2018.05.05-19.02.32:579][361]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThruster606120B34C5E7F537D1AACAE5C968A33.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset'
+[2018.05.05-19.02.32:582][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset
+[2018.05.05-19.02.56:650][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.05-19.02.56:710][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.023
+[2018.05.05-19.02.56:713][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Materials/m_flare_03] ([1] browsable assets)...
+[2018.05.05-19.02.56:749][800]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Art/Materials/m_flare_03.m_flare_03]
+[2018.05.05-19.02.56:749][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Materials/m_flare_03]
+[2018.05.05-19.02.56:797][800]LogSavePackage: Save=15.06ms
+[2018.05.05-19.02.56:797][800]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/m_flare_03_Auto1EFACFFF44A1F1B58E2A12C8E36A5BA46.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/m_flare_03_Auto1.uasset'
+[2018.05.05-19.02.56:799][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Art/Materials/m_flare_03_Auto1.uasset
+[2018.05.05-19.02.56:799][800]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.05.05-19.03.21:602][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.03.25:562][135]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-19.03.27:446][247]LogEditorTransaction: Undo Edit Max
+[2018.05.05-19.03.29:583][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.03.30:811][444]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.05-19.03.32:007][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.05-19.03.32:121][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Particles/pPlayerThruster" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset" SILENT=true
+[2018.05.05-19.03.32:172][519]LogSavePackage: Save=12.25ms
+[2018.05.05-19.03.32:172][519]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/pPlayerThrusterDC00C37E4C373656586759BE71B48267.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset'
+[2018.05.05-19.03.32:175][519]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Art/Particles/pPlayerThruster.uasset
