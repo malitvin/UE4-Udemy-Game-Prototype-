@@ -3279,3 +3279,1037 @@ LogInit: Object subsystem initialized
 [2018.05.06-22.40.40:948][848]LogSavePackage: Save=132.63ms
 [2018.05.06-22.40.40:948][848]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer2747D297417DF593679873AC269D410F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
 [2018.05.06-22.40.40:952][848]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-22.45.26:459][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-22.46.36:503][608]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.06-22.46.36:591][608]LogBlueprint: Error: [Compiler bpEnemyBase] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.05.06-22.46.36:810][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-22.46.36:868][608]LogSavePackage: Save=21.91ms
+[2018.05.06-22.46.36:869][608]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss714228644B544617EA33A998512357BB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-22.46.36:871][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-22.46.36:876][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.46.36:930][608]LogSavePackage: Save=18.67ms
+[2018.05.06-22.46.36:930][608]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneE18D6CCB4C05DE6DF597D0BD0D32DE92.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.46.36:933][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.46.36:938][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.46.37:038][608]LogSavePackage: Save=66.87ms
+[2018.05.06-22.46.37:038][608]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwoA703991E41FD4B7FE9DA9BA3C917D021.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.46.37:041][608]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.46.37:045][608]LogBlueprint: Warning: [Compiler bpEnemyBase] [2404.53] Compile of bpEnemyBase failed. 1 Fatal Issue(s) 0 Warning(s) [in 542 ms] (/Game/Blueprints/Enemies/bpEnemyBase.bpEnemyBase)
+[2018.05.06-22.46.50:496][367]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-22.47.06:856][247]LogSlate: Window 'Create New Blueprint' being destroyed
+[2018.05.06-22.48.23:601][507]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.06-22.48.23:989][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-22.48.24:164][507]LogSavePackage: Save=61.90ms
+[2018.05.06-22.48.24:164][507]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase49557A324B8702C74E6A4998E885F5A9.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-22.48.24:168][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-22.48.24:173][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-22.48.24:223][507]LogSavePackage: Save=21.06ms
+[2018.05.06-22.48.24:223][507]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss44DEDFC94965263E653B12A12AF53328.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-22.48.24:228][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-22.48.24:235][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.48.24:281][507]LogSavePackage: Save=17.91ms
+[2018.05.06-22.48.24:281][507]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne539D96BA43E3F157DA1BF0A3A6BAC1DC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.48.24:284][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.48.24:289][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.48.24:338][507]LogSavePackage: Save=20.22ms
+[2018.05.06-22.48.24:338][507]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo2901292C45890CADAD84D98E9D259300.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.48.24:341][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.48.24:856][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-22.48.24:946][531]LogSavePackage: Save=59.10ms
+[2018.05.06-22.48.24:946][531]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase014638984FC3AD68A61C208E9AF35BBE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-22.48.24:947][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-22.48.51:957][938]LogEditorTransaction: Undo Move Node
+[2018.05.06-22.48.54:365][ 73]LogEditorTransaction: Undo Resize Node
+[2018.05.06-22.49.17:305][418]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.06-22.49.53:486][988]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.06-22.49.53:875][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-22.49.53:970][988]LogSavePackage: Save=62.87ms
+[2018.05.06-22.49.53:970][988]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase6AFF46094D203F970E82938977719C02.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-22.49.53:973][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-22.49.53:982][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-22.49.54:032][988]LogSavePackage: Save=21.02ms
+[2018.05.06-22.49.54:032][988]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss290A08A949CBC8E2867FB29C102961A3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-22.49.54:035][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-22.49.54:040][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.49.54:089][988]LogSavePackage: Save=18.08ms
+[2018.05.06-22.49.54:089][988]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne4A40B0F84269F0C20F5BD7B4F344C1DB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.49.54:092][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.49.54:098][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.49.54:148][988]LogSavePackage: Save=21.80ms
+[2018.05.06-22.49.54:148][988]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo9DB12CD142C587321E41F88B77A45DA6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.49.54:151][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.49.54:326][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-22.49.54:419][991]LogSavePackage: Save=62.66ms
+[2018.05.06-22.49.54:419][991]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase888E7CFE4EE6BE2283329EB5F7CF1CD4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-22.49.54:420][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-22.50.24:496][742]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-22.50.24:538][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.50.24:538][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-22.50.24:538][742]PIE: New page: PIE session: Main (May 6, 2018, 2:50:24 PM)
+[2018.05.06-22.50.24:538][742]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-22.50.24:540][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2018.05.06-22.50.24:541][742]LogAIModule: Creating AISystem for world Main
+[2018.05.06-22.50.24:541][742]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.05.06-22.50.24:541][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002454s)
+[2018.05.06-22.50.24:575][742]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-22.50.24:589][742]LogInit: FAudioDevice initialized.
+[2018.05.06-22.50.24:623][742]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-22.50.24:625][742]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-18.50.24
+[2018.05.06-22.50.24:625][742]LogWorld: Bringing up level for play took: 0.000803
+[2018.05.06-22.50.24:629][742]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.386
+[2018.05.06-22.50.24:630][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.50.43:010][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.50.43:059][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.50.46:215][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-22.51.26:018][293]BlueprintLog: New page: Compile bpEnemyOne
+[2018.05.06-22.51.26:297][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.51.26:343][293]LogSavePackage: Save=16.88ms
+[2018.05.06-22.51.26:344][293]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne706507914883539BF1E9B98DC8BE5170.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.51.26:349][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.51.26:843][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.51.26:893][317]LogSavePackage: Save=19.00ms
+[2018.05.06-22.51.26:893][317]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOneD3CB32A84643DC2906FFFA9469588A2F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.51.26:895][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.52.01:075][350]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.06-22.52.01:354][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.52.01:410][350]LogSavePackage: Save=19.63ms
+[2018.05.06-22.52.01:410][350]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo1FAB847B480FBB19A86A7A89A65E33BA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.52.01:415][350]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.52.01:798][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.52.01:850][367]LogSavePackage: Save=20.95ms
+[2018.05.06-22.52.01:850][367]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwoFFBA98A44BE36F497462EBA8EB8D54B2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.52.01:852][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.52.06:958][654]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-22.52.07:004][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.52.07:005][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-22.52.07:005][654]PIE: New page: PIE session: Main (May 6, 2018, 2:52:07 PM)
+[2018.05.06-22.52.07:005][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-22.52.07:009][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003214s)
+[2018.05.06-22.52.07:010][654]LogAIModule: Creating AISystem for world Main
+[2018.05.06-22.52.07:011][654]LogPlayLevel: PIE: World Init took: (0.001972s)
+[2018.05.06-22.52.07:011][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005484s)
+[2018.05.06-22.52.07:044][654]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-22.52.07:058][654]LogInit: FAudioDevice initialized.
+[2018.05.06-22.52.07:088][654]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-22.52.07:090][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-18.52.07
+[2018.05.06-22.52.07:090][654]LogWorld: Bringing up level for play took: 0.000868
+[2018.05.06-22.52.07:096][654]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.853
+[2018.05.06-22.52.07:096][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.52.35:898][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.52.35:946][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.52.36:072][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-22.52.36:104][323]LogSlate: Took 0.014070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.06-22.55.58:151][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-22.55.58:772][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-22.55.59:338][818]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-22.56.01:249][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-22.56.01:518][916]LogSavePackage: Save=163.32ms
+[2018.05.06-22.56.01:518][916]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main05C08B244EC9E63DC743A38A9DBFAFD8.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.06-22.56.01:521][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.06-22.56.01:573][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.06-22.56.01:639][916]LogSavePackage: Save=24.57ms
+[2018.05.06-22.56.01:639][916]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData6C80280D45B5022A543BCB80489FE011.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.06-22.56.01:640][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.06-22.56.52:614][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-22.57.45:703][759]BlueprintLog: New page: Compile bpEnemyOne
+[2018.05.06-22.57.45:997][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.57.46:052][759]LogSavePackage: Save=18.61ms
+[2018.05.06-22.57.46:052][759]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne960A69B14E699130F5284AAD845BACE7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.57.46:056][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.57.46:532][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-22.57.46:582][782]LogSavePackage: Save=18.64ms
+[2018.05.06-22.57.46:582][782]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne7D4DAE82444A0FF28D65D9955F0E369F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-22.57.46:583][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-22.58.02:510][670]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.06-22.58.02:781][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.58.02:845][670]LogSavePackage: Save=20.71ms
+[2018.05.06-22.58.02:846][670]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo5DEC246945FEB521319E75B88894A1BF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.58.02:850][670]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.58.03:318][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-22.58.03:373][692]LogSavePackage: Save=21.86ms
+[2018.05.06-22.58.03:373][692]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwoEEC8D5854967B62E0CBA64A062CE48AF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-22.58.03:374][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-22.58.46:938][697]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-22.58.47:347][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.58.47:441][697]LogSavePackage: Save=47.56ms
+[2018.05.06-22.58.47:441][697]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy9E8BBFA948197E7EFB76ECA60E141C1B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.58.47:444][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-22.58.47:794][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.58.47:874][712]LogSavePackage: Save=48.95ms
+[2018.05.06-22.58.47:875][712]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyA308EE0C4F88152253F6D1802598DF95.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.58.47:876][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-22.58.48:875][769]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-22.58.48:933][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.58.48:933][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-22.58.48:933][769]PIE: New page: PIE session: Main (May 6, 2018, 2:58:48 PM)
+[2018.05.06-22.58.48:934][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-22.58.48:937][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003175s)
+[2018.05.06-22.58.48:938][769]LogAIModule: Creating AISystem for world Main
+[2018.05.06-22.58.48:938][769]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2018.05.06-22.58.48:938][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004400s)
+[2018.05.06-22.58.48:969][769]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-22.58.48:983][769]LogInit: FAudioDevice initialized.
+[2018.05.06-22.58.49:023][769]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-22.58.49:025][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-18.58.49
+[2018.05.06-22.58.49:025][769]LogWorld: Bringing up level for play took: 0.000761
+[2018.05.06-22.58.49:029][769]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.786
+[2018.05.06-22.58.49:029][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.58.52:389][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.58.52:437][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.58.53:138][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-22.58.58:505][284]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-22.58.58:908][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.58.58:989][284]LogSavePackage: Save=48.45ms
+[2018.05.06-22.58.58:990][284]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy36B0DE184B83CE96AB43199F89D2660E.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.58.58:993][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-22.58.59:290][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.58.59:370][296]LogSavePackage: Save=46.66ms
+[2018.05.06-22.58.59:370][296]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyC166FCD741E319BDB347C8B4FCBC0D1F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.58.59:371][296]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-22.59.00:444][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-22.59.00:508][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.59.00:508][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-22.59.00:508][357]PIE: New page: PIE session: Main (May 6, 2018, 2:59:00 PM)
+[2018.05.06-22.59.00:508][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-22.59.00:511][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002069s)
+[2018.05.06-22.59.00:511][357]LogAIModule: Creating AISystem for world Main
+[2018.05.06-22.59.00:511][357]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.05.06-22.59.00:511][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002971s)
+[2018.05.06-22.59.00:542][357]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-22.59.00:554][357]LogInit: FAudioDevice initialized.
+[2018.05.06-22.59.00:593][357]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-22.59.00:595][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-18.59.00
+[2018.05.06-22.59.00:596][357]LogWorld: Bringing up level for play took: 0.000949
+[2018.05.06-22.59.00:599][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.356
+[2018.05.06-22.59.00:600][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.59.05:506][532]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:537][533]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:567][534]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:600][535]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:633][536]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:654][537]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:685][538]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:706][539]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:734][540]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:754][541]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:781][542]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:804][543]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:844][544]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:870][545]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:901][546]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:923][547]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.05:953][548]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_41.HUD_C_191
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-22.59.06:077][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.59.06:125][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-22.59.06:835][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-22.59.10:830][803]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-22.59.11:235][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.59.11:313][803]LogSavePackage: Save=46.58ms
+[2018.05.06-22.59.11:314][803]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyAA266860497F86A3A3F1F282B29C9954.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.59.11:317][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-22.59.11:807][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-22.59.11:886][826]LogSavePackage: Save=49.62ms
+[2018.05.06-22.59.11:886][826]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy84330F8A43EF9C2D232859B5A0C306E5.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-22.59.11:888][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.02:140][883]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.02.02:556][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.02.02:645][883]LogSavePackage: Save=54.77ms
+[2018.05.06-23.02.02:645][883]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE436954D4AC7DF22E7166C975E71C64F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.02.02:648][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.08:583][197]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-23.02.18:766][789]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.02.19:163][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.02.19:246][789]LogSavePackage: Save=53.18ms
+[2018.05.06-23.02.19:246][789]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy1BAB10DE424A500B94814DAB3E545F5F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.02.19:249][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.19:587][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.02.19:670][803]LogSavePackage: Save=52.20ms
+[2018.05.06-23.02.19:670][803]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy327A31994474060C545D00B1BEF2A963.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.02.19:672][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.45:446][293]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.02.45:853][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.02.45:938][293]LogSavePackage: Save=52.63ms
+[2018.05.06-23.02.45:938][293]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy630BA9E34D9EF174F251609E9A29AB2C.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.02.45:941][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.46:283][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.02.46:369][307]LogSavePackage: Save=55.75ms
+[2018.05.06-23.02.46:369][307]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy6202B527489DFEAD161BFDB030592882.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.02.46:370][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.02.47:201][355]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.02.47:255][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.02.47:255][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.02.47:255][355]PIE: New page: PIE session: Main (May 6, 2018, 3:02:47 PM)
+[2018.05.06-23.02.47:255][355]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.02.47:257][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001716s)
+[2018.05.06-23.02.47:258][355]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.02.47:258][355]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.05.06-23.02.47:258][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002769s)
+[2018.05.06-23.02.47:291][355]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.02.47:306][355]LogInit: FAudioDevice initialized.
+[2018.05.06-23.02.47:340][355]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.02.47:342][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.02.47
+[2018.05.06-23.02.47:342][355]LogWorld: Bringing up level for play took: 0.000870
+[2018.05.06-23.02.47:347][355]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.104
+[2018.05.06-23.02.47:348][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.02.57:186][905]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:197][906]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:218][907]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:230][908]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:252][909]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:263][910]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:284][911]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:296][912]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:314][913]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:333][914]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:352][915]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:366][916]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:384][917]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:399][918]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:424][919]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:441][920]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.57:456][921]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_42.HUD_C_192
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.02.58:217][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.02.58:268][970]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.02.58:268][970]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.02.58:371][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.02.58:373][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001692s)
+[2018.05.06-23.02.58:374][970]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.02.58:374][970]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2018.05.06-23.02.58:374][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002514s)
+[2018.05.06-23.02.58:374][970]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.02.58:376][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.02.58
+[2018.05.06-23.02.58:377][970]LogWorld: Bringing up level for play took: 0.001542
+[2018.05.06-23.02.58:382][970]LogLoad: Took 0.113261 seconds to LoadMap(/Game/Maps/UEDPIE_0_Main)
+[2018.05.06-23.03.01:016][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.03.01:069][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.03.02:134][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.03.13:490][819]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-23.03.27:710][642]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.03.28:121][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.03.28:202][642]LogSavePackage: Save=51.56ms
+[2018.05.06-23.03.28:202][642]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy953D0E144E738EDD15AEAD80BEF92CA1.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.03.28:205][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.03.28:510][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.03.28:595][654]LogSavePackage: Save=53.28ms
+[2018.05.06-23.03.28:595][654]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy5E2339CF467447D1A00FD7831DEBDD57.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.03.28:597][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.03.42:688][440]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.03.43:088][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.03.43:171][440]LogSavePackage: Save=51.22ms
+[2018.05.06-23.03.43:171][440]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyC14F31A74D4C57EDF40462B83259EC29.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.03.43:175][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.03.43:440][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.03.43:524][450]LogSavePackage: Save=52.32ms
+[2018.05.06-23.03.43:524][450]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyAD97953A4C869A953DFC659A5A9FDD76.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.03.43:525][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.03.45:026][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.03.45:213][537]LogSavePackage: Save=124.19ms
+[2018.05.06-23.03.45:213][537]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main1A7E46B24DD191C975376799615DB5B6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.06-23.03.45:216][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.06-23.03.45:258][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.06-23.03.45:313][537]LogSavePackage: Save=20.54ms
+[2018.05.06-23.03.45:313][537]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData1FAEEAD64E21C9F5C1B51EB5BE195090.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.06-23.03.45:315][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.06-23.03.45:762][564]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.03.45:821][564]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.03.45:821][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.03.45:821][564]PIE: New page: PIE session: Main (May 6, 2018, 3:03:45 PM)
+[2018.05.06-23.03.45:821][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.03.45:823][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002027s)
+[2018.05.06-23.03.45:824][564]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.03.45:825][564]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2018.05.06-23.03.45:825][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003247s)
+[2018.05.06-23.03.45:857][564]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.03.45:869][564]LogInit: FAudioDevice initialized.
+[2018.05.06-23.03.45:904][564]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.03.45:906][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.03.45
+[2018.05.06-23.03.45:906][564]LogWorld: Bringing up level for play took: 0.000981
+[2018.05.06-23.03.45:915][564]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.328
+[2018.05.06-23.03.45:915][564]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.04.18:832][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.04.18:890][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.04.19:640][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.04.49:345][100]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.04.49:709][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.04.49:794][100]LogSavePackage: Save=48.64ms
+[2018.05.06-23.04.49:794][100]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyBDD8A54C42C18971EC04A1B689C11ED4.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.04.49:797][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.04.50:137][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.04.50:222][114]LogSavePackage: Save=53.47ms
+[2018.05.06-23.04.50:222][114]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy3F309EA045434BE5C68173966E02BCA7.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.04.50:224][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.05.37:121][874]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.05.37:484][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.05.37:562][874]LogSavePackage: Save=48.68ms
+[2018.05.06-23.05.37:562][874]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy1CDD773B4624866A857F9C9619D3741F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.05.37:565][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.05.37:852][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.05.37:928][887]LogSavePackage: Save=48.55ms
+[2018.05.06-23.05.37:928][887]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy2FEF66444A5F2C66D3D5DAA2D13C8480.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.05.37:929][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.05.39:296][966]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.05.39:342][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.05.39:342][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.05.39:342][966]PIE: New page: PIE session: Main (May 6, 2018, 3:05:39 PM)
+[2018.05.06-23.05.39:342][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.05.39:344][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2018.05.06-23.05.39:345][966]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.05.39:345][966]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.05.06-23.05.39:345][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002563s)
+[2018.05.06-23.05.39:373][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.05.39:386][966]LogInit: FAudioDevice initialized.
+[2018.05.06-23.05.39:421][966]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.05.39:423][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.05.39
+[2018.05.06-23.05.39:423][966]LogWorld: Bringing up level for play took: 0.000821
+[2018.05.06-23.05.39:427][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.816
+[2018.05.06-23.05.39:427][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.06.10:162][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.06.10:209][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.06.11:433][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.07.00:249][388]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.07.00:659][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.07.00:741][388]LogSavePackage: Save=52.24ms
+[2018.05.06-23.07.00:742][388]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy394EFEEF44A26BE71C02359B08E8F2ED.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.07.00:745][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.07.01:099][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.07.01:188][404]LogSavePackage: Save=57.25ms
+[2018.05.06-23.07.01:188][404]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemy4607882E4FA7A0B8583823AFD4A1A8FC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.07.01:190][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.07.11:021][966]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.07.11:078][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.07.11:078][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.07.11:078][966]PIE: New page: PIE session: Main (May 6, 2018, 3:07:11 PM)
+[2018.05.06-23.07.11:079][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.07.11:081][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002425s)
+[2018.05.06-23.07.11:082][966]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.07.11:082][966]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.05.06-23.07.11:082][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003628s)
+[2018.05.06-23.07.11:115][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.07.11:128][966]LogInit: FAudioDevice initialized.
+[2018.05.06-23.07.11:159][966]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.07.11:161][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.07.11
+[2018.05.06-23.07.11:161][966]LogWorld: Bringing up level for play took: 0.000961
+[2018.05.06-23.07.11:166][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.922
+[2018.05.06-23.07.11:166][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.07.29:804][ 48]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:815][ 49]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:832][ 50]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:848][ 51]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:865][ 52]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:882][ 53]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:902][ 54]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:914][ 55]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:937][ 56]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:947][ 57]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:969][ 58]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.29:981][ 59]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.30:003][ 60]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.30:016][ 61]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.30:035][ 62]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.30:048][ 63]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.30:070][ 64]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_45.HUD_C_196
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.07.31:986][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.07.32:094][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.07.32:145][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.07.35:897][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.07.36:075][392]LogSavePackage: Save=124.16ms
+[2018.05.06-23.07.36:075][392]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MainDC13499241AA3CC6B46B92AC6D57C8D2.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.06-23.07.36:079][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.06-23.07.36:123][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.06-23.07.36:171][392]LogSavePackage: Save=18.64ms
+[2018.05.06-23.07.36:171][392]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData64C3B6004F44D155F0612FB37218278B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.06-23.07.36:173][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.06-23.09.22:400][538]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.09.22:429][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.09.22:429][538]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.06-23.09.22:491][538]LogPlayLevel: [PlayLevel] Compiling bpPlayer before play...
+[2018.05.06-23.09.22:954][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.06-23.09.23:117][538]LogSavePackage: Save=129.85ms
+[2018.05.06-23.09.23:117][538]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer010D23164D2A1F7E04238698E8AC1A6A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.06-23.09.23:120][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-23.09.23:153][538]LogPlayLevel: PlayLevel: Blueprint regeneration took 723 ms (1 blueprints)
+[2018.05.06-23.09.23:153][538]PIE: New page: PIE session: Main (May 6, 2018, 3:09:23 PM)
+[2018.05.06-23.09.23:153][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.09.23:155][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2018.05.06-23.09.23:156][538]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.09.23:156][538]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.05.06-23.09.23:156][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002516s)
+[2018.05.06-23.09.23:185][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.09.23:198][538]LogInit: FAudioDevice initialized.
+[2018.05.06-23.09.23:231][538]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.09.23:233][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.09.23
+[2018.05.06-23.09.23:233][538]LogWorld: Bringing up level for play took: 0.000803
+[2018.05.06-23.09.23:237][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.994
+[2018.05.06-23.09.23:237][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.09.48:551][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.09.48:614][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.10.06:083][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.06-23.11.03:500][632]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.11.03:870][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.11.03:959][632]LogSavePackage: Save=51.12ms
+[2018.05.06-23.11.03:959][632]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE6CEB97C4F5142327905AE87D8A206CF.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.11.03:962][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.11.09:421][952]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.06-23.11.32:286][307]BlueprintLog: New page: Compile bpSpawnerEnemy
+[2018.05.06-23.11.32:651][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.11.32:730][307]LogSavePackage: Save=51.15ms
+[2018.05.06-23.11.32:730][307]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyCDADB4E04E68DEA6A4D2C89A0FC23A2D.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.11.32:734][307]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.11.33:258][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpSpawnerEnemy" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset" SILENT=true
+[2018.05.06-23.11.33:336][333]LogSavePackage: Save=50.60ms
+[2018.05.06-23.11.33:336][333]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpSpawnerEnemyE3EC264041D66F49696C69BC7E81A750.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset'
+[2018.05.06-23.11.33:338][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpSpawnerEnemy.uasset
+[2018.05.06-23.11.40:720][742]BlueprintLog: New page: Compile bpPlayer
+[2018.05.06-23.11.41:361][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.06-23.11.41:518][742]LogSavePackage: Save=130.00ms
+[2018.05.06-23.11.41:518][742]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer441479694F246A624A613EBFAC9A0F49.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.06-23.11.41:522][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-23.12.12:725][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.12.13:222][ 12]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.12.13:681][ 31]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.15.23:804][231]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/Maximus Litvinov/Downloads/Epic CinematicBackground Music (No Copyright Music).mp3)
+[2018.05.06-23.15.39:442][965]LogSlate: Window 'Epic_CinematicBackground_Music__No_Copyright_Music_* - Generic Asset Editor' being destroyed
+[2018.05.06-23.15.39:455][965]LogSlate: Window 'Epic_CinematicBackground_Music__No_Copyright_Music_* - Generic Asset Editor' being destroyed
+[2018.05.06-23.15.55:237][375]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.06-23.16.25:807][587]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/Maximus Litvinov/Downloads/Epic CinematicBackground Music (No Copyright Music).mp3)
+[2018.05.06-23.16.31:823][731]LogSlate: Window 'Message' being destroyed
+[2018.05.06-23.16.32:041][731]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Maximus Litvinov/Downloads/Epic CinematicBackground Music (No Copyright Music).wav)
+[2018.05.06-23.16.33:066][784]LogAudioDerivedData: Display: Building compressed audio format OGG wave Epic_CinematicBackground_Music__No_Copyright_Music_...
+[2018.05.06-23.16.34:446][784]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_.Epic_CinematicBackground_Music__No_Copyright_Music_.
+[2018.05.06-23.17.34:755][589]BlueprintLog: New page: Compile bpGameMode
+[2018.05.06-23.17.35:099][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.06-23.17.35:213][589]LogSavePackage: Save=43.13ms
+[2018.05.06-23.17.35:213][589]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode5C04916048A76FBD2845399805D72A34.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.06-23.17.35:216][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.06-23.17.35:783][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.06-23.17.35:855][617]LogSavePackage: Save=39.66ms
+[2018.05.06-23.17.35:855][617]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeF6A92A8C49DCE56CFF30CBAF0F4EE48F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.06-23.17.35:859][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.06-23.17.37:867][732]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.17.37:929][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.17.37:929][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.17.37:929][732]PIE: New page: PIE session: Main (May 6, 2018, 3:17:37 PM)
+[2018.05.06-23.17.37:929][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.17.37:932][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2018.05.06-23.17.37:933][732]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.17.37:933][732]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.05.06-23.17.37:933][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003896s)
+[2018.05.06-23.17.37:985][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.17.38:009][732]LogInit: FAudioDevice initialized.
+[2018.05.06-23.17.38:043][732]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.17.38:044][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.17.38
+[2018.05.06-23.17.38:045][732]LogWorld: Bringing up level for play took: 0.001081
+[2018.05.06-23.17.38:049][732]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.193
+[2018.05.06-23.17.38:050][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.17.54:673][668]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:685][669]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:703][670]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:722][671]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:737][672]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:754][673]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:774][674]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:787][675]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:805][676]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:819][677]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:837][678]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:855][679]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:871][680]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:887][681]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:902][682]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:923][683]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.54:938][684]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_47.HUD_C_198
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.17.58:666][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.17.58:735][901]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.17.58:735][901]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.17.58:779][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.17.58:781][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002561s)
+[2018.05.06-23.17.58:782][901]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.17.58:782][901]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.05.06-23.17.58:782][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003556s)
+[2018.05.06-23.17.58:782][901]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.17.58:783][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.17.58
+[2018.05.06-23.17.58:784][901]LogWorld: Bringing up level for play took: 0.000721
+[2018.05.06-23.17.58:788][901]LogLoad: Took 0.052406 seconds to LoadMap(/Game/Maps/UEDPIE_0_Main)
+[2018.05.06-23.18.00:920][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.18.00:976][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.18.14:903][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.18.23:799][ 83]BlueprintLog: New page: Compile bpGameMode
+[2018.05.06-23.18.24:134][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.06-23.18.24:214][ 83]LogSavePackage: Save=43.36ms
+[2018.05.06-23.18.24:214][ 83]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameMode8F17601E488EF0BA039CDBAD55E5D0CC.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.06-23.18.24:217][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.06-23.18.24:655][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpGameMode" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset" SILENT=true
+[2018.05.06-23.18.24:729][104]LogSavePackage: Save=42.98ms
+[2018.05.06-23.18.24:729][104]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpGameModeE75348814DD85CC508BBBDB7A1583AD3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset'
+[2018.05.06-23.18.24:731][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpGameMode.uasset
+[2018.05.06-23.18.25:793][164]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.18.25:822][164]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.18.25:822][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.18.25:823][164]PIE: New page: PIE session: Main (May 6, 2018, 3:18:25 PM)
+[2018.05.06-23.18.25:823][164]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.18.25:826][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002452s)
+[2018.05.06-23.18.25:826][164]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.18.25:826][164]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.05.06-23.18.25:827][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003396s)
+[2018.05.06-23.18.25:860][164]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.18.25:875][164]LogInit: FAudioDevice initialized.
+[2018.05.06-23.18.25:907][164]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.18.25:908][164]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.18.25
+[2018.05.06-23.18.25:908][164]LogWorld: Bringing up level for play took: 0.000790
+[2018.05.06-23.18.25:914][164]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.329
+[2018.05.06-23.18.25:914][164]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.19.03:412][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.19.03:471][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.19.09:637][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.19.52:773][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.06-23.19.52:946][619]LogSavePackage: Save=133.18ms
+[2018.05.06-23.19.52:947][619]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_Auto56E2C7B894D6E21F1027F9FBDD8F89FAE.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto5.umap'
+[2018.05.06-23.19.52:949][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Maps/Main_Auto5.umap
+[2018.05.06-23.19.52:952][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.206
+[2018.05.06-23.19.52:952][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2018.05.06-23.19.52:955][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_] ([1] browsable assets)...
+[2018.05.06-23.19.52:975][619]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_.Epic_CinematicBackground_Music__No_Copyright_Music_]
+[2018.05.06-23.19.52:975][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_]
+[2018.05.06-23.19.52:996][619]LogSavePackage: Save=16.90ms
+[2018.05.06-23.19.52:996][619]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Epic_CinematicBackground_Music__20E1691D477D687DF1B11AAE7301CF86.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music__Auto5.uasset'
+[2018.05.06-23.19.52:997][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Autosaves/Game/Audio/Epic_CinematicBackground_Music__No_Copyright_Music__Auto5.uasset
+[2018.05.06-23.19.52:997][619]LogFileHelpers: Auto-saving content packages took 0.043
+[2018.05.06-23.20.02:599][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.20.02:801][734]LogSavePackage: Save=135.50ms
+[2018.05.06-23.20.02:806][734]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main0D98D8694C469BEFF62F45A3D48BC041.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap'
+[2018.05.06-23.20.02:813][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main.umap
+[2018.05.06-23.20.02:855][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.05.06-23.20.02:914][734]LogSavePackage: Save=18.41ms
+[2018.05.06-23.20.02:914][734]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Main_BuiltData0D9B230B476C9B1B22EF51A2D752409B.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset'
+[2018.05.06-23.20.02:915][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Main_BuiltData.uasset
+[2018.05.06-23.20.18:992][588]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.20.47:120][ 42]BlueprintLog: New page: Compile bpEnemyBase
+[2018.05.06-23.20.47:883][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-23.20.47:992][ 42]LogSavePackage: Save=67.93ms
+[2018.05.06-23.20.47:993][ 42]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase2CA968E7483B3D4DD78C2C97B12C8FEA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-23.20.47:996][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-23.20.48:382][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBase" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset" SILENT=true
+[2018.05.06-23.20.48:479][ 58]LogSavePackage: Save=65.08ms
+[2018.05.06-23.20.48:479][ 58]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBase2AAD3C364671857F49E425AAA7F19A94.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset'
+[2018.05.06-23.20.48:480][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBase.uasset
+[2018.05.06-23.21.24:250][108]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.06-23.21.24:546][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-23.21.24:607][108]LogSavePackage: Save=22.73ms
+[2018.05.06-23.21.24:608][108]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss5C7B416C4F10E2C7AF85FBA11B5043E0.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-23.21.24:612][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-23.21.25:215][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-23.21.25:270][140]LogSavePackage: Save=22.89ms
+[2018.05.06-23.21.25:270][140]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBoss38F2C9964847CF9244BBE18482A4D4B6.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-23.21.25:272][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-23.21.32:709][577]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.21.32:762][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.21.32:762][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.21.32:762][577]PIE: New page: PIE session: Main (May 6, 2018, 3:21:32 PM)
+[2018.05.06-23.21.32:762][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.21.32:764][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2018.05.06-23.21.32:765][577]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.21.32:765][577]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.05.06-23.21.32:765][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003059s)
+[2018.05.06-23.21.32:804][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.21.32:819][577]LogInit: FAudioDevice initialized.
+[2018.05.06-23.21.32:859][577]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.21.32:860][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.21.32
+[2018.05.06-23.21.32:860][577]LogWorld: Bringing up level for play took: 0.000794
+[2018.05.06-23.21.32:865][577]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.622
+[2018.05.06-23.21.32:866][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.21.45:223][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.21.45:273][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.21.51:744][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.21.56:438][873]LogSlate: Window 'Epic_CinematicBackground_Music__No_Copyright_Music_* - Generic Asset Editor' being destroyed
+[2018.05.06-23.22.03:895][313]LogSavePackage: Save=15.32ms
+[2018.05.06-23.22.03:895][313]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Epic_CinematicBackground_Music__E154E72C4572061F57D18191DDB989FD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_.uasset'
+[2018.05.06-23.22.03:897][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Epic_CinematicBackground_Music__No_Copyright_Music_.uasset
+[2018.05.06-23.22.06:416][461]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.22.06:456][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.22.06:457][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.22.06:457][461]PIE: New page: PIE session: Main (May 6, 2018, 3:22:06 PM)
+[2018.05.06-23.22.06:457][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.22.06:459][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001690s)
+[2018.05.06-23.22.06:459][461]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.22.06:459][461]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.05.06-23.22.06:459][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002435s)
+[2018.05.06-23.22.06:492][461]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.22.06:510][461]LogInit: FAudioDevice initialized.
+[2018.05.06-23.22.06:549][461]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.22.06:550][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.22.06
+[2018.05.06-23.22.06:550][461]LogWorld: Bringing up level for play took: 0.000770
+[2018.05.06-23.22.06:556][461]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.313
+[2018.05.06-23.22.06:556][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.22.11:785][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.22.11:842][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.22.16:727][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.22.19:512][116]LogSlate: Window 'EnemyShot - Generic Asset Editor' being destroyed
+[2018.05.06-23.22.27:835][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/EnemyShot" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/EnemyShot.uasset" SILENT=true
+[2018.05.06-23.22.27:897][495]LogSavePackage: Save=13.31ms
+[2018.05.06-23.22.27:897][495]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/EnemyShot8D8A6B6940CC0D8268114FBE1E2221FB.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/EnemyShot.uasset'
+[2018.05.06-23.22.27:906][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/EnemyShot.uasset
+[2018.05.06-23.23.42:059][891]BlueprintLog: New page: Compile bpEnemyBoss
+[2018.05.06-23.23.42:348][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyBoss" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset" SILENT=true
+[2018.05.06-23.23.42:408][891]LogSavePackage: Save=25.24ms
+[2018.05.06-23.23.42:408][891]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyBossE41DB417468F582ADA91C4AE6E84AC0F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset'
+[2018.05.06-23.23.42:412][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyBoss.uasset
+[2018.05.06-23.23.50:354][285]LogSlate: Window 'Explosion - Generic Asset Editor' being destroyed
+[2018.05.06-23.23.59:306][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Explosion" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Explosion.uasset" SILENT=true
+[2018.05.06-23.23.59:373][815]LogSavePackage: Save=15.50ms
+[2018.05.06-23.23.59:373][815]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Explosion0F703EE84F6D671C6B13D0A7BE6FEEE3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Explosion.uasset'
+[2018.05.06-23.23.59:377][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Explosion.uasset
+[2018.05.06-23.24.06:194][137]LogSlate: Window 'Shot - Generic Asset Editor' being destroyed
+[2018.05.06-23.24.12:965][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Shot" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Shot.uasset" SILENT=true
+[2018.05.06-23.24.13:020][531]LogSavePackage: Save=12.42ms
+[2018.05.06-23.24.13:020][531]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Shot533591364C5C6F7DA9B11F8C4F812E74.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Shot.uasset'
+[2018.05.06-23.24.13:023][531]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Audio/Shot.uasset
+[2018.05.06-23.24.40:595][ 83]BlueprintLog: New page: Compile bpEnemyOne
+[2018.05.06-23.24.40:888][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-23.24.40:947][ 83]LogSavePackage: Save=18.30ms
+[2018.05.06-23.24.40:947][ 83]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne463DD41F4CB4B1D559B982BE1E0D630F.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-23.24.40:953][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-23.24.41:425][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyOne" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset" SILENT=true
+[2018.05.06-23.24.41:478][108]LogSavePackage: Save=19.27ms
+[2018.05.06-23.24.41:478][108]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyOne256B2BAF4AC35882EE297F9324BEBECD.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset'
+[2018.05.06-23.24.41:479][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyOne.uasset
+[2018.05.06-23.24.55:709][940]BlueprintLog: New page: Compile bpEnemyTwo
+[2018.05.06-23.24.56:001][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/bpEnemyTwo" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset" SILENT=true
+[2018.05.06-23.24.56:143][940]LogSavePackage: Save=102.81ms
+[2018.05.06-23.24.56:143][940]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpEnemyTwo5DE6893E4DE2D99AC2395FBF180A76A3.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset'
+[2018.05.06-23.24.56:147][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Enemies/bpEnemyTwo.uasset
+[2018.05.06-23.24.56:729][973]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.24.57:221][995]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.25.46:265][656]BlueprintLog: New page: Compile bpPlayer
+[2018.05.06-23.25.47:002][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.06-23.25.47:251][656]LogSavePackage: Save=210.43ms
+[2018.05.06-23.25.47:251][656]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer5BA8E8AB493863240C2EB09E7A079128.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.06-23.25.47:254][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-23.26.03:937][607]BlueprintLog: New page: Compile bpPlayer
+[2018.05.06-23.26.04:807][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.06-23.26.04:981][609]LogSavePackage: Save=142.35ms
+[2018.05.06-23.26.04:981][609]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer6E7A5F574FCA4A0F3F0A9F9F829ECD05.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.06-23.26.04:983][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-23.26.08:044][785]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.26.08:095][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.26.08:095][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.26.08:095][785]PIE: New page: PIE session: Main (May 6, 2018, 3:26:08 PM)
+[2018.05.06-23.26.08:095][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.05.06-23.26.08:097][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001648s)
+[2018.05.06-23.26.08:097][785]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.26.08:098][785]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.05.06-23.26.08:098][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002391s)
+[2018.05.06-23.26.08:134][785]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.26.08:151][785]LogInit: FAudioDevice initialized.
+[2018.05.06-23.26.08:192][785]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.26.08:193][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.26.08
+[2018.05.06-23.26.08:194][785]LogWorld: Bringing up level for play took: 0.000730
+[2018.05.06-23.26.08:198][785]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.045
+[2018.05.06-23.26.08:199][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.26.15:798][202]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2018.05.06-23.26.25:135][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.26.25:191][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2018.05.06-23.27.41:751][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.27.43:557][181]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-23.28.07:337][544]LogAIModule: Creating AISystem for world Menu
+[2018.05.06-23.28.07:396][544]Cmd: MAP LOAD FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.06-23.28.07:396][544]LightingResults: New page: Lighting Build
+[2018.05.06-23.28.07:400][544]LoadErrors: New page: Loading map: Menu.umap
+[2018.05.06-23.28.07:401][544]MapCheck: New page: Map Check
+[2018.05.06-23.28.07:402][544]LightingResults: New page: Lighting Build
+[2018.05.06-23.28.07:439][544]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.06-23.28.07:500][544]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.06-23.28.11:076][544]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,575.089ms to complete.
+[2018.05.06-23.28.11:078][544]LogFileHelpers: Loading map 'Menu' took 3.697
+[2018.05.06-23.30.27:558][587]BlueprintLog: New page: Compile Menu
+[2018.05.06-23.30.27:813][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.30.28:031][587]LogSavePackage: Save=158.35ms
+[2018.05.06-23.30.28:031][587]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Menu480549EE41B5D026324E43BB9AE71FBA.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap'
+[2018.05.06-23.30.28:034][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap
+[2018.05.06-23.30.28:076][587]LogFileHelpers: Saving map 'Menu' took 0.343
+[2018.05.06-23.30.29:073][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.30.29:294][640]LogSavePackage: Save=166.78ms
+[2018.05.06-23.30.29:295][640]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/Menu7284E8C54B85847CA111198D81B8A387.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap'
+[2018.05.06-23.30.29:298][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap
+[2018.05.06-23.30.29:339][640]LogFileHelpers: Saving map 'Menu' took 0.337
+[2018.05.06-23.30.30:365][697]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.30.30:402][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.30:402][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.30.30:402][697]PIE: New page: PIE session: Menu (May 6, 2018, 3:30:30 PM)
+[2018.05.06-23.30.30:402][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.06-23.30.30:404][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2018.05.06-23.30.30:405][697]LogAIModule: Creating AISystem for world Menu
+[2018.05.06-23.30.30:405][697]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2018.05.06-23.30.30:405][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002800s)
+[2018.05.06-23.30.30:434][697]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.30.30:447][697]LogInit: FAudioDevice initialized.
+[2018.05.06-23.30.30:481][697]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.30.30:482][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.06-19.30.30
+[2018.05.06-23.30.30:482][697]LogWorld: Bringing up level for play took: 0.000796
+[2018.05.06-23.30.30:505][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.262
+[2018.05.06-23.30.30:505][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.31:263][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.30.31:347][740]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.30.31:347][740]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.30.31:463][740]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.30.31:463][740]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.30.31:466][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.30.31
+[2018.05.06-23.30.31:466][740]LogWorld: Bringing up level for play took: 0.002042
+[2018.05.06-23.30.31:471][740]LogLoad: Took 0.123412 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.06-23.30.32:659][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.32:703][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.38:313][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.30.38:343][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.38:343][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.30.38:344][112]PIE: New page: PIE session: Menu (May 6, 2018, 3:30:38 PM)
+[2018.05.06-23.30.38:344][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.06-23.30.38:346][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001779s)
+[2018.05.06-23.30.38:347][112]LogAIModule: Creating AISystem for world Menu
+[2018.05.06-23.30.38:347][112]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2018.05.06-23.30.38:347][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.002637s)
+[2018.05.06-23.30.38:378][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.30.38:391][112]LogInit: FAudioDevice initialized.
+[2018.05.06-23.30.38:426][112]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.30.38:428][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.06-19.30.38
+[2018.05.06-23.30.38:428][112]LogWorld: Bringing up level for play took: 0.000770
+[2018.05.06-23.30.38:432][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.189
+[2018.05.06-23.30.38:433][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.39:214][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.30.39:266][157]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.30.39:266][157]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.30.39:467][157]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.30.39:468][157]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.30.39:471][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.30.39
+[2018.05.06-23.30.39:472][157]LogWorld: Bringing up level for play took: 0.003236
+[2018.05.06-23.30.39:477][157]LogLoad: Took 0.211179 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.06-23.30.43:235][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.43:282][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.30.55:392][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.06-23.30.55:610][ 59]LogSavePackage: Save=159.79ms
+[2018.05.06-23.30.55:610][ 59]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/MenuC140017C4EB7195A873FB896E26DAE8A.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap'
+[2018.05.06-23.30.55:614][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Maps/Menu.umap
+[2018.05.06-23.32.13:698][140]BlueprintLog: New page: Compile bpPlayer
+[2018.05.06-23.32.14:339][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/bpPlayer" FILE="../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset" SILENT=true
+[2018.05.06-23.32.14:527][140]LogSavePackage: Save=149.32ms
+[2018.05.06-23.32.14:527][140]LogSavePackage: Moving '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Saved/bpPlayer53FD8E544B7ED42D6DA3C6B9BBD9B021.tmp' to '../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset'
+[2018.05.06-23.32.14:531][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Development/Udemy/UE4/SpaceShooterTemplate/Content/Blueprints/Misc/bpPlayer.uasset
+[2018.05.06-23.32.16:535][240]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.06-23.32.16:573][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.32.16:574][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.06-23.32.16:574][240]PIE: New page: PIE session: Menu (May 6, 2018, 3:32:16 PM)
+[2018.05.06-23.32.16:574][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2018.05.06-23.32.16:577][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002662s)
+[2018.05.06-23.32.16:577][240]LogAIModule: Creating AISystem for world Menu
+[2018.05.06-23.32.16:578][240]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.05.06-23.32.16:578][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003625s)
+[2018.05.06-23.32.16:621][240]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.06-23.32.16:640][240]LogInit: FAudioDevice initialized.
+[2018.05.06-23.32.16:680][240]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.32.16:681][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2018.05.06-19.32.16
+[2018.05.06-23.32.16:682][240]LogWorld: Bringing up level for play took: 0.001015
+[2018.05.06-23.32.16:691][240]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.448
+[2018.05.06-23.32.16:691][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.32.18:221][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.32.18:292][319]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.32.18:292][319]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.32.18:547][319]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.32.18:547][319]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.32.18:552][319]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.32.18
+[2018.05.06-23.32.18:553][319]LogWorld: Bringing up level for play took: 0.005573
+[2018.05.06-23.32.18:562][319]LogLoad: Took 0.269020 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.06-23.32.25:084][680]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:105][681]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:115][682]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:138][683]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:149][684]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:169][685]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:182][686]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:200][687]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:221][688]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:232][689]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:252][690]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:269][691]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:281][692]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:306][693]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:316][694]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:338][695]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.25:353][696]LogScript: Warning: Attempted to access bpPlayer_C_0 via property bpPlayer, but bpPlayer_C_0 is pending kill
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_54.HUD_C_206
+	Function /Game/Blueprints/UI/HUD.HUD_C:HealthBind:0027
+[2018.05.06-23.32.31:390][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.06-23.32.31:474][ 58]LogNet: Browse: /Game/Maps/Main
+[2018.05.06-23.32.31:474][ 58]LogLoad: LoadMap: /Game/Maps/Main
+[2018.05.06-23.32.31:671][ 58]LogAIModule: Creating AISystem for world Main
+[2018.05.06-23.32.31:671][ 58]LogLoad: Game class is 'bpGameMode_C'
+[2018.05.06-23.32.31:674][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2018.05.06-19.32.31
+[2018.05.06-23.32.31:674][ 58]LogWorld: Bringing up level for play took: 0.001930
+[2018.05.06-23.32.31:680][ 58]LogLoad: Took 0.205605 seconds to LoadMap(/Game/Maps/Main)
+[2018.05.06-23.32.34:380][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2018.05.06-23.32.34:437][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
