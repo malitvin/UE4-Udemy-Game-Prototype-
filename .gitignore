@@ -1,0 +1,5 @@
+*.exe
+BUILD/
+Saved/
+*.pdb
+Intermediate/
